@@ -17,12 +17,12 @@ title: Just the Class
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: '/cs506' # the subpath of your site, e.g. /blog
 url: 'gallettilance.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+remote_theme: just-the-docs/just-the-docs@v0.3.3-3
 color_scheme: light
 search_enabled: true
 heading_anchors: true
