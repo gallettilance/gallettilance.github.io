@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-url: 'https://gallettilance.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+title: BU CS 506
+tagline: Data Science Tools and Applications
+description: Course website for Boston University CS 506 - Data Science Tools and Applications
+author: Lance Galletti
+url: 'https://gallettilance.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -27,10 +27,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Lance Galletti:
+    - 'https://www.bu.edu/cs/profiles/galletti/'
+  GitHub:
+    - 'https://github.com/gallettilance'
 footer_content:
 
 # Collections for website data
