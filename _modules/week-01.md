@@ -4,7 +4,7 @@ title: Introduction
 
 Sep 07 
 : [Overview + Effective Programming](#) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_00.ipynb)
+  : <a download href="https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_00.ipynb">worksheet</a>
 
 Sep 12 
 : [Git](#) 
