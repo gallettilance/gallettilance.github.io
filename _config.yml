@@ -52,6 +52,7 @@ defaults:
       type: modules
     values:
       layout: module
+      subpath: '/assets/worksheets/'
 
 compress_html:
   clippings: all

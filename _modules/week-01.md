@@ -4,7 +4,7 @@ title: Introduction
 
 Sep 07 
 : [Overview + Effective Programming](#) 
-  : [worksheet](#)
+  : [worksheet](worksheet_00.ipynb)
 
 Sep 12 
 : [Git](#) 
