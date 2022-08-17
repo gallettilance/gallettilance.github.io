@@ -39,6 +39,7 @@ footer_content:
 collections:
   staffers:
   modules:
+  assignments:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -63,4 +64,3 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll_download_link
