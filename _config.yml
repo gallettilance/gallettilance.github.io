@@ -27,8 +27,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Lance Galletti:
-    - 'https://www.bu.edu/cs/profiles/galletti/'
+  Piazza:
+    - 'https://www.piazza.com'
+  GradeScope:
+    - 'https://www.gradescope.com/'
   GitHub:
     - 'https://github.com/gallettilance'
 footer_content:
@@ -37,7 +39,6 @@ footer_content:
 collections:
   staffers:
   modules:
-  schedules:
   announcements:
 # Default layouts for each collection type
 defaults:
@@ -52,11 +53,6 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
   - scope:
       path: ''
       type: announcements
