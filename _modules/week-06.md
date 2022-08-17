@@ -2,11 +2,14 @@
 title: Regression
 ---
 
-Nov 02
-: [Linear Regression](#)
+Nov 02 
+: [Linear Regression](#) 
+  : [worksheet](#)
 
-Nov 07
-: [Logistic Regression](#)
+Nov 07 
+: [Logistic Regression](#) 
+  : [worksheet](#)
 
-Nov 09
-: [Recap + Model Evaluation](#)
+Nov 09 
+: [Recap + Model Evaluation](#) 
+  : [worksheet](#)

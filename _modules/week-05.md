@@ -2,5 +2,6 @@
 title: Recommender Systems
 ---
 
-Oct 31
-: [Recommender Systems](#)
+Oct 31 
+: [Recommender Systems](#) 
+  : [worksheet](#)

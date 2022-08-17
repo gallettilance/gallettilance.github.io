@@ -2,14 +2,18 @@
 title: Introduction
 ---
 
-Sep 07
-: [Overview + Effective Programming](#)
+Sep 07 
+: [Overview + Effective Programming](#) 
+  : [worksheet](#)
 
-Sep 12
-: [Git](#)
+Sep 12 
+: [Git](#) 
+  : [worksheet](#)
 
-Sep 14
-: [Intro to Data Science + Distance & Similarity](#)
+Sep 14 
+: [Intro to Data Science](#), [Distance & Similarity](#) 
+  : [worksheet](#)
 
-Sep 19
-: [Spark Pitches](#)
+Sep 19 
+: [Spark Pitches](#) 
+  : [worksheet](#)
