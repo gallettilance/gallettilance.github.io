@@ -11,8 +11,8 @@ Nov 16
 Nov 21
 : Guest Lecture (Day in the Life of a Data Scientist)
 
-Nov 23 - Nov 27
-: THANKSGIVING BREAK{: .label .label-purple }
+Nov 23-27
+: **THANKSGIVING BREAK**{: .label .label-purple }
 
 Nov 28
 : [Advanced Neural Networks](#)
