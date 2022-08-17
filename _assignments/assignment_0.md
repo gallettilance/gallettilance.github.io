@@ -2,4 +2,5 @@
 title: Homework 0
 ---
 
-Coming Soon
+Coming Soon 
+: [Homework 0](#)
