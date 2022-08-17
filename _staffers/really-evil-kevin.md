@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
+name: Evil Lance
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: https://www.bu.edu/cs/profiles/galletti/
+photo: me.jpg
 ---
 
-I like teaching Computer Science!
+I like teaching Data Science!
