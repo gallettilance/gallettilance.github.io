@@ -8,7 +8,8 @@ Nov 02
 
 Nov 07 
 : [Logistic Regression](#) 
-  : [worksheet](#)
+  : [worksheet](#) 
+: **HWK 5 due**{: .label .label-yellow }
 
 Nov 09 
 : [Recap + Model Evaluation](#) 

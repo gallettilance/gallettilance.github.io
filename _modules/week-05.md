@@ -4,4 +4,5 @@ title: Recommender Systems
 
 Oct 31 
 : [Recommender Systems](#) 
-  : [worksheet](#)
+  : [worksheet](#) 
+**MIDTERM END**{: .label .label-yellow }

@@ -8,7 +8,8 @@ Nov 30
 
 Dec 05 
 : [Why Data Privacy Matters](#) 
-  : [worksheet](#)
+  : [worksheet](#) 
+: **HWK 6 due**{: .label .label-yellow }
 
 Dec 07 
 : [EXTRA TOPICS](#) 

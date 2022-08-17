@@ -7,4 +7,5 @@ Oct 10
 
 Oct 11 
 : **MONDAY SCHEDULE**{: .label .label-red } [Singular Value Decomposition](#) 
-  : [worksheet](#)
+  : [worksheet](#) 
+: **HWK 2 due**{: .label .label-yellow }

@@ -2,7 +2,7 @@
 layout: home
 title: CS 506
 nav_exclude: true
-permalink: index.html
+permalink: about.md
 seo:
   type: Course
   name: Data Science Tools and Applications

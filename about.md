@@ -5,9 +5,6 @@ description: >-
     Course policies and information.
 ---
 
-# About
-{:.no_toc}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -18,16 +15,76 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+The goal of this course is to provide students a hands-on understanding of classical data analysis techniques and to develop proficiency in applying these techniques in modern programming languages (Python) while also learning about the social and ethical challenges of collecting and mining data by studying real world examples.
 
-## Lecture
+The course introduces students to a wide range of techniques that are commonly used in the analysis of data, such as clustering, classification, regression, and network analysis. Broadly speaking, the course breaks down into three main components, which we will take in order of increasing complication: (a) unsupervised methods; (b) supervised methods; and (c) methods for structured data.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Lectures will present the fundamentals of each technique and aim to help students understand the practical settings in which these theoretical/analytical methods are useful. In class, we will also study use cases and go over relevant Python packages that will enable students to perform hands-on experiments with their data. Class discussion will, for the most part, be extended office hours, review, or extra coding exercises. However, this is not a Python course, so self-study will be necessary for those students who do not already know the language.
 
-## Resources
+### Prerequisites
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
 
-## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+## Workload
+
+There will be 7 homework assignments, 1 take-home midterm exam, and 1 final project (no final exam)
+
+### Homeworks
+
+The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Clarifying questions (in class or on Piazza) are encouraged or make reasonable assumptions and justify your decisions.
+
+#### Late Policy
+
+Late homeworks will not be accepted. The lowest homework grade will be dropped at the end of the semester.
+
+#### Collaboration
+
+You may discuss questions but you must submit individual code. You must list your collaborators in the homework.
+
+### Midterm
+
+The midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and a report detailing the methods used and decisions made. 80% of the grade will be based on the report and 20% will be based on the competition score related to the quality of the predictions made.
+
+### Final Project
+
+Teams can have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
+
+BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their website: https://www.bu.edu/spark/ 
+
+Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers.
+
+## Grading
+
+|      Grading      |
+|-------------------|
+| 20% midterm       |
+| 40% assignments   |
+| 40% final project |
+| 5% extra credit   |
+
+| Letter | Grades |
+|----|------------|
+| A  |  95% +     |
+| A- |  90% - 95% |
+| B+ |  87% - 90% |
+| B  |  83% - 87% |
+| B- |  80% - 83% |
+| C+ |  77% - 80% |
+| C  |  73% - 70% |
+| C- |  70% - 73% |
+| D  |  60% - 70% |
+| F  |  below 60% |
+
+### Extra Credit
+
+Extra credit can be earned by **consistently**:
+
+- Submitting weekly project notes / updates to your final project repository on GitHub.
+- Asking and answering questions on Piazza.
+- Submitting PRs to our class repository with code or class notes.
+- Contributing to our class repository by fixing typos, providing clarification edits etc.
+
+### Re-Grades
+
+If you notice an issue with a grade you’ve received, you must email your TA within 48h of receiving this grade. Anything beyond 48h will not be accepted for a re-grade.
