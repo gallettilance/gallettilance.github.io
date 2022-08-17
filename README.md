@@ -28,28 +28,23 @@ Lectures will present the fundamentals of each technique and aim to help student
 
 Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
 
-
-## Workload
-
-There will be 7 homework assignments, 1 take-home midterm exam, and 1 final project (no final exam)
-
-### Homeworks
+## Homeworks
 
 The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Clarifying questions (in class or on Piazza) are encouraged or make reasonable assumptions and justify your decisions.
 
-#### Late Policy
+### Late Policy
 
 Late homeworks will not be accepted. The lowest homework grade will be dropped at the end of the semester.
 
-#### Collaboration
+### Collaboration
 
 You may discuss questions but you must submit individual code. You must list your collaborators in the homework.
 
-### Midterm
+## Midterm
 
 The midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and a report detailing the methods used and decisions made. 80% of the grade will be based on the report and 20% will be based on the competition score related to the quality of the predictions made.
 
-### Final Project
+## Final Project
 
 Teams can have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
 
