@@ -9,7 +9,7 @@ Sep 21
 Sep 26 
 : [Hierarchical Clustering](#) 
   : [worksheet](#) 
-: **HWK 1 due**{: .label .label-yellow }
+    : **HWK 1 due**{: .label .label-yellow }
 
 Sep 28 
 : [Density Based Clustering](#) 

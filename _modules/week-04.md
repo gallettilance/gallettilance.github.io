@@ -9,7 +9,7 @@ Oct 12
 Oct 17 
 : [Decision Trees](#) 
   : [worksheet](#) 
-: **HWK 3 due**{: .label .label-yellow }
+    : **HWK 3 due**{: .label .label-yellow }
 
 Oct 19 
 : [Naive Bayes](#), [Model Evaluation](#) 
@@ -18,9 +18,9 @@ Oct 19
 Oct 24 
 : [SVM](#), [Bagging & Boosting](#) 
   : [worksheet](#) 
-: **HWK 4 due**{: .label .label-yellow }
+    : **HWK 4 due**{: .label .label-yellow }
 
 Oct 26 
 : [Midterm Help](#) 
   : [worksheet](#) 
-: **MIDTERM START**{: .label .label-yellow }
+    : **MIDTERM START**{: .label .label-yellow }
