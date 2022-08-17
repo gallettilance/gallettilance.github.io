@@ -61,7 +61,7 @@ Spark! projects are a great opportunity for students to get real-world project e
 | 40% final project |
 | 5% extra credit   |
 
-| Letter | Grades |
+| Letter | Grade  |
 |----|------------|
 | A  |  95% +     |
 | A- |  90% - 95% |
