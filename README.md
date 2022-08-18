@@ -8,6 +8,8 @@ seo:
   name: Data Science Tools and Applications
 ---
 
+# Data Science Tools and Applications
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -15,6 +17,15 @@ seo:
 {:toc}
 
 ---
+
+## Getting Started Checklist
+
+1. Join [Piazza](https://piazza.com/bu/fall2022/cs506)
+2. Create a [GitHub](https://github.com/) account
+3. Create a [Kaggle](https://www.kaggle.com/) account
+4. Fill out [this form](https://forms.gle/AJBhELka14MjnNwv8) with your GitHub and Kaggle account username
+5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
+6. Sign up for [GradeScope](https://www.gradescope.com/courses/420507) (code: 2KP6YP)
 
 ## About
 
@@ -46,7 +57,9 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Final Project
 
-Teams can have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
+Please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4) on how to effectively work on a team in this course.
+
+Teams will have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
 
 BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their website: https://www.bu.edu/spark/ 
 

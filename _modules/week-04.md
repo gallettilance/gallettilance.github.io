@@ -22,5 +22,5 @@ Oct 24
 
 Oct 26 
 : [Midterm Help](#) 
-  : [worksheet](#) 
+  :  
     : **MIDTERM START**{: .label .label-yellow }
