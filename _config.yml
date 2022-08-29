@@ -40,6 +40,7 @@ collections:
   staffers:
   modules:
   assignments:
+  faq:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -56,6 +57,11 @@ defaults:
   - scope:
       path: ''
       type: assignments
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: faq
     values:
       layout: module
 
