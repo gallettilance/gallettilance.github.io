@@ -18,6 +18,7 @@ Sep 28
 Oct 03 
 : [Probability Review](#) 
   : [worksheet](#)
+    : **Deliverable 0**{: .label .label-orange}
 
 Oct 05 
 : [Soft Clustering + Clustering Aggregation](#) 

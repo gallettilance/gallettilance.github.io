@@ -5,6 +5,7 @@ title: Other Topics
 Nov 30 
 : [Networks & Graphs](#) 
   : [worksheet](#)
+    : **Deliverable 4**{: .label .label-orange}
 
 Dec 05 
 : [Why Data Privacy Matters](#) 
@@ -18,3 +19,4 @@ Dec 07
 Dec 12 
 : [EXTRA TOPICS](#) 
   : [worksheet](#)
+    : **Final Project due**{: .label .label-orange}

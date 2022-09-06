@@ -5,6 +5,7 @@ title: Classification
 Oct 12 
 : [Learning from data](#), [Overfitting & Underfitting](#), [KNN](#) 
   : [worksheet](#)
+    : **Deliverable 1**{: .label .label-orange}
 
 Oct 17 
 : [Decision Trees](#) 

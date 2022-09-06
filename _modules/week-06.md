@@ -14,3 +14,4 @@ Nov 07
 Nov 09 
 : [Recap + Model Evaluation](#) 
   : [worksheet](#)
+    : **Deliverable 2**{: .label .label-orange}
