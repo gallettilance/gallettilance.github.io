@@ -17,4 +17,4 @@ Sep 14
 Sep 19 
 : [Spark Pitches](#) 
   : ---------
-    : **HWK 0 due**{: .label .label-green }
+    : **HWK 0 due**{: .label .label-yellow }

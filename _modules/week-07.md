@@ -9,7 +9,7 @@ Nov 14
 Nov 16 
 : [Fundamentals of Neural Networks](#) 
   : [worksheet](#)
-    : **Deliverable 3**{: .label .label-orange}
+    : **Deliverable 3**{: .label .label-green}
 
 Nov 21 
 : Guest Lecture (Day in the Life of a Data Scientist)
