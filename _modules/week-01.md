@@ -3,7 +3,7 @@ title: Introduction
 ---
 
 Sep 07 
-: [Overview + Effective Programming](#) 
+: [Overview + Effective Programming](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/00_Clean_Code.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_00.ipynb){: .btn .btn-outline }
 
 Sep 12 
