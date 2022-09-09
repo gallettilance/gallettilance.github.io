@@ -8,7 +8,7 @@ Sep 07
 
 Sep 12 
 : [Git](#) 
-  : [worksheet](#)
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_01.ipynb){: .btn .btn-outline }
 
 Sep 14 
 : [Intro to Data Science](#), [Distance & Similarity](#) 
