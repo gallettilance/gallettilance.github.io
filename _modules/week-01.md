@@ -7,7 +7,7 @@ Sep 07
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_00.ipynb){: .btn .btn-outline }
 
 Sep 12 
-: [Git](#) 
+: [Git](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/01_Git.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_01.ipynb){: .btn .btn-outline }
 
 Sep 14 
