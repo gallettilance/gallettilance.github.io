@@ -3,7 +3,7 @@ title: Introduction
 ---
 
 Sep 07 
-: [Overview + Effective Programming](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/00_Clean_Code.pdf) 
+: Overview + [Effective Programming](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/00_Clean_Code.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_00.ipynb){: .btn .btn-outline }
 
 Sep 12 
@@ -11,7 +11,7 @@ Sep 12
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_01.ipynb){: .btn .btn-outline }
 
 Sep 14 
-: [Intro to Data Science](#), [Distance & Similarity](#) 
+: Effective Programming 2 + [Intro to DS](#) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_02.ipynb){: .btn .btn-outline }
 
 Sep 19 
