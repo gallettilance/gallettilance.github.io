@@ -3,23 +3,37 @@ title: Clustering
 ---
 
 Sep 21 
-: [K-means](#) 
+: [Distance & Similarity](#) 
   : [worksheet](#)
 
+Sep 22
+: **Spark Form due**{: .label .label-green}
+
 Sep 26 
-: [Hierarchical Clustering](#) 
+: [K-means](#) 
   : [worksheet](#) 
     : **HWK 1 due**{: .label .label-yellow }
 
+Sep 27
+: **Spark Project Kickoff**{: .label .label-green}
+
 Sep 28 
-: [Density Based Clustering](#) 
+: [Hierarchical Clustering](#) 
   : [worksheet](#)
 
 Oct 03 
-: [Probability Review](#) 
+: [Density Based Clustering](#) 
   : [worksheet](#)
     : **Deliverable 0**{: .label .label-green}
 
 Oct 05 
-: [Soft Clustering + Clustering Aggregation](#) 
+: [Probability Review](#) 
   : [worksheet](#)
+
+Oct 10 
+: **NO CLASS**{: .label .label-red } 
+
+Oct 11 
+: **MONDAY SCHEDULE**{: .label .label-red } 
+  : [Soft Clustering + Clustering Aggregation](#)
+    : **HWK 2 due**{: .label .label-yellow }
