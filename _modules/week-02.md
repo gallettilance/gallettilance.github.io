@@ -34,6 +34,5 @@ Oct 10
 : **NO CLASS**{: .label .label-red } 
 
 Oct 11 
-: **MONDAY SCHEDULE**{: .label .label-red } 
-  : [Soft Clustering + Clustering Aggregation](#) 
+: **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering + Clustering Aggregation](#) 
     : **HWK 2 due**{: .label .label-yellow } 
