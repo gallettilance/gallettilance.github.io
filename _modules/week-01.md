@@ -11,7 +11,7 @@ Sep 12
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_01.ipynb){: .btn .btn-outline }
 
 Sep 14 
-: Effective Programming 2 + [Intro to DS](#) 
+: Effective Programming 2 + [Intro to DS](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/02_Introduction.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_02.ipynb){: .btn .btn-outline }
 
 Sep 19 
