@@ -3,8 +3,8 @@ title: Clustering
 ---
 
 Sep 21 
-: [Distance & Similarity](#) 
-  : [worksheet](#)
+: [Intro to DS](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/02_Introduction.pdf) + [Distance & Similarity](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_03.ipynb){: .btn .btn-outline }
 
 Sep 22
 : **Spark Form due**{: .label .label-green}
