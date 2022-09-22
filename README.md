@@ -82,7 +82,7 @@ For complete details on BU Spark! projects please read [the following guide](htt
 | B  |  83% - 87% |
 | B- |  80% - 83% |
 | C+ |  77% - 80% |
-| C  |  73% - 70% |
+| C  |  73% - 77% |
 | C- |  70% - 73% |
 | D  |  60% - 70% |
 | F  |  below 60% |
