@@ -11,7 +11,7 @@ Sep 22
 
 Sep 26 
 : [K-means](#) 
-  : [worksheet](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_04.ipynb){: .btn .btn-outline } 
     : **HWK 1 due**{: .label .label-yellow }
 
 Sep 27
