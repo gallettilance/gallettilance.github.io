@@ -10,7 +10,7 @@ Sep 22
 : **Spark Form due**{: .label .label-green}
 
 Sep 26 
-: [K-means](#) 
+: [K-means](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/04_Clustering_Kmeans.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_04.ipynb){: .btn .btn-outline } 
     : **HWK 1 due**{: .label .label-yellow }
 
