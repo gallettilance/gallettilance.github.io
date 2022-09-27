@@ -19,7 +19,7 @@ Sep 27
 
 Sep 28 
 : [Hierarchical Clustering](#) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_05.ipynb)
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_05.ipynb){: .btn .btn-outline } 
 
 Oct 03 
 : [Density Based Clustering](#) 
