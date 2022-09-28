@@ -57,13 +57,13 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Final Project
 
-Please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4) on how to effectively work on a team in this course.
-
-Teams will have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
-
 BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their website: https://www.bu.edu/spark/ 
 
 Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers.
+
+Teams will have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
+
+For complete details on BU Spark! projects please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4).
 
 ## Grading
 
@@ -82,7 +82,7 @@ Spark! projects are a great opportunity for students to get real-world project e
 | B  |  83% - 87% |
 | B- |  80% - 83% |
 | C+ |  77% - 80% |
-| C  |  73% - 70% |
+| C  |  73% - 77% |
 | C- |  70% - 73% |
 | D  |  60% - 70% |
 | F  |  below 60% |
@@ -91,10 +91,11 @@ Spark! projects are a great opportunity for students to get real-world project e
 
 Extra credit can be earned by **consistently**:
 
-- Submitting weekly project notes / updates to your final project repository on GitHub.
+- Attending class.
+- Submitting completed worksheets.
 - Asking and answering questions on Piazza.
 - Submitting PRs to our class repository with code or class notes.
-- Contributing to our class repository by fixing typos, providing clarification edits etc.
+- Contributing to our class repository or course website (by fixing typos, providing clarification edits etc.)
 
 ### Re-Grades
 

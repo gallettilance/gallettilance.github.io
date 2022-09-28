@@ -5,4 +5,4 @@ email: dayong@bu.edu
 photo: DayongWu.jpeg
 ---
 
-Office Hours: Tue 2:30-3:30PM Location: TBD (Prefer CAS)
+Office Hours: Fri 11:00-12:00PM Location: MCS B21

@@ -2,7 +2,9 @@
 title: Recommender Systems
 ---
 
-Oct 31 
+Nov 02 
 : [Recommender Systems](#) 
   : [worksheet](#) 
-    : **MIDTERM END**{: .label .label-yellow }
+
+Nov 04
+: **MIDTERM END**{: .label .label-yellow }

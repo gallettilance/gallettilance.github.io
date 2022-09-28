@@ -2,25 +2,25 @@
 title: Classification
 ---
 
-Oct 12 
-: [Learning from data](#), [Overfitting & Underfitting](#), [KNN](#) 
-  : [worksheet](#)
-
 Oct 17 
-: [Decision Trees](#) 
-  : [worksheet](#) 
+: [Learning from data](#), [KNN](#) 
+  : [worksheet](#)
     : **HWK 3 due**{: .label .label-yellow }
 
 Oct 19 
-: [Naive Bayes](#), [Model Evaluation](#) 
-  : [worksheet](#)
+: [Decision Trees](#) 
+  : [worksheet](#) 
 
 Oct 24 
-: [SVM](#), [Bagging & Boosting](#) 
-  : [worksheet](#) 
+: [Naive Bayes](#), [Model Evaluation](#) 
+  : [worksheet](#)
     : **HWK 4 due**{: .label .label-yellow }
 
 Oct 26 
+: [SVM](#), [Bagging & Boosting](#) 
+  : [worksheet](#) 
+
+Oct 31 
 : [Midterm Help](#) 
-  :  
+  : 
     : **MIDTERM START**{: .label .label-yellow }
