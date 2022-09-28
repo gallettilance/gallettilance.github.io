@@ -18,7 +18,7 @@ Sep 27
 : **Spark Project Kickoff**{: .label .label-green}
 
 Sep 28 
-: [Hierarchical Clustering](#) 
+: [Hierarchical Clustering](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/05_Hierarchical_Clustering.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_05.ipynb){: .btn .btn-outline } 
 
 Oct 03 
