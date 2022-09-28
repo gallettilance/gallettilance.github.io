@@ -17,4 +17,3 @@ Nov 12
 Nov 14 
 : [Recap + Model Evaluation](#) 
   : [worksheet](#)
-    : **HWK 5 due**{: .label .label-yellow }

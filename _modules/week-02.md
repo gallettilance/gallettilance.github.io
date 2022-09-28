@@ -10,16 +10,16 @@ Sep 22
 : **Spark Form due**{: .label .label-green}
 
 Sep 26 
-: [K-means](#) 
-  : [worksheet](#) 
+: [K-means](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/04_Clustering_Kmeans.pdf) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_04.ipynb){: .btn .btn-outline } 
     : **HWK 1 due**{: .label .label-yellow }
 
 Sep 27
 : **Spark Project Kickoff**{: .label .label-green}
 
 Sep 28 
-: [Hierarchical Clustering](#) 
-  : [worksheet](#)
+: [Hierarchical Clustering](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/05_Hierarchical_Clustering.pdf) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_05.ipynb){: .btn .btn-outline } 
 
 Oct 03 
 : [Density Based Clustering](#) 
@@ -36,4 +36,3 @@ Oct 10
 Oct 11 
 : **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering + Clustering Aggregation](#) 
   : [worksheet](#) 
-    : **HWK 2 due**{: .label .label-yellow } 

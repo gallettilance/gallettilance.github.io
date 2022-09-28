@@ -5,7 +5,10 @@ title: Neural Networks
 Nov 16 
 : [Gradient Descent](#) 
   : [worksheet](#)
-    : **Deliverable 3**{: .label .label-green}
+    **HWK 5 due**{: .label .label-yellow }
+
+Nov 18
+: **Deliverable 3**{: .label .label-green} 
 
 Nov 21 
 : [Fundamentals of Neural Networks](#) 
