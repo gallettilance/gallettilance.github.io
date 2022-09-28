@@ -15,6 +15,6 @@ Sep 14
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_02.ipynb){: .btn .btn-outline }
 
 Sep 19 
-: [Spark Pitches](#) 
+: Spark Pitches 
   : 
     : **HWK 0 due**{: .label .label-yellow }
