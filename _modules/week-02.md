@@ -27,12 +27,5 @@ Oct 03
     : **Deliverable 0**{: .label .label-green}
 
 Oct 05 
-: [Probability Review](#) 
+: [Soft Clustering](#), [Clustering Aggregation](#) 
   : [worksheet](#)
-
-Oct 10 
-: **NO CLASS**{: .label .label-red } 
-
-Oct 11 
-: **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering + Clustering Aggregation](#) 
-  : [worksheet](#) 

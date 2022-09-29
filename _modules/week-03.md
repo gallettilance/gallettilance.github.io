@@ -2,10 +2,9 @@
 title: Singular Value Decomposition
 ---
 
-Oct 12 
-: [Singular Value Decomposition](#) 
-  : [worksheet](#) 
-    **HWK 2 due**{: .label .label-yellow } 
+Oct 10 
+: **NO CLASS**{: .label .label-red } 
 
-Oct 14
-: **Deliverable 1**{: .label .label-green} 
+Oct 11 
+: **MONDAY SCHEDULE**{: .label .label-red } [Singular Value Decomposition](#) 
+  : [worksheet](#) 
