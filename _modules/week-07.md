@@ -8,8 +8,8 @@ Nov 14
 
 Nov 16 
 : [Fundamentals of Neural Networks](#) 
-  : [worksheet](#)
-    **HWK 5 due**{: .label .label-yellow }
+  : [worksheet](#) 
+    : **HWK 5 due**{: .label .label-yellow } 
 
 Nov 18
 : **Deliverable 3**{: .label .label-green} 
