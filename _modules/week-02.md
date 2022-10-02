@@ -23,9 +23,9 @@ Sep 28
 
 Oct 03 
 : [Density Based Clustering](#) 
-  : [worksheet](#)
-    : **Deliverable 0**{: .label .label-green}
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_06.ipynb) 
 
 Oct 05 
 : [Soft Clustering](#), [Clustering Aggregation](#) 
   : [worksheet](#)
+    : **Deliverable 0**{: .label .label-green} 
