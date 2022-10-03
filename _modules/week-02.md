@@ -22,7 +22,7 @@ Sep 28
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_05.ipynb){: .btn .btn-outline } 
 
 Oct 03 
-: [Density Based Clustering](#) 
+: [Density Based Clustering](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/06_Density_Based_Clustering.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_06.ipynb){: .btn .btn-outline } 
 
 Oct 05 
