@@ -27,5 +27,5 @@ Oct 03
 
 Oct 05 
 : [Soft Clustering](#), [Clustering Aggregation](#) 
-  : [worksheet](#)
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_07.ipynb){: .btn .btn-outline } 
     : **Deliverable 0**{: .label .label-green} 
