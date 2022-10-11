@@ -7,4 +7,4 @@ Oct 10
 
 Oct 11 
 : **MONDAY SCHEDULE**{: .label .label-red } [Singular Value Decomposition](#) 
-  : [worksheet](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_08.ipynb) 
