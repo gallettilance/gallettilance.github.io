@@ -3,8 +3,8 @@ title: Classification
 ---
 
 Oct 12 
-: [Learning from data](#), [KNN](#) 
-  : [worksheet](#) 
+: [Intro to Classification](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_09.ipynb){: .btn .btn-outline } 
     : **HWK 2 due**{: .label .label-yellow } 
 
 Oct 14
