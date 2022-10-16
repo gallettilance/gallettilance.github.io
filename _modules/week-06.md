@@ -6,13 +6,10 @@ Nov 02
 : [Linear Regression](#) 
   : [worksheet](#) 
 
-Nov 04
-: **MIDTERM END**{: .label .label-yellow }
-
 Nov 07 
 : Midterm Review + [Logistic Regression](#) 
   : [worksheet](#)
-    : **Deliverable 2**{: .label .label-green}
+    : **MIDTERM END**{: .label .label-yellow } 
 
 Nov 09 
 : [Recap + Model Evaluation](#) 
