@@ -19,8 +19,8 @@ Oct 19
     : **HWK 3 due**{: .label .label-yellow } 
 
 Oct 24 
-:  [Naive Bayes](#), [Model Evaluation](#) 
-  : [worksheet](#)
+: [Naive Bayes](#), [Model Evaluation](#) 
+  : [worksheet](#) 
 
 Oct 26 
 : [SVM](#), [Bagging & Boosting](#)
