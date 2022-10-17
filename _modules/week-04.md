@@ -24,4 +24,5 @@ Oct 24
 
 Oct 26 
 : [SVM](#), [Bagging & Boosting](#)
-  : [worksheet](#)
+  : [worksheet](#) 
+    : **HWK 4 due**{: .label .label-yellow } 
