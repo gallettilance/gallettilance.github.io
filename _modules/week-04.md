@@ -14,8 +14,8 @@ Oct 17
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_09.ipynb){: .btn .btn-outline } 
 
 Oct 19 
-: [Decision Trees](#) 
-  : [worksheet](#) 
+: [Decision Trees](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/11_Decision_Trees.pdf) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_10.ipynb){: .btn .btn-outline } 
     : **HWK 3 due**{: .label .label-yellow } 
 
 Oct 24 
