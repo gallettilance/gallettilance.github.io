@@ -20,7 +20,7 @@ Oct 19
 
 Oct 24 
 : [Naive Bayes](#), [Model Evaluation](#) 
-  : [worksheet](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_11.ipynb){: .btn .btn-outline } 
 
 Oct 26 
 : [SVM](#), [Bagging & Boosting](#)
