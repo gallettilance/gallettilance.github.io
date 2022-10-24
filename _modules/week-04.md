@@ -19,10 +19,10 @@ Oct 19
     : **HWK 3 due**{: .label .label-yellow } 
 
 Oct 24 
-: [Naive Bayes](#), [Model Evaluation](#) 
+: [Naive Bayes](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/12_Naive_Bayes.pdf), [Model Evaluation](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/13_Model_Evaluation_and_Ensemble_Methods.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_11.ipynb){: .btn .btn-outline } 
 
 Oct 26 
-: [SVM](#), [Bagging & Boosting](#)
+: [Support Vector Machines](#) 
   : [worksheet](#) 
     : **HWK 4 due**{: .label .label-yellow } 
