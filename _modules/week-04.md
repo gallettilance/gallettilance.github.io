@@ -24,5 +24,5 @@ Oct 24
 
 Oct 26 
 : [Support Vector Machines](#) 
-  : [worksheet](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_12.ipynb){: .btn .btn-outline }  
     : **HWK 4 due**{: .label .label-yellow } 
