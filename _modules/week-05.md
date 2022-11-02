@@ -9,4 +9,4 @@ Oct 31
 
 Nov 02 
 : SVM cont'd + [Recommender Systems](#) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_13.ipynb) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_13.ipynb){: .btn .btn-outline } 
