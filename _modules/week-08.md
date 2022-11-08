@@ -2,9 +2,6 @@
 title: Other Topics
 ---
 
-Nov 30 
-: Guest Lecture (Day in the Life of a Data Scientist)
-
 Dec 05 
 : [Networks & Graphs](#) 
   : [worksheet](#)

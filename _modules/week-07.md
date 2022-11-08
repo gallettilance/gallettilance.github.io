@@ -2,21 +2,18 @@
 title: Neural Networks
 ---
 
-Nov 16 
+Nov 21 
 : [Gradient Descent](#) 
   : [worksheet](#) 
-
-Nov 18
-: **Deliverable 3**{: .label .label-green} 
-
-Nov 21 
-: [Fundamentals of Neural Networks](#) 
-  : [worksheet](#) 
-    : **HWK 5 due**{: .label .label-yellow } 
+    : **HWK 5 due**{: .label .label-yellow }
 
 Nov 23-27 
 : **THANKSGIVING BREAK**{: .label .label-purple }
 
-Nov 28 
+Nov 28  
+: [Fundamentals of Neural Networks](#) 
+  : [worksheet](#) 
+
+Nov 30 
 : [Advanced Neural Networks](#) 
   : [worksheet](#) 

@@ -15,5 +15,11 @@ Nov 12
 : **Deliverable 2**{: .label .label-green}
 
 Nov 14 
+: Guest Lecture: The Ethics of Location Data 
+
+Nov 16 
 : [Recap + Model Evaluation](#) 
   : [worksheet](#) 
+
+Nov 18
+: **Deliverable 3**{: .label .label-green} 
