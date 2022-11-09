@@ -3,7 +3,7 @@ title: Regression
 ---
 
 Nov 07 
-: [Linear Regression](#) 
+: [Linear Regression](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/16_Linear_Regression.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_14.ipynb){: .btn .btn-outline }  
     : **MIDTERM END**{: .label .label-yellow } 
 
