@@ -9,7 +9,7 @@ Nov 07
 
 Nov 09 
 : Midterm Review + [Logistic Regression](#) 
-  : [worksheet](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_15.ipynb){: .btn .btn-outline } 
 
 Nov 12
 : **Deliverable 2**{: .label .label-green}
