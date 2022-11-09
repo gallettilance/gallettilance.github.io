@@ -8,7 +8,7 @@ Nov 07
     : **MIDTERM END**{: .label .label-yellow } 
 
 Nov 09 
-: Midterm Review + [Logistic Regression](#) 
+: Midterm Review + [Logistic Regression](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/17_Logistic_Regression.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_15.ipynb){: .btn .btn-outline } 
 
 Nov 12
