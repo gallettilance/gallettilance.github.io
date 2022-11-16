@@ -18,8 +18,13 @@ Nov 14
 : Guest Lecture: The Ethics of Location Data 
 
 Nov 16 
+: [Gradient Descent](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_16.ipynb){: .btn .btn-outline } 
+
+Nov 21 
 : [Recap + Model Evaluation](#) 
   : [worksheet](#) 
+    : **HWK 5 due**{: .label .label-yellow }
 
-Nov 18
+Nov 22 
 : **Deliverable 3**{: .label .label-green} 
