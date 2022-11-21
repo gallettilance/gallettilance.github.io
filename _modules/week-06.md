@@ -22,8 +22,8 @@ Nov 16
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_16.ipynb){: .btn .btn-outline } 
 
 Nov 21 
-: [Recap + Model Evaluation](#) 
-  : [worksheet](#) 
+: [Linear Model Evaluation](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_17.ipynb){: .btn .btn-outline } 
     : **HWK 5 due**{: .label .label-yellow }
 
 Nov 22 
