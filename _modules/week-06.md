@@ -18,11 +18,11 @@ Nov 14
 : Guest Lecture: The Ethics of Location Data 
 
 Nov 16 
-: [Gradient Descent](#) 
+: [Gradient Descent](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/18_Gradient_Descent.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_16.ipynb){: .btn .btn-outline } 
 
 Nov 21 
-: [Linear Model Evaluation](#) 
+: [Linear Model Evaluation](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/19_Linear_Model_Evaluation.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_17.ipynb){: .btn .btn-outline } 
     : **HWK 5 due**{: .label .label-yellow }
 
