@@ -7,7 +7,7 @@ Nov 23-27
 
 Nov 28  
 : [Fundamentals of Neural Networks](#) 
-  : [worksheet](#) 
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_18.ipynb){: .btn .btn-outline } 
 
 Nov 30 
 : [Advanced Neural Networks](#) 
