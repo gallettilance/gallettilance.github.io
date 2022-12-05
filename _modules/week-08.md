@@ -4,7 +4,7 @@ title: Other Topics
 
 Dec 05 
 : [Networks & Graphs](#) 
-  : [worksheet](#)
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_20.ipynb){: .btn .btn-outline } 
     : **Deliverable 4**{: .label .label-green}
 
 Dec 07 
