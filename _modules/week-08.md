@@ -3,7 +3,7 @@ title: Other Topics
 ---
 
 Dec 05 
-: [Networks & Graphs](#) 
+: [Networks & Graphs](https://github.com/gallettilance/CS506-Fall2022/raw/master/slides/21_Network_Analysis.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Fall2022/master/worksheets/worksheet_20.ipynb){: .btn .btn-outline } 
     : **Deliverable 4**{: .label .label-green}
 
