@@ -9,10 +9,10 @@ Dec 05
 
 Dec 07 
 : [Why Data Privacy Matters](#) 
-  : [worksheet](#) 
     : **HWK 6 due**{: .label .label-yellow }
 
 Dec 12 
-: EXTRA TOPICS 
-  : [worksheet](#) 
-    : **Final Project due**{: .label .label-green}
+: Intro to Computational Learning Theory 
+
+Dec 16
+: **Final Project due**{: .label .label-green}
