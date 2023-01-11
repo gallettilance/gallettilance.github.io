@@ -28,11 +28,11 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Piazza:
-    - 'https://piazza.com/bu/fall2022/cs506'
+    - 'https://piazza.com/bu/fall2023/cs506'
   GradeScope:
     - 'https://www.gradescope.com/courses/420507'
   GitHub:
-    - 'https://github.com/gallettilance/CS506-Fall2022'
+    - 'https://github.com/gallettilance/CS506-Spring2023'
 footer_content:
 
 # Collections for website data
