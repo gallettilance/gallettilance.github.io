@@ -53,7 +53,7 @@ You may discuss questions but you must submit individual code. You must list you
 
 ## Midterm
 
-The midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and a report detailing the methods used and decisions made. 80% of the grade will be based on the report and 20% will be based on the competition score related to the quality of the predictions made.
+The midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and a report detailing the methods used and decisions made.
 
 ## Final Project
 
