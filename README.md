@@ -20,12 +20,12 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/fall2022/cs506)
+1. Join [Piazza](https://piazza.com/bu/spring2023/cs506)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
-4. Fill out [this form](https://forms.gle/AJBhELka14MjnNwv8) with your GitHub and Kaggle account username
+4. Fill out [this form](https://forms.gle/RMGY2PpnksJ9yHEt7) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](https://www.gradescope.com/courses/420507) (code: 2KP6YP)
+6. Sign up for [GradeScope](https://www.gradescope.com/courses/495203) (code: NXZ56X)
 
 ## About
 
