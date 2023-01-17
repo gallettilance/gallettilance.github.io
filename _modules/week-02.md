@@ -24,6 +24,7 @@ Feb 13
 Feb 15 
 : [Density Based Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/06_Density_Based_Clustering.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_06.ipynb){: .btn .btn-outline } 
+    : **Deliverable 0**{: .label .label-green}
 
 Feb 20 
 : **NO CLASS**{: .label .label-red } 
@@ -31,4 +32,4 @@ Feb 20
 Feb 21 
 : **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/07_Soft_Clustering.pdf) + [Clustering Aggregation](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/08_Clustering_Aggregation.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_07.ipynb){: .btn .btn-outline } 
-    : **Deliverable 0**{: .label .label-green} 
+ 
