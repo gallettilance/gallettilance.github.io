@@ -12,7 +12,8 @@ Apr 26
 
 May 1 
 : EXTRA TOPICS 
+  : **Final Presentations**{: .label .label-green}
 
 May 3
 : EXTRA TOPICS
-  : **Final Project due**{: .label .label-green}
+  : **Final Project Report due**{: .label .label-green}

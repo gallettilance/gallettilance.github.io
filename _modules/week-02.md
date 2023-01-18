@@ -4,18 +4,15 @@ title: Clustering
 
 Feb 6 
 : [Intro to DS](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/02_Introduction.pdf) + [Distance & Similarity](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/03_Distance_%26_Similarity.pdf) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_03.ipynb){: .btn .btn-outline }
-
-Feb 7
-: **Spark Form due**{: .label .label-green}
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_03.ipynb){: .btn .btn-outline } 
 
 Feb 8 
 : [K-means](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/04_Clustering_Kmeans.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_04.ipynb){: .btn .btn-outline } 
-    : **HWK 1 due**{: .label .label-yellow }
+    : **HWK 0 due**{: .label .label-yellow }
 
 Feb 10
-: **Spark Project Kickoff**{: .label .label-green}
+: **Deliverable 0**{: .label .label-green}
 
 Feb 13 
 : [Hierarchical Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/05_Hierarchical_Clustering.pdf) 
@@ -24,7 +21,7 @@ Feb 13
 Feb 15 
 : [Density Based Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/06_Density_Based_Clustering.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_06.ipynb){: .btn .btn-outline } 
-    : **Deliverable 0**{: .label .label-green}
+    : **HWK 1 due**{: .label .label-yellow}
 
 Feb 20 
 : **NO CLASS**{: .label .label-red } 

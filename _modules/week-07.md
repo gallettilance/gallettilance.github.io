@@ -7,6 +7,9 @@ Apr 12
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_18.ipynb){: .btn .btn-outline } 
     : **HWK 5 due**{: .label .label-yellow }
 
+Apr 14
+: **Checkpoint B**{: .label .label-green}
+
 Apr 17
 : **NO CLASS**{: .label .label-red } 
 

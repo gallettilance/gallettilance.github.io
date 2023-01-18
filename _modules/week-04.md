@@ -19,8 +19,11 @@ Mar 13
 
 Mar 15 
 : [Naive Bayes](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/12_Naive_Bayes.pdf), [Model Evaluation](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/13_Model_Evaluation_and_Ensemble_Methods.pdf) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_11.ipynb){: .btn .btn-outline }
+  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_11.ipynb){: .btn .btn-outline } 
     : **HWK 3 due**{: .label .label-yellow } 
+
+Mar 17
+: **Checkpoint A**{: .label .label-green}
 
 Mar 20 
 : [Support Vector Machines](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/14_Support_Vector_Machines.pdf) 
