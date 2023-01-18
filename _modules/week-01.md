@@ -16,7 +16,6 @@ Jan 30
 Feb 1 
 : Effective Programming 2 + [Intro to DS](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/02_Introduction.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_02.ipynb){: .btn .btn-outline } 
-    : **HWK 0 due**{: .label .label-yellow } 
 
 Feb 3
 : **Spark Form due**{: .label .label-green} 
