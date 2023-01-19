@@ -1,6 +1,6 @@
 ---
 layout: page
-title: deliverables 
+title: Deliverables 
 description: Spark! Project Work Syllabus
 ---
 
