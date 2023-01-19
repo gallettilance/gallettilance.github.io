@@ -2,4 +2,4 @@
 title: Homework 0
 ---
 
-Coming Soon
+[Released](https://classroom.github.com/a/ttnxd3wx)
