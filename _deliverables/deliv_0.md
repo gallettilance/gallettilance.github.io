@@ -4,12 +4,14 @@ title: Deliverable 0 - Project Work Kick-off Tasks
 
 
 - [ ] Accept the Github invite and edit your respective team information page with the following information: their name and class year. 
+  
   - [ ] Team members should indicate their role: “First Name Last Name,Class of 20XX”
   - [ ] The team lead should indicate their role: “First Name Last Name,  Class of 20XX - Team Lead” 
   
 - [ ] Read the Project Description and fill out your respective team’s information (name, email, github name) in the “Student Team Information” row
 
 - [ ] On the Weekly Scrum Report document, answer all of the questions:
+
   - [ ] What is the project focus/overall goal?
   - [ ] Why is this project important?
   - [ ] What type of data will you collect or be analyzing?
