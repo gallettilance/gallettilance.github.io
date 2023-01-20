@@ -12,8 +12,11 @@ Apr 26
 
 May 1 
 : EXTRA TOPICS 
-  : **Final Presentations**{: .label .label-green}
+  : **Final Presentations due**{: .label .label-green}
 
 May 3
 : EXTRA TOPICS
   : **Final Project Report due**{: .label .label-green}
+
+May 5
+: **SPARK DEMO DAY**{: .label .label-green}
