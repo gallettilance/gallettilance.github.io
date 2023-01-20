@@ -2,7 +2,7 @@
 name: Reshab (Río) Chhabra
 role: Teaching Assistant
 email: reshabc@bu.edu
-lab: A5 (Tuesdays 2:00 - 2:50 PM)
+lab: A5 (Tuesdays 14:00 - 14:50)
 photo: reshab.jpg
 ---
 
