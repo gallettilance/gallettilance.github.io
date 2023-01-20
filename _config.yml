@@ -17,7 +17,7 @@ title: BU CS 506
 tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Lance Galletti
-url: 'https://gallettilance.github.io/'
+url: 'https://gallettilance.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings

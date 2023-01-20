@@ -57,13 +57,15 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Final Project
 
-BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their website: https://www.bu.edu/spark/ 
+BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their [website](https://www.bu.edu/spark/).
 
-Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers.
+Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers. Each project will be assigned a Spark! Technical Engineer to review PRs, review code, and provide technical support.
 
 Teams will have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
 
 For complete details on BU Spark! projects please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4).
+
+Expectations of Spark! project deliverables are outlined [here](https://gallettilance.github.io/deliverables/).
 
 ## Grading
 
