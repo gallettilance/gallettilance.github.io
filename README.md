@@ -10,14 +10,6 @@ seo:
 
 # Data Science Tools and Applications
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Getting Started Checklist
 
 1. Join [Piazza](https://piazza.com/bu/spring2023/cs506)
@@ -39,6 +31,18 @@ Lectures will present the fundamentals of each technique and aim to help student
 
 Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
 
+## Final Project
+
+BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their [website](https://www.bu.edu/spark/).
+
+Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers. Each project will be assigned a Spark! Technical Engineer to review PRs, review code, and provide technical support.
+
+Teams will have 3-5 students. Students that decide to take on the role of team lead will receive extra credit. Teams will be formed based on availability and a project preference form that you will be asked to submit after Pitch Day.
+
+Please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4) for details regarding roles and responsibilities as well as best practices for navigating BU Spark! projects.
+
+Expectations of Spark! project deliverables are outlined [here](https://gallettilance.github.io/deliverables/).
+
 ## Homeworks
 
 The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Clarifying questions (in class or on Piazza) are encouraged or make reasonable assumptions and justify your decisions.
@@ -51,21 +55,17 @@ Late homeworks will not be accepted. The lowest homework grade will be dropped a
 
 You may discuss questions but you must submit individual code. You must list your collaborators in the homework.
 
+### Re-Grades
+
+If you notice an issue with a grade you’ve received, you must email the instructor, CF and all TAs within 48h of receiving this grade. Anything beyond 48h will not be accepted for a re-grade.
+
 ## Midterm
 
 The midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and a report detailing the methods used and decisions made.
 
-## Final Project
+## Worksheets
 
-BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their [website](https://www.bu.edu/spark/).
-
-Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers. Each project will be assigned a Spark! Technical Engineer to review PRs, review code, and provide technical support.
-
-Teams will have 3-5 students. These will be assigned based on a project preference form that you will be asked to submit after Pitch Day.
-
-For complete details on BU Spark! projects please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4).
-
-Expectations of Spark! project deliverables are outlined [here](https://gallettilance.github.io/deliverables/).
+Every lecture is accompanied with a worksheet. You may submit them up to 24h after the lecture. Worksheets are not mandatory but will contribute to extra credit.
 
 ## Grading
 
@@ -98,7 +98,3 @@ Extra credit can be earned by **consistently**:
 - Asking and answering questions on Piazza.
 - Submitting PRs to our class repository with code or class notes.
 - Contributing to our class repository or course website (by fixing typos, providing clarification edits etc.)
-
-### Re-Grades
-
-If you notice an issue with a grade you’ve received, you must email your TA within 48h of receiving this grade. Anything beyond 48h will not be accepted for a re-grade.
