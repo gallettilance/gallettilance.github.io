@@ -31,6 +31,10 @@ Lectures will present the fundamentals of each technique and aim to help student
 
 Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
 
+## Emails
+
+If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the CF, and all TAs.
+
 ## Final Project
 
 BU Spark! offers students an opportunity to work on technical projects provided by companies or organizations in the Greater Boston area through our experiential learning lab (X-Lab). For this semester, Spark! has partnered with CS506 to offer a diverse selection of external data science projects scoped to support the course’s learning outcomes and enhance the student experience. To learn more about Spark!, please visit their [website](https://www.bu.edu/spark/).
@@ -57,7 +61,7 @@ You may discuss questions but you must submit individual code. You must list you
 
 ### Re-Grades
 
-If you notice an issue with a grade you’ve received, you must email the instructor, CF and all TAs within 48h of receiving this grade. Anything beyond 48h will not be accepted for a re-grade.
+If you notice an issue with a grade you’ve received, you must submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
 
 ## Midterm
 
