@@ -3,7 +3,7 @@ title: Introduction
 ---
 
 Jan 23 
-: [Overview](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/00_CS_506_Overview.pdf) + [Effective Programming](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/00_Clean_Code.pdf) 
+: [Overview](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/00_CS_506_Overview.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_00.ipynb){: .btn .btn-outline }
 
 Jan 25 
@@ -14,7 +14,7 @@ Jan 30
 : Spark Pitches 
 
 Feb 1 
-: Effective Programming 2 
+: [Effective Programming](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/00_Clean_Code.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_02.ipynb){: .btn .btn-outline } 
 
 Feb 3
