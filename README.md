@@ -49,7 +49,7 @@ The homework assignments will be due throughout the semester as relevant materia
 
 ### Late Policy
 
-Late homeworks will not be accepted. The lowest homework grade will be dropped at the end of the semester.
+Late homeworks will be accepted up to 48h after the due date. Late homeworks will incur a 12% penalty for the first 24h and a 20% penalty for next 24h. No points will be awarded after 48h. The lowest homework grade will be dropped at the end of the semester.
 
 ### Collaboration
 
