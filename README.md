@@ -69,7 +69,7 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Worksheets
 
-Every lecture is accompanied with a worksheet. You may submit them up to 24h after the lecture. Worksheets are not mandatory but will contribute to extra credit.
+Every lecture is accompanied with a worksheet. You may submit them up to 24h after the lecture. Worksheets are not mandatory but will contribute to extra credit. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets. These are meant to help you develop practical skills learned in class.
 
 ## Grading
 
