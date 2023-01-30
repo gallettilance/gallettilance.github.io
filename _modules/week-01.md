@@ -16,6 +16,4 @@ Jan 30
 Feb 1 
 : [Effective Programming](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/00_Clean_Code.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/main/worksheets/worksheet_02.ipynb){: .btn .btn-outline } 
-
-Feb 3
-: **Spark Form due**{: .label .label-green} 
+    : **Spark Form due**{: .label .label-green} 
