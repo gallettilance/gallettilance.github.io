@@ -12,7 +12,7 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/spring2023/cs506)
+1. Join [Piazza](https://piazza.com/bu/spring2023/cs506) and [Discord](https://discord.gg/jDQFFmQaZr)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/RMGY2PpnksJ9yHEt7) with your GitHub and Kaggle account username
@@ -30,6 +30,10 @@ Lectures will present the fundamentals of each technique and aim to help student
 ### Prerequisites
 
 Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
+
+## Emails
+
+If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the CF, and all TAs.
 
 ## Final Project
 
@@ -49,7 +53,7 @@ The homework assignments will be due throughout the semester as relevant materia
 
 ### Late Policy
 
-Late homeworks will not be accepted. The lowest homework grade will be dropped at the end of the semester.
+Late homeworks will be accepted up to 48h after the due date. Late homeworks will incur a 12% penalty for the first 24h and a 20% penalty for next 24h. No points will be awarded after 48h. The lowest homework grade will be dropped at the end of the semester.
 
 ### Collaboration
 
@@ -57,7 +61,7 @@ You may discuss questions but you must submit individual code. You must list you
 
 ### Re-Grades
 
-If you notice an issue with a grade you’ve received, you must email the instructor, CF and all TAs within 48h of receiving this grade. Anything beyond 48h will not be accepted for a re-grade.
+If you notice an issue with a grade you’ve received, you must submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
 
 ## Midterm
 
@@ -65,7 +69,7 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Worksheets
 
-Every lecture is accompanied with a worksheet. You may submit them up to 24h after the lecture. Worksheets are not mandatory but will contribute to extra credit.
+Every lecture is accompanied with a worksheet. You may submit them up to 24h after the lecture. Worksheets are not mandatory but will contribute to extra credit. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets. These are meant to help you develop practical skills learned in class.
 
 ## Grading
 
