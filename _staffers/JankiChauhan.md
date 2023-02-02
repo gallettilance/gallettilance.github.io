@@ -6,4 +6,4 @@ lab: A6 (Tuesdays 15:30 - 16:20)
 photo: janki_chauhan.jpg
 ---
 
-Office Hours: TBD Location: TBD
+Office Hours: T 5-6PM Location: CDS 926
