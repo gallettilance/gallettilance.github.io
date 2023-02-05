@@ -6,4 +6,4 @@ lab: A5 (Tuesdays 14:00 - 14:50)
 photo: reshab.jpg
 ---
 
-Office Hours: TBD! Location: TBD!
+Office Hours: W 6-7PM Location: CDS 926
