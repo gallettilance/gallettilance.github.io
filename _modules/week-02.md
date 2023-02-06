@@ -3,11 +3,11 @@ title: Clustering
 ---
 
 Feb 6 
-: [Intro to DS](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/02_Introduction.pdf) + [Distance & Similarity](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/03_Distance_%26_Similarity.pdf) 
+: [Intro to DS](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/03_Introduction.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/main/worksheets/worksheet_03.ipynb){: .btn .btn-outline } 
 
 Feb 8 
-: [K-means](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/04_Clustering_Kmeans.pdf) 
+: [Distance & Similarity](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/04_Distance_%26_Similarity.pdf) + [K-means](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/04_Clustering_Kmeans.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/main/worksheets/worksheet_04.ipynb){: .btn .btn-outline } 
     : **HWK 0 due**{: .label .label-yellow }
 
@@ -15,7 +15,7 @@ Feb 10
 : **Deliverable 0**{: .label .label-green}
 
 Feb 13 
-: [Hierarchical Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/05_Hierarchical_Clustering.pdf) 
+: [K-means++](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/04_Clustering_Kmeans.pdf) + [Hierarchical Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/05_Hierarchical_Clustering.pdf) 
   : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/main/worksheets/worksheet_05.ipynb){: .btn .btn-outline } 
 
 Feb 15 
