@@ -4,7 +4,7 @@ title: Recommender Systems
 
 Mar 22 
 : SVM cont'd + [Recommender Systems](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/15_Recommender_Systems.pdf) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/main/worksheets/worksheet_13.ipynb){: .btn .btn-outline } 
+  : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_13.ipynb){: .btn .btn-outline } 
     : **Deliverable 2: EARLY INSIGHT**{: .label .label-green}
 
 Mar 24 
