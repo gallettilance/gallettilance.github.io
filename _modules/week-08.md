@@ -3,8 +3,8 @@ title: Other Topics
 ---
 
 Apr 24 
-: [Networks & Graphs](https://github.com/gallettilance/CS506-Spring2023/raw/master/slides/21_Network_Analysis.pdf) 
-  : [worksheet](https://raw.githubusercontent.com/gallettilance/CS506-Spring2023/master/worksheets/worksheet_20.ipynb){: .btn .btn-outline } 
+: [Networks & Graphs](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/21_Network_Analysis.pdf) 
+  : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_20.ipynb){: .btn .btn-outline } 
 
 Apr 26 
 : [Why Data Privacy Matters](#) 

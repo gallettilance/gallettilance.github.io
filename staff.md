@@ -11,9 +11,17 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
+# Course Facilitator
+
+{% assign course_facilitator = site.staffers | where: 'role', 'Course Facilitator' %}
+{% for staffer in course_facilitator %}
+{{ staffer }}
+{% endfor %}
+
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
+
 # Teaching Assistants
 
 {% for staffer in teaching_assistants %}

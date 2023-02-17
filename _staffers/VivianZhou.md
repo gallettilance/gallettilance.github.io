@@ -2,7 +2,7 @@
 name: Wenhan (Vivian) Zhou
 role: Course Facilitator
 email: wzhou27@bu.edu
-photo: vivian.jpg
+photo: vivian.png
 ---
 
-Office Hours: MW 7-8PM Location TBD
+Office Hours: M 6-7PM Location CDS 924
