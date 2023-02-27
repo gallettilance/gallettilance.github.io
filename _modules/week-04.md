@@ -3,11 +3,11 @@ title: Classification
 ---
 
 Feb 27 
-: SVD cont'd + [Intro to Classification](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf) 
+: SVD cont'd + [Latent Semantic Analysis](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/09_Latent_Semantic_Analysis.pdf) 
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_09.ipynb){: .btn .btn-outline } 
 
 Mar 1 
-: [KNN](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf) 
+: [Intro to Classification](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf) + [KNN](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf) 
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_09.ipynb){: .btn .btn-outline }  
     : **Deliverable 1**{: .label .label-green} 
 
