@@ -6,4 +6,4 @@ lab: A3 (Tuesdays 11:15 - 12:05)
 photo: himanshu_patil.jpg
 ---
 
-Office Hours: TBD Location: TBD
+Office Hours: TH 12-1 PM Location: CDS 801

@@ -15,7 +15,7 @@ Feb 10
 : **Deliverable 0**{: .label .label-green}
 
 Feb 13 
-: [K-means++](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/04_Clustering_Kmeans.pdf) + [Hierarchical Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/05_Hierarchical_Clustering.pdf) 
+: [K-means++](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/05_Kmeans++.pdf) + [Hierarchical Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/05_Hierarchical_Clustering.pdf) 
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_05.ipynb){: .btn .btn-outline } 
 
 Feb 15 
@@ -27,6 +27,6 @@ Feb 20
 : **NO CLASS**{: .label .label-red } 
 
 Feb 21 
-: **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/07_Soft_Clustering.pdf) + [Clustering Aggregation](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/08_Clustering_Aggregation.pdf) 
+: **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/07_Soft_Clustering.pdf) 
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_07.ipynb){: .btn .btn-outline } 
  
