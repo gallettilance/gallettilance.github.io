@@ -7,7 +7,7 @@ Feb 27
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_09.ipynb){: .btn .btn-outline } 
 
 Mar 1 
-: [Intro to Classification](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf) + [KNN](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf) 
+: [Intro to Classification + KNN](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/10_Classification_KNN.pdf)  
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_10.ipynb){: .btn .btn-outline }  
     : **Deliverable 1**{: .label .label-green} 
 
