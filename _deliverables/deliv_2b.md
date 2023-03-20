@@ -1,6 +1,5 @@
----
-title: Checkpoint B - Further Analysis & Rough Draft of Report 
----
+<details><summary>Checkpoint B - Further Analysis & Rough Draft of Report</summary>
+<p>
 
 CHECK-IN: All teams should have made significant progress on the project by this point. Further analysis of an additional 2 questions should be done as well as 
 
@@ -28,3 +27,6 @@ If you are assigned to a **city council project**:
 2. All visualizations must be labeled properly (x-axis, y-axis,) and have a description below the figure explaining what it means. 
 3. Team members must indicate in the report where they contributed work. 
 4. Submit draft to google drive and gradescope
+
+</p>
+</details>
