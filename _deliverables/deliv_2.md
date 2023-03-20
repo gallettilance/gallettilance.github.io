@@ -1,5 +1,6 @@
-<details><summary>Deliverable 2 - Early Insights Presentation</summary>
-<p>
+---
+title: Deliverable 2 - Early Insights Presentation
+---
 
 1. Make sure all tasks were completed from the checkpoint
 2. Submit any new code since Deliverable 1 as a PR to your team’s branch on github. (Add your PM and TE as reviewers!)
@@ -8,6 +9,3 @@
 
 *In addition for city council projects*
 - Submit extension proposal to google drive and gradescope. 
-
-</p>
-</details>

@@ -1,5 +1,6 @@
-<details><summary>Deliverable 3 - Refined Draft of Report</summary>
-<p>
+---
+title: Deliverable 3 - Refined Draft of Report 
+---
 
 The rough draft of the report should be refined and more sections completed from the initial rough draft. Remember to follow the specific requirements
 
@@ -12,6 +13,3 @@ The rough draft of the report should be refined and more sections completed from
 7. Team members must indicate in the report where they contributed work. 
 8. Submit any new code since Deliverable 2 as a PR to your team’s branch on github. (Add your PM and TE as reviewers!)
 9. Submit draft to google drive and gradescope
-
-</p>
-</details>

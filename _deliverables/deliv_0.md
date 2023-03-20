@@ -1,5 +1,7 @@
-<details><summary>Deliverable 0 - Project Work Kick-off Tasks</summary>
-<p>
+---
+title: Deliverable 0 - Project Work Kick-off Tasks
+---
+
 
 1. Accept the Github invite and edit your respective team information page with the following information: their name and class year. 
    1. Team members should indicate their role: “First Name Last Name,Class of 20XX”
@@ -13,6 +15,3 @@
    5. What are your next steps? Divide tasks amongst the team
 4. Submit all of the following information as a PR to your team’s branch on github. (Add your PM and TE as reviewers!) 
 5. Submit the Weekly Scrum report to the gradescope and upload to google drive.
-
-</p>
-</details>
