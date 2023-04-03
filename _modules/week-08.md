@@ -8,7 +8,7 @@ Apr 24
 
 Apr 26 
 : [Why Data Privacy Matters](#) 
-    : **HWK 6 due**{: .label .label-yellow }
+    : **HWK 5 due**{: .label .label-yellow }
 
 May 1 
 : EXTRA TOPICS 
