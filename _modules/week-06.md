@@ -23,3 +23,8 @@ Apr 5
 
 Apr 10
 : Data Ethics Guest Lecture - by Seth Villegas
+
+Apr 12
+: [Linear Model Evaluation](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/18_Linear_Model_Evaluation.pdf)
+  : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_19.ipynb){: .btn .btn-outline } 
+    : **HWK 4 due**{: .label .label-yellow } 

@@ -2,17 +2,13 @@
 title: Other Topics
 ---
 
-Apr 24 
+Apr 26 
 : [Networks & Graphs](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/21_Network_Analysis.pdf) 
   : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_20.ipynb){: .btn .btn-outline } 
-
-Apr 26 
-: [Why Data Privacy Matters](#) 
     : **HWK 5 due**{: .label .label-yellow }
 
-May 1 
-: EXTRA TOPICS 
-  : **Final Presentations due**{: .label .label-green}
+May 1
+: [Why Data Privacy Matters](#) 
 
 May 3
 : EXTRA TOPICS
