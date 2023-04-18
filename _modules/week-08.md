@@ -9,6 +9,7 @@ Apr 26
 
 May 1
 : [Why Data Privacy Matters](#) 
+  : **Deliverable 4**{: .label .label-green} 
 
 May 3
 : EXTRA TOPICS
