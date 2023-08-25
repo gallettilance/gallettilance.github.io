@@ -2,7 +2,12 @@
 title: Singular Value Decomposition
 ---
 
-Feb 22 
-: [Clustering Aggregation](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/08_Clustering_Aggregation.pdf) + [Singular Value Decomposition](https://github.com/gallettilance/CS506-Spring2023/raw/main/slides/08_Singular_Value_Decomposition.pdf) 
-  : [worksheet](https://github.com/gallettilance/CS506-Spring2023/blob/main/worksheets/worksheet_08.ipynb){: .btn .btn-outline } 
+Oct 16 
+: [Singular Value Decomposition](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_10/10_Singular_Value_Decomposition.pdf) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_10/worksheet_10.ipynb) 
     : **HWK 2 due**{: .label .label-yellow } 
+
+Oct 18
+: SVD cont'd + [Latent Semantic Analysis](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_11/11_Latent_Semantic_Analysis.pdf) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_11/worksheet_11.ipynb) 
+

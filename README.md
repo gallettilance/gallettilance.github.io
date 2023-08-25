@@ -12,20 +12,20 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/spring2023/cs506) and [Discord](https://discord.gg/jDQFFmQaZr)
+1. Join [Piazza](#) and [Discord](#)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/RMGY2PpnksJ9yHEt7) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](https://www.gradescope.com/courses/495203) (code: NXZ56X)
+6. Sign up for [GradeScope](#) (code: TBD)
 
 ## About
 
 The goal of this course is to provide students a hands-on understanding of classical data analysis techniques and to develop proficiency in applying these techniques in modern programming languages (Python) while also learning about the social and ethical challenges of collecting and mining data by studying real world examples.
 
-The course introduces students to a wide range of techniques that are commonly used in the analysis of data, such as clustering, classification, regression, and network analysis. Broadly speaking, the course breaks down into three main components, which we will take in order of increasing complication: (a) unsupervised methods; (b) supervised methods; and (c) methods for structured data.
+The course introduces students to a wide range of techniques that are commonly used in the analysis of data such as clustering, classification, regression, and neural networks.
 
-Lectures will present the fundamentals of each technique and aim to help students understand the practical settings in which these theoretical/analytical methods are useful. In class, we will also study use cases and go over relevant Python packages that will enable students to perform hands-on experiments with their data. Class discussion will, for the most part, be extended office hours, review, or extra coding exercises. However, this is not a Python course, so self-study will be necessary for those students who do not already know the language.
+Note that this is not a Python (or an introduction to programming) course, so self-study will be necessary for those students who do not already know the language.
 
 ### Prerequisites
 
@@ -49,19 +49,15 @@ Expectations of Spark! project deliverables are outlined [here](https://galletti
 
 ## Homeworks
 
-The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Clarifying questions (in class or on Piazza) are encouraged or make reasonable assumptions and justify your decisions.
+The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Homeworks are collaborative. You can submit them individually or as a group. I highly encourage you to create a study group, share knowledge, and work on and submit the homeworks together.
 
 ### Late Policy
 
 Late homeworks will be accepted up to 48h after the due date. Late homeworks will incur a 12% penalty for the first 24h and a 20% penalty for next 24h. No points will be awarded after 48h. The lowest homework grade will be dropped at the end of the semester.
 
-### Collaboration
-
-You may discuss questions but you must submit individual code. You must list your collaborators in the homework.
-
 ### Re-Grades
 
-If you notice an issue with a grade you’ve received, you must submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
+If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
 
 ## Midterm
 
@@ -69,14 +65,15 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Worksheets
 
-Every lecture is accompanied with a worksheet. You may submit them up to 24h after the lecture. Worksheets are not mandatory but will contribute to extra credit. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets. These are meant to help you develop practical skills learned in class.
+Every lecture is accompanied with a worksheet due 24h after lecture. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets or late deadlines. These are meant to help you further develop practical skills learned in class.
 
 ## Grading
 
 |      Grading      |
 |-------------------|
-| 20% midterm       |
-| 40% assignments   |
+| 15% midterm       |
+| 30% homeworks     |
+| 15% worksheets    |
 | 40% final project |
 | 5% extra credit   |
 
@@ -97,8 +94,7 @@ Every lecture is accompanied with a worksheet. You may submit them up to 24h aft
 
 Extra credit can be earned by **consistently**:
 
-- Attending class.
-- Submitting completed worksheets.
+- Attending class and completing labs.
 - Asking and answering questions on Piazza.
 - Submitting PRs to our class repository with code or class notes.
 - Contributing to our class repository or course website (by fixing typos, providing clarification edits etc.)
