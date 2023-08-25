@@ -4,7 +4,7 @@ title: Clustering
 
 Sep 20 
 : [Intro to DS](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_03/03_Introduction.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_/worksheet_03.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_03/worksheet_03.ipynb) 
     : **HWK 0 due**{: .label .label-yellow }
 
 Sep 25 
