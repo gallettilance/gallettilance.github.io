@@ -18,7 +18,7 @@ Sep 27
 
 Oct 02 
 : [K-means++](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_06/06_Kmeans++.pdf) + [Hierarchical Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_06/06_Hierarchical_Clustering.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_06/worksheet_06.ipynb)
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_06/worksheet_06.ipynb) 
 
 Oct 04
 : [Density Based Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_07/07_Density_Based_Clustering.pdf) 
@@ -29,8 +29,7 @@ Oct 09
 : **NO CLASS**{: .label .label-red } 
 
 Oct 10 
-: **MONDAY SCHEDULE**{: .label .label-red } 
-[Soft Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_08/08_Soft_Clustering.pdf) 
+: **MONDAY SCHEDULE**{: .label .label-red } [Soft Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_08/08_Soft_Clustering.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_08/worksheet_08.ipynb) 
 
 Oct 11 
