@@ -28,13 +28,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Piazza:
-    - 'https://piazza.com/bu/spring2023/cs506'
+    - 'https://piazza.com/bu/fall2023/cs506a1'
   GradeScope:
-    - 'https://www.gradescope.com/courses/495203'
+    - 'https://www.gradescope.com/courses/607164'
   GitHub:
     - 'https://github.com/gallettilance/Data-Science-Fundamentals'
   Discord:
-    - 'https://discord.gg/jDQFFmQaZr'
+    - 'https://discord.gg/bB6Fm84e'
 footer_content:
 
 # Collections for website data

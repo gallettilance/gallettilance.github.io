@@ -12,12 +12,12 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](#) and [Discord](#)
+1. Join [Piazza](https://piazza.com/bu/fall2023/cs506a1) and [Discord](https://discord.gg/bB6Fm84e)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
-4. Fill out [this form](https://forms.gle/RMGY2PpnksJ9yHEt7) with your GitHub and Kaggle account username
+4. Fill out [this form](https://forms.gle/bQeZjJdjJXF98N3DA) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](#) (code: TBD)
+6. Sign up for [GradeScope](https://www.gradescope.com/courses/607164) (code: ZWZ4X5)
 
 ## About
 
@@ -41,11 +41,9 @@ BU Spark! offers students an opportunity to work on technical projects provided 
 
 Spark! projects are a great opportunity for students to get real-world project experience to highlight on their github and CV. These projects have already been curated and will be presented during “Pitch Day”. Project descriptions will be made available at the start of the semester. BU Spark! projects will be led by one of the Spark! Project managers. Each project will be assigned a Spark! Technical Engineer to review PRs, review code, and provide technical support.
 
-Teams will have 3-5 students. Students that decide to take on the role of team lead will receive extra credit. Teams will be formed based on availability and a project preference form that you will be asked to submit after Pitch Day.
+Teams will have ~5 students. Students that decide to take on the role of team lead will receive extra credit. Teams will be formed based on availability and a project preference form that you will be asked to submit after Pitch Day.
 
-Please read [the following guide](https://docs.google.com/document/d/1Cg8O-tY58vciQ_TYi1MpPFZ730fU_YyTs6GBZ0SMAj4) for details regarding roles and responsibilities as well as best practices for navigating BU Spark! projects.
-
-Expectations of Spark! project deliverables are outlined [here](https://gallettilance.github.io/deliverables/).
+At the end of the semester, one team will be selected to present their project on the Spark Demo day stage. One team per project will be selected to present a poster of their project on Demo Day.
 
 ## Homeworks
 
@@ -65,7 +63,11 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Worksheets
 
-Every lecture is accompanied with a worksheet due 24h after lecture. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets or late deadlines. These are meant to help you further develop practical skills learned in class.
+Every lecture is accompanied with a worksheet due 24h after lecture. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets or late deadlines. These are meant to help you further develop practical skills learned in class and only the highest 15 worksheet grades will count toward your grade (so about 7 or so will be dropped / optional).
+
+## Labs
+
+Labs will be dedicated to helping you with your project. Team Leads must attend labs to provide an update on the project which will count toward the project grade. Technical Experts (TEs) as well as TAs will be available during labs to help.
 
 ## Grading
 
@@ -94,7 +96,7 @@ Every lecture is accompanied with a worksheet due 24h after lecture. To receive 
 
 Extra credit can be earned by **consistently**:
 
-- Attending class and completing labs.
+- Attending class and labs.
 - Asking and answering questions on Piazza.
 - Submitting PRs to our class repository with code or class notes.
 - Contributing to our class repository or course website (by fixing typos, providing clarification edits etc.)
