@@ -8,7 +8,7 @@ Sep 06
 
 Sep 11 
 : [Git](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_01/01_Git.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_01/worksheet_01.ipynb)
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_01/worksheet_01.ipynb){: .btn .btn-outline }
 
 Sep 13 
 : [Spark Pitches](#)
