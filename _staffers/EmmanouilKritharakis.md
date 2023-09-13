@@ -7,4 +7,4 @@ website: https://sites.bu.edu/casp/people/ekritharakis/
 photo: Emmanouil.jpeg
 ---
 
-Office Hours: W 1:00-2:00PM Location CDS 711
+Office Hours: W 11:00AM-12:00PM Location CDS 711

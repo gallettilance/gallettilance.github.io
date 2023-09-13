@@ -2,8 +2,8 @@
 name: Shivangi (Shivi)
 role: Teaching Assistant 
 email: shivi09@bu.edu
-lab: TBD!
+lab: B3 (Thu 15:35 - 16:25 @ CAS 218) 
 photo: shivi.JPG
 ---
 
-Office Hours: TBD! Location: TBD!
+Office Hours: M 2PM - 3 PM | Location: TBD
