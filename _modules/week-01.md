@@ -18,7 +18,7 @@ Sep 15
 
 Sep 18 
 : [Effective Programming](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_02/02_Clean_Code.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_02/worksheet_02.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_02/worksheet_02.ipynb){: .btn .btn-outline } 
 
 Sep 20 
 : [Intro to DS](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_03/03_Introduction.pdf) 
