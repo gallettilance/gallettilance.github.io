@@ -6,4 +6,4 @@ lab: B3 (Thu 15:35 - 16:25 @ CAS 218)
 photo: shivi.JPG
 ---
 
-Office Hours: M 2PM - 3 PM | Location: TBD
+Office Hours: M 2.30PM - 3.30PM Location: CDS 1001
