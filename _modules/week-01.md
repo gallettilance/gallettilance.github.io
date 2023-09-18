@@ -11,10 +11,19 @@ Sep 11
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_01/worksheet_01.ipynb){: .btn .btn-outline }
 
 Sep 13 
-: [Spark Pitches](#)
-  : [PROJECT LIST](#) 
+: [Spark Pitches](https://docs.google.com/presentation/d/1hnGMd5nolN4qei84__mpAyJPaumptWAa7ey3nbb0VV8/ )
+
+Sep 15 
+: **Spark Form due 6pm**{: .label .label-green} 
 
 Sep 18 
 : [Effective Programming](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_02/02_Clean_Code.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_02/worksheet_02.ipynb) 
-    : **Spark Form due**{: .label .label-green} 
+
+Sep 20 
+: [Intro to DS](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_03/03_Introduction.pdf) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_03/worksheet_03.ipynb) 
+
+Sep 22 
+: **HWK 0 due**{: .label .label-yellow }
+
