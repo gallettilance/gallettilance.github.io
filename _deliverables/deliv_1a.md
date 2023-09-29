@@ -10,7 +10,13 @@ The early insights presentation should focus on the Base Project results which i
 
 1. The Base Project includes a rigid, set scope with a clear end deliverable. The questions to be answered, wanted visualizations and visualization answers, are clearly outlined for the student to complete. 
    1. Create a draft presentation using this template [Presentation Outlines](https://docs.google.com/document/d/1MpOHudOloqKpt5S81rGyYuurps9CeDJ7XlUi000L1cM/edit?usp=sharing) you will present the findings from the Base Project.
-   2. Answer all the key questions on your project document.
+   2. Answer all the base project key questions in your project document.
+   3. You will need to include:
+      1. Any additional challenges you have encountered?
+      2. What limitations have you encountered?
+      3. What assumptions have you had to make?
+      4. What were the expected next steps, and did you follow them or did the scope change?
+      5. What are you planning to do to complete your project?
 2. The end of the presentation must include the team’s Extension     
   Project. This is the opportunity for students to be creative with additional data sets and sources that they believe will tell an interesting story. 
     1. The team should utilize this [template](https://docs.google.com/document/d/1EFkQJpOBXHbsJj7LdFNFHaMBzaAt69HARnmcam-slpU/edit? usp=sharing) for their proposal and incorporate it into their presentation.
