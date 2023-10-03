@@ -24,7 +24,6 @@ Oct 09
 Oct 10 
 : **MONDAY SCHEDULE**{: .label .label-red } [Density Based Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_07/07_Density_Based_Clustering.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_07/worksheet_07.ipynb) 
-    : **HWK 1 due**{: .label .label-yellow}
 
 Oct 11 
 : [Soft Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_08/08_Soft_Clustering.pdf) 
@@ -33,3 +32,6 @@ Oct 11
 (Optional) 
 : [Clustering Aggregation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_09/09_Clustering_Aggregation.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_09/worksheet_09.ipynb) 
+
+Oct 13
+  : **HWK 1 due**{: .label .label-yellow}
