@@ -35,7 +35,7 @@ description: A listing of all the course staff members.
 
 # Technical Project Managers
 
-{$ for staffer in technical_pm %}
+{% for staffer in technical_pm %}
 {{ staffer }}
 {% endfor %}
 {% endif % }
