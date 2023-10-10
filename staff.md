@@ -22,16 +22,16 @@ description: A listing of all the course staff members.
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-{% assign technical_pm = site.staffers | where: 'role', 'Technical Project Manager' %}
-{% assign num_tpm = technical_pm | size %}
-{% if num_tpm != 0 %}
-
 # Teaching Assistants
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign technical_pm = site.staffers | where: 'role', 'Technical Project Manager' %}
+{% assign num_tpm = technical_pm | size %}
+{% if num_tpm != 0 %}
 
 # Technical Project Managers
 
