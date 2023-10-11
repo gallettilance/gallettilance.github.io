@@ -21,5 +21,5 @@ Nov 1
     : **Deliverable 1**{: .label .label-green} 
 
 Nov 6 
-: [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_16/16_Support_Vector_Machines.pdf) 
+: [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_16/16_Support_Vector_Machines.pdf)
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_16/worksheet_16.ipynb) 

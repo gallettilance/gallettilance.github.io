@@ -5,16 +5,16 @@ title: Regression
 Nov 13 
 : [Linear Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_18/18_Linear_Regression.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_18/worksheet_18.ipynb) 
-    : **Deliverable 2: EARLY INSIGHT**{: .label .label-green}
+    : **MIDTERM END**{: .label .label-yellow } 
 
 Nov 15 
-: [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Logistic_Regression.pdf) 
+: MIDTERM REVIEW + [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Logistic_Regression.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb) 
 
 Nov 20 
-: Midterm Review + [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_20/20_Gradient_Descent.pdf) 
+: [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_20/20_Gradient_Descent.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_20/worksheet_20.ipynb) 
-    : **MIDTERM END**{: .label .label-yellow } 
+    : **Deliverable 2: EARLY INSIGHT**{: .label .label-green}
 
 Nov 22-26 
 : **THANKSGIVING BREAK**{: .label .label-purple }
