@@ -4,18 +4,18 @@ title: Clustering
 
 Sep 25 
 : [Distance & Similarity](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_04/04_Distance_%26_Similarity.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_04/worksheet_04.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_04/worksheet_04.ipynb){: .btn .btn-outline }  
 
 Sep 27 
 : Guest Lecture: Data Ethics
 
 Oct 02 
 : [K-means](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_05/05_Clustering_Kmeans.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_05/worksheet_05.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_05/worksheet_05.ipynb){: .btn .btn-outline }  
 
 Oct 04 
 : [K-means++](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_06/06_Kmeans++.pdf) + [Hierarchical Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_06/06_Hierarchical_Clustering.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_06/worksheet_06.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_06/worksheet_06.ipynb){: .btn .btn-outline }  
     : **Deliverable 0**{: .label .label-green}
 
 Oct 09 
@@ -23,11 +23,11 @@ Oct 09
 
 Oct 10 
 : **MONDAY SCHEDULE**{: .label .label-red } [Density Based Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_07/07_Density_Based_Clustering.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_07/worksheet_07.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_07/worksheet_07.ipynb){: .btn .btn-outline }  
 
 Oct 11 
 : [Soft Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_08/08_Soft_Clustering.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_08/worksheet_08.ipynb) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_08/worksheet_08.ipynb){: .btn .btn-outline }  
 
 (Optional) 
 : [Clustering Aggregation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_09/09_Clustering_Aggregation.pdf) 
