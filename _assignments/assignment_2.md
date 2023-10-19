@@ -2,4 +2,4 @@
 title: Homework 2
 ---
 
-Coming Soon
+[Released](https://classroom.github.com/a/slfcDDVT)
