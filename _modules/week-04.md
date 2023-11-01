@@ -16,10 +16,14 @@ Oct 30
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_14/worksheet_14.ipynb) 
 
 Nov 1 
-: MIDTERM LAUNCH + [Support Vector Machines](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_15/worksheet_15.ipynb) 
+: [MIDTERM LAUNCH](https://www.kaggle.com/t/bec8b30b123448ceb32b2d0bf6a4f503)
     : **Deliverable 1**{: .label .label-green} 
 
 Nov 6 
+: [Support Vector Machines](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_15/worksheet_15.ipynb) 
+
+Nov 8
 : [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_16/16_Support_Vector_Machines.pdf)
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_16/worksheet_16.ipynb) 
+    : **MIDTERM END**{: .label .label-yellow }  
