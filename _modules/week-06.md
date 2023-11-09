@@ -10,6 +10,8 @@ Nov 15
 : [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Logistic_Regression.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb) 
     : **HWK 3 due**{: .label .label-yellow } 
+Nov 17
+    : **Checkpoint A**{: .label .label-green} 
 
 Nov 20 
 : [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_20/20_Gradient_Descent.pdf) 
