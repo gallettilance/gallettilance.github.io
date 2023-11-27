@@ -31,4 +31,3 @@ Nov 27
 Nov 29
 : [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_22/22_Gradient_Descent.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_22/worksheet_22.ipynb) 
-    : **HWK 4 due**{: .label .label-yellow } 

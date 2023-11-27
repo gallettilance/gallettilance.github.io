@@ -9,4 +9,4 @@ Dec 04
 Dec 06
 : [Advanced Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_24/24_Neural_Networks.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_24/worksheet_24.ipynb) 
-    : **Deliverable 3**{: .label .label-green} 
+    : **Deliverable 3**{: .label .label-green} **HWK 4 due**{: .label .label-yellow } 
