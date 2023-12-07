@@ -2,4 +2,4 @@
 title: Homework 5
 ---
 
-Coming Soon
+[Released](https://classroom.github.com/a/u04VgFap)
