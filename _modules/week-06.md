@@ -1,33 +1,12 @@
 ---
-title: Regression
+title: Neural Networks
 ---
 
-Nov 13 
-: [Linear Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_18/18_Linear_Regression.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_18/worksheet_18.ipynb) 
+Apr 22 
+: [Fundamentals of Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_23/23_Neural_Networks.pdf) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_23/worksheet_23.ipynb) 
 
-Nov 15 
-: [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Linear_Model_Evaluation.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb) 
+Apr 24
+: [Advanced Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_24/24_Neural_Networks.pdf) 
+  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_24/worksheet_24.ipynb) 
 
-Nov 17
-    : **Checkpoint A**{: .label .label-green} 
-
-Nov 20 
-: [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_20/20_Linear_Model_Evaluation.pdf)
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_20/worksheet_20.ipynb)
-    : **Deliverable 2: EARLY INSIGHT**{: .label .label-green}
-
-Nov 21
-    : **HWK 3 due**{: .label .label-yellow } 
-
-Nov 22-26 
-: **THANKSGIVING BREAK**{: .label .label-purple }
-
-Nov 27 
-: [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_21/21_Logistic_Regression.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_21/worksheet_21.ipynb) 
-
-Nov 29
-: [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_22/22_Gradient_Descent.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_22/worksheet_22.ipynb) 

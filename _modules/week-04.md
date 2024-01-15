@@ -2,28 +2,29 @@
 title: Classification
 ---
 
-Oct 23 
+Mar 6 
 : [Intro to Classification + KNN](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_12/12_Classification_KNN.pdf)  
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_12/worksheet_12.ipynb)  
 
-Oct 25 
+Mar 11-15
+: **SPRING BREAK**{: .label .label-red }
+
+Mar 18
 : [Decision Trees](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_13/13_Decision_Trees.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_13/worksheet_13.ipynb) 
-    : **HWK 2 due**{: .label .label-yellow } 
 
-Oct 30 
+Mar 20 
 : [Naive Bayes](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_14/14_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_14/14_Model_Evaluation_and_Ensemble_Methods.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_14/worksheet_14.ipynb) 
 
-Nov 1 
+Mar 25 
 : [MIDTERM LAUNCH](https://www.kaggle.com/t/bec8b30b123448ceb32b2d0bf6a4f503)
-    : **Deliverable 1**{: .label .label-green} 
 
-Nov 6 
+Mar 27 
 : [Support Vector Machines](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_15/worksheet_15.ipynb) 
 
-Nov 8
+Apr 1
 : MIDTERM REVIEW + [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_16/16_Support_Vector_Machines.pdf)
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_16/worksheet_16.ipynb) 
     : **MIDTERM END**{: .label .label-yellow }  
