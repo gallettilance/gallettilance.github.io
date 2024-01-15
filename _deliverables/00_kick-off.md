@@ -1,5 +1,5 @@
 ---
-title: Deliverable 0 - Project Work Kick-off Tasks
+title: Project Work Kick-off Tasks
 ---
 
 
@@ -14,4 +14,3 @@ title: Deliverable 0 - Project Work Kick-off Tasks
    4. What are potential limitations of the project?
    5. What are your next steps? Divide tasks amongst the team
 4. Submit all of the following information as a PR to your team’s branch on github. (Add your TPM and TA as reviewers!) 
-5. Submit the Weekly Scrum report to the gradescope and upload to google drive.

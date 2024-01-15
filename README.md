@@ -12,12 +12,12 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/fall2023/cs506a1) and [Discord](https://discord.gg/bB6Fm84e)
+1. Join [Piazza](#) and [Discord](#)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/bQeZjJdjJXF98N3DA) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](https://www.gradescope.com/courses/607164) (code: ZWZ4X5)
+6. Sign up for [GradeScope](#) (code: TBD)
 
 ## About
 
@@ -33,7 +33,7 @@ Students taking this class must have some prior familiarity with programming at 
 
 ## Emails
 
-If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the CF, and all TAs.
+If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the TF, and all TAs.
 
 ## Final Project
 
@@ -45,14 +45,6 @@ Teams will have ~5 students. Students that decide to take on the role of team le
 
 At the end of the semester, one team will be selected to present their project on the Spark Demo day stage. One team per project will be selected to present a poster of their project on Demo Day.
 
-## Homeworks
-
-The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Homeworks are collaborative. You can submit them individually or as a group. I highly encourage you to create a study group, share knowledge, and work on and submit the homeworks together.
-
-### Late Policy
-
-Late homeworks will be accepted up to 48h after the due date. Late homeworks will incur a 12% penalty for the first 24h and a 20% penalty for next 24h. No points will be awarded after 48h. The lowest homework grade will be dropped at the end of the semester.
-
 ### Re-Grades
 
 If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
@@ -63,19 +55,18 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Worksheets
 
-Every lecture is accompanied with a worksheet due 24h after lecture. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets or late deadlines. These are meant to help you further develop practical skills learned in class and only the highest 15 worksheet grades will count toward your grade (so about 7 or so will be dropped / optional).
+Every lecture is accompanied with a worksheet due 24h after lecture. There will be no partial credit for worksheet questions and there is no late policy (if you miss the deadline you get no points). 3 worksheets can be dropped at the end of the semester.
 
 ## Labs
 
-Labs will be dedicated to helping you with your project. Team Leads must attend labs to provide an update on the project which will count toward the project grade. Technical Experts (TEs) as well as TAs will be available during labs to help.
+Labs will be dedicated to helping you with your project. All team members must attend the same lab to provide an update on the project and plan the week to come on Trello - which will count toward the project grade. Technical Experts (TEs) as well as TAs will be available during labs to help.
 
 ## Grading
 
 |      Grading      |
 |-------------------|
-| 15% midterm       |
-| 30% homeworks     |
-| 15% worksheets    |
+| 20% midterm       |
+| 40% worksheet     |
 | 40% final project |
 | 5% extra credit   |
 

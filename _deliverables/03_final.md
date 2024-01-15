@@ -1,8 +1,6 @@
 ---
-title: Checkpoint B - Further Analysis & Rough Draft of Report 
+title: Further Analysis & Final Report 
 ---
-
-CHECK-IN: All teams should have made significant progress on the project by this point. Further analysis of an additional 2 questions should be done as well as 
 
 All teams must:
 1. Create README.md file in the github repo in your team folder. This must summarize what the project is, what the team did, how to navigate the different files in the repo, and the information any future users would need to have in order to get the code running.
