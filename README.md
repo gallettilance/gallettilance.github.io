@@ -27,6 +27,8 @@ The course introduces students to a wide range of techniques that are commonly u
 
 Note that this is not a Python (or an introduction to programming) course, so self-study will be necessary for those students who do not already know the language.
 
+There is no textbook for this course, all the material is available in the [course github repo](https://github.com/gallettilance/Data-Science-Fundamentals) (also linked above). Additional notes and articles related to this course can be found on [Lance Galletti's Medium](https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf).
+
 ### Prerequisites
 
 Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
@@ -57,7 +59,7 @@ Every lecture is accompanied with a worksheet. Monday worksheets are due at 11:5
 
 Collaboration is highly encouraged in this class. You can submit worksheets as a group / team on gradescope - everyone on the team will receive the same grade. Working in a team is a great way to share knowledge and help alleviate workload and stress.
 
-### Re-Grades
+## Re-Grades
 
 If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
 
