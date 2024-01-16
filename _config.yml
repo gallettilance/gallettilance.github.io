@@ -42,7 +42,7 @@ collections:
   staffers:
   modules:
   faq:
-  final project:
+  finalproject:
 
 # Default layouts for each collection type
 defaults:
@@ -64,7 +64,7 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: deliverables
+      type: finalproject
     values:
       layout: module
   
