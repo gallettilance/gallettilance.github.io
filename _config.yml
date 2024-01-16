@@ -64,7 +64,7 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: final_project
+      type: deliverables
     values:
       layout: module
   
