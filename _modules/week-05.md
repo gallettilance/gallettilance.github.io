@@ -9,6 +9,7 @@ Apr 3
 Apr 8 
 : [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Linear_Model_Evaluation.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb) 
+    : **MID-SEMESTER REPORT**{: .label .label-green}
 
 
 Apr 10 

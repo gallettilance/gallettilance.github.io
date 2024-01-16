@@ -18,7 +18,7 @@ Mar 20
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_14/worksheet_14.ipynb) 
 
 Mar 25 
-: [MIDTERM LAUNCH](https://www.kaggle.com/t/bec8b30b123448ceb32b2d0bf6a4f503)
+: [MIDTERM LAUNCH](#)
 
 Mar 27 
 : [Support Vector Machines](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 

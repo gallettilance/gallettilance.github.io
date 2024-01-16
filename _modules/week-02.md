@@ -13,7 +13,6 @@ Feb 12
 Feb 14 
 : [K-means++](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_06/06_Kmeans++.pdf) + [Hierarchical Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_06/06_Hierarchical_Clustering.pdf) 
   : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_06/worksheet_06.ipynb){: .btn .btn-outline }  
-    : **Deliverable 0**{: .label .label-green}
 
 Feb 19
 : **NO CLASS**{: .label .label-red } 
