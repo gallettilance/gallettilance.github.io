@@ -12,12 +12,12 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](#) and [Discord](#)
+1. Join [Piazza](https://piazza.com/bu/spring2024/cs506)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/bQeZjJdjJXF98N3DA) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](#) (code: TBD)
+6. Sign up for [GradeScope](https://www.gradescope.com/courses/711437) (code: WBZEWG)
 
 ## About
 
