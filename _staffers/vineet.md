@@ -6,4 +6,6 @@ lab: TBD!
 photo: vineet.JPG
 ---
 
-Office Hours: TBD! Location: TBD!
+Office Hours: TBD! 
+
+Location: TBD!
