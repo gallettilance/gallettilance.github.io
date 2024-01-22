@@ -1,28 +1,12 @@
 ---
-title: Regression
+title: Neural Networks
 ---
 
-Nov 13 
-: [Linear Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_18/18_Linear_Regression.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_18/worksheet_18.ipynb) 
-    : **MIDTERM END**{: .label .label-yellow } 
+Apr 24 
+: [Fundamentals of Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_23/23_Neural_Networks.pdf) 
+  : [worksheet 23](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_23/worksheet_23.ipynb) 
 
-Nov 15 
-: Midterm Review + [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Logistic_Regression.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb) 
+Apr 29
+: [Advanced Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_24/24_Neural_Networks.pdf) 
+  : [worksheet 24](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_24/worksheet_24.ipynb) 
 
-Nov 20 
-: [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_20/20_Gradient_Descent.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_20/worksheet_20.ipynb) 
-
-Nov 22-26 
-: **THANKSGIVING BREAK**{: .label .label-purple }
-
-Nov 27 
-: [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_21/21_Linear_Model_Evaluation.pdf) 
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_21/worksheet_21.ipynb) 
-
-Nov 29
-: [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_22/22_Linear_Model_Evaluation.pdf)
-  : [worksheet](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_22/worksheet_22.ipynb) 
-    : **HWK 4 due**{: .label .label-yellow } 

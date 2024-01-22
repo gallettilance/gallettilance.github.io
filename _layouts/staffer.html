@@ -25,6 +25,9 @@
     {% if page.lab %}
     <p class="staffer-meta">Lab: {{ page.lab | markdownify | strip_html }}</p>
     {% endif %}
+    {% if page.projects %}
+    <p class="staffer-meta">Projects: {{ page.projects | markdownify | strip_html }}</p>
+    {% endif %}
     {{ content }}
   </div>
 </div>

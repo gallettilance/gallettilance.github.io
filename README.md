@@ -12,12 +12,12 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/fall2023/cs506a1) and [Discord](https://discord.gg/bB6Fm84e)
+1. Join [Piazza](https://piazza.com/bu/spring2024/cs506)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/bQeZjJdjJXF98N3DA) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](https://www.gradescope.com/courses/607164) (code: ZWZ4X5)
+6. Sign up for [GradeScope](https://www.gradescope.com/courses/711437) (code: WBZEWG)
 
 ## About
 
@@ -27,13 +27,11 @@ The course introduces students to a wide range of techniques that are commonly u
 
 Note that this is not a Python (or an introduction to programming) course, so self-study will be necessary for those students who do not already know the language.
 
+There is no textbook for this course, all the material is available in the [course github repo](https://github.com/gallettilance/Data-Science-Fundamentals) (also linked above). Additional notes and articles related to this course can be found on [Lance Galletti's Medium](https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf).
+
 ### Prerequisites
 
 Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
-
-## Emails
-
-If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the CF, and all TAs.
 
 ## Final Project
 
@@ -45,17 +43,9 @@ Teams will have ~5 students. Students that decide to take on the role of team le
 
 At the end of the semester, one team will be selected to present their project on the Spark Demo day stage. One team per project will be selected to present a poster of their project on Demo Day.
 
-## Homeworks
+## Labs
 
-The homework assignments will be due throughout the semester as relevant material is covered. There will be 7 assignments in total. Homeworks are collaborative. You can submit them individually or as a group. I highly encourage you to create a study group, share knowledge, and work on and submit the homeworks together.
-
-### Late Policy
-
-Late homeworks will be accepted up to 48h after the due date. Late homeworks will incur a 12% penalty for the first 24h and a 20% penalty for next 24h. No points will be awarded after 48h. The lowest homework grade will be dropped at the end of the semester.
-
-### Re-Grades
-
-If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
+Labs will be dedicated to helping you with your project. All team members must attend the same lab to provide an update on the project and plan the week to come on Trello - which will count toward the project grade. Technical Experts (TEs) as well as TAs will be available during labs to help.
 
 ## Midterm
 
@@ -63,21 +53,29 @@ The midterm will be a Kaggle Data Science competition among the students in the 
 
 ## Worksheets
 
-Every lecture is accompanied with a worksheet due 24h after lecture. To receive credit, you need to reasonably complete them reasonably well. There will be no partial credit for worksheets or late deadlines. These are meant to help you further develop practical skills learned in class and only the highest 15 worksheet grades will count toward your grade (so about 7 or so will be dropped / optional).
+Every lecture is accompanied with a worksheet. Monday worksheets are due at 11:59PM on Tuesday night. Wednesday worksheets will contain a take home challenge / exercise and they will be due at 11:59PM on Sunday night. There will be no partial credit for worksheet questions and there is no late policy (if you miss the deadline you get no points). 3 worksheets can be dropped at the end of the semester.
 
-## Labs
+## Collaboration
 
-Labs will be dedicated to helping you with your project. Team Leads must attend labs to provide an update on the project which will count toward the project grade. Technical Experts (TEs) as well as TAs will be available during labs to help.
+Collaboration is highly encouraged in this class. You can submit worksheets as a group / team on gradescope - everyone on the team will receive the same grade. Working in a team is a great way to share knowledge and help alleviate workload and stress.
+
+## Re-Grades
+
+If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
+
+## Emails
+
+If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the TF, and all TAs.
 
 ## Grading
 
-|      Grading      |
-|-------------------|
-| 15% midterm       |
-| 30% homeworks     |
-| 15% worksheets    |
-| 40% final project |
-| 5% extra credit   |
+- 40% worksheets
+- 20% midterm
+- 40% final project
+  - 8% early insights
+  - 14% mid-semester report
+  - 18% final report
+- 5% extra credit
 
 | Letter | Grade  |
 |----|------------|
@@ -92,7 +90,7 @@ Labs will be dedicated to helping you with your project. Team Leads must attend 
 | D  |  60% - 70% |
 | F  |  below 60% |
 
-### Extra Credit
+## Extra Credit
 
 Extra credit can be earned by **consistently**:
 

@@ -17,7 +17,7 @@ title: BU CS 506
 tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Lance Galletti
-url: 'https://gallettilance.github.io/'
+url: 'https://gallettilance.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,22 +28,21 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Piazza:
-    - 'https://piazza.com/bu/fall2023/cs506a1'
+    - 'https://piazza.com/bu/spring2024/cs506'
   GradeScope:
-    - 'https://www.gradescope.com/courses/607164'
-  GitHub:
+    - 'https://www.gradescope.com/courses/711437'
+  Course GitHub:
     - 'https://github.com/gallettilance/Data-Science-Fundamentals'
-  Discord:
-    - 'https://discord.gg/bB6Fm84e'
+  Course Medium:
+    - 'https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf'
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
   modules:
-  assignments:
   faq:
-  deliverables:
+  finalproject:
 
 # Default layouts for each collection type
 defaults:
@@ -60,17 +59,12 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: assignments
-    values:
-      layout: module
-  - scope:
-      path: ''
       type: faq
     values:
       layout: module
   - scope:
       path: ''
-      type: deliverables
+      type: finalproject
     values:
       layout: module
   

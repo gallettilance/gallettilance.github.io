@@ -1,5 +1,0 @@
----
-title: Midterm
----
-
-Coming Soon
