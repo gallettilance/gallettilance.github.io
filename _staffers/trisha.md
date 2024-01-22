@@ -1,6 +1,6 @@
 ---
 name: Trisha Anil
-role: Technical PM
+role: Technical Project Manager
 email: tcanil@bu.edu
 projects: TBD
 lab: TBD
