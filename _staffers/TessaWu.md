@@ -1,10 +1,8 @@
 ---
-Name: Tessa Wu
-Role: Technical Project Manager
-Email: tessaw@bu.edu
-Projects: Bus Performance, Permitting
-Labs: Thursday (3:35PM - 4:25OM) & (5:00PM - 5:50PM)
-photo: TessaWu.jpg
+name: Tessa Wu
+role: Technical Project Manager
+email: tessaw@bu.edu
+projects: TBD
+lab: TBD
+photo: Tessa_Wu.jpg
 ---
-
-Office Hours: Wednesday 3:30PM - 4:30PM @ CDS 206A
