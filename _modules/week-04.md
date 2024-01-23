@@ -28,3 +28,7 @@ Apr 1
 : MIDTERM REVIEW + [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_16/16_Support_Vector_Machines.pdf)
   : [worksheet 16](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_16/worksheet_16.ipynb) 
     : **MIDTERM END**{: .label .label-yellow }  
+
+(Optional)
+: [Recommender Systems](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_17/17_Recommender_Systems.pdf)
+  : [worksheet 17](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_17/worksheet_17.ipynb)
