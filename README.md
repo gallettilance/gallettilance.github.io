@@ -12,7 +12,7 @@ seo:
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/spring2024/cs506)
+1. Join [Piazza](https://piazza.com/bu/spring2024/cs506) and [Discord](https://discord.gg/mNN7jEJT7H)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/bQeZjJdjJXF98N3DA) (requires BU email) with your GitHub and Kaggle account username
