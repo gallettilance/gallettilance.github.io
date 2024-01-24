@@ -6,7 +6,7 @@ description: Listing of course modules and topics.
 
 # Course Schedule
 
-Worksheets with a **white box** around them are up to date and ready to be downloaded and worked on. Those without a white box are from the previous semester which you may still use as reference material if you wish.
+Worksheets with a **white box** around them are up to date and ready to be downloaded and worked on. Those without a white box are from the previous semester which you may still use as reference material.
 
 To download worksheets: follow the link which will take you to the file in the course repo, then you can pull the worksheet from the course repo using git.
 
