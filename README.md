@@ -94,7 +94,5 @@ If emailing the CS506 staff, or creating a private Piazza post, please always CC
 
 Extra credit can be earned by **consistently**:
 
-- Attending class and labs.
-- Asking and answering questions on Piazza.
-- Submitting PRs to our class repository with code or class notes.
-- Contributing to our class repository or course website (by fixing typos, providing clarification edits etc.)
+- Asking and answering questions on Piazza
+- Contributing to our class repository or course website via PRs (e.g. by fixing typos, providing clarification edits, sharing class notes, etc.)
