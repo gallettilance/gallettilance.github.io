@@ -13,20 +13,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+<<<<<<< HEAD
 title: BU CS 506
 tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Lance Galletti
 url: 'https://gallettilance.github.io'
+=======
+title: Just the Class
+tagline: A Jekyll template for course websites
+description: A modern, highly customizable, responsive Jekyll template for course websites
+author: Kevin Lin
+baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> eb6c583 (cs 506 exercise part a)
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
+<<<<<<< HEAD
 color_scheme: dark
+=======
+color_scheme: light
+>>>>>>> eb6c583 (cs 506 exercise part a)
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+<<<<<<< HEAD
   Piazza:
     - 'https://piazza.com/bu/spring2024/cs506'
   GradeScope:
@@ -35,15 +49,26 @@ aux_links:
     - 'https://github.com/gallettilance/Data-Science-Fundamentals'
   Course Medium:
     - 'https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf'
+=======
+  Kevin Lin:
+    - 'https://kevinl.info'
+  Just the Class on GitHub:
+    - 'https://github.com/kevinlin1/just-the-class'
+>>>>>>> eb6c583 (cs 506 exercise part a)
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
   modules:
+<<<<<<< HEAD
   faq:
   finalproject:
 
+=======
+  schedules:
+  announcements:
+>>>>>>> eb6c583 (cs 506 exercise part a)
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -59,6 +84,7 @@ defaults:
       layout: module
   - scope:
       path: ''
+<<<<<<< HEAD
       type: faq
     values:
       layout: module
@@ -68,6 +94,16 @@ defaults:
     values:
       layout: module
   
+=======
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+>>>>>>> eb6c583 (cs 506 exercise part a)
 
 compress_html:
   clippings: all

@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+*/*_solution.py
+.DS_Store
+=======
+>>>>>>> eb6c583 (cs 506 exercise part a)
 *.gem
 .bundle/
 .jekyll-cache/
@@ -7,4 +14,8 @@ Gemfile.lock
 _site/
 node_modules/
 vendor/
+<<<<<<< HEAD
 *.DS_Store
+=======
+>>>>>>> a5d2465 (Initial commit)
+>>>>>>> eb6c583 (cs 506 exercise part a)

@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Course Schedule
 description: Listing of course modules and topics.
 ---
@@ -13,6 +14,13 @@ To download worksheets: follow the link which will take you to the file in the c
 On the top right of the github page you can click on the three dots "..." and download the raw file. Make sure that when you save it it has the ".ipynb" file extension and not ".txt" or something else.
 
 If you're familiar with git/github, please fork the repo (make sure to keep your fork up to date) and clone that fork so you can work on the worksheets locally.
+=======
+title: Calendar
+description: Listing of course modules and topics.
+---
+
+# Calendar
+>>>>>>> eb6c583 (cs 506 exercise part a)
 
 {% for module in site.modules %}
 {{ module }}
