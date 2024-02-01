@@ -4,7 +4,7 @@ title: Clustering
 
 Feb 7 
 : [Distance & Similarity](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_04/04_Distance_%26_Similarity.pdf) 
-  : [worksheet 04](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_04/worksheet_04.ipynb) 
+  : [worksheet 04](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_04/worksheet_04.ipynb){: .btn .btn-outline } 
 
 Feb 12 
 : [K-means](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_05/05_Clustering_Kmeans.pdf) 
