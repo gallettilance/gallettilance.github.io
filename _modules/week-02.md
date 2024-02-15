@@ -23,8 +23,8 @@ Feb 21
 
 Feb 26 
 : [Soft Clustering](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_08/08_Soft_Clustering.pdf) 
-  : [worksheet 08](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_08/worksheet_08.ipynb) 
+  : [worksheet 08](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_08/worksheet_08.ipynb){: .btn .btn-outline } 
 
 (Optional) 
 : [Clustering Aggregation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_09/09_Clustering_Aggregation.pdf) 
-  : [worksheet 09](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_09/worksheet_09.ipynb) 
+  : [worksheet 09](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_09/worksheet_09.ipynb)  
