@@ -9,5 +9,5 @@ Feb 28
 
 Mar 4
 : SVD cont'd + [Latent Semantic Analysis](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_11/11_Latent_Semantic_Analysis.pdf) 
-  : [worksheet 11](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_11/worksheet_11.ipynb) 
+  : [worksheet 11](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_11/worksheet_11.ipynb){: .btn .btn-outline }  
 
