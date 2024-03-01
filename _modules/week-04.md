@@ -4,7 +4,7 @@ title: Classification
 
 Mar 6 
 : [Intro to Classification + KNN](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_12/12_Classification_KNN.pdf)  
-  : [worksheet 12](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_12/worksheet_12.ipynb)  
+  : [worksheet 12](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_12/worksheet_12.ipynb){: .btn .btn-outline } 
 
 Mar 11-15
 : **SPRING BREAK**{: .label .label-red }
