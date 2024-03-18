@@ -11,11 +11,11 @@ Mar 11-15
 
 Mar 18
 : [Decision Trees](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_13/13_Decision_Trees.pdf) 
-  : [worksheet 13](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_13/worksheet_13.ipynb) 
+  : [worksheet 13](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_13/worksheet_13.ipynb){: .btn .btn-outline }  
 
 Mar 20 
 : [Naive Bayes](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_14/14_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_14/14_Model_Evaluation_and_Ensemble_Methods.pdf) 
-  : [worksheet 14](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_14/worksheet_14.ipynb) 
+  : [worksheet 14](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_14/worksheet_14.ipynb){: .btn .btn-outline }  
 
 Mar 25 
 : [MIDTERM LAUNCH](#)
