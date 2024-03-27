@@ -22,11 +22,11 @@ Mar 25
 
 Mar 27 
 : [Support Vector Machines](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
-  : [worksheet 15](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_15/worksheet_15.ipynb) 
+  : [worksheet 15](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_15/worksheet_15.ipynb){: .btn .btn-outline } 
 
 Apr 1
 : MIDTERM REVIEW + [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_16/16_Support_Vector_Machines.pdf)
-  : [worksheet 16](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_16/worksheet_16.ipynb) 
+  : [worksheet 16](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_16/worksheet_16.ipynb){: .btn .btn-outline } 
     : **MIDTERM END**{: .label .label-yellow }  
 
 (Optional)
