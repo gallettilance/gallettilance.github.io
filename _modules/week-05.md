@@ -4,11 +4,11 @@ title: Regression
 
 Apr 3 
 : [Linear Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_18/18_Linear_Regression.pdf) 
-  : [worksheet 18](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_18/worksheet_18.ipynb) 
+  : [worksheet 18](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_18/worksheet_18.ipynb){: .btn .btn-outline } 
 
 Apr 8 
 : [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_19/19_Linear_Model_Evaluation.pdf) 
-  : [worksheet 19](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb) 
+  : [worksheet 19](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_19/worksheet_19.ipynb){: .btn .btn-outline } 
     : **MID-SEMESTER REPORT**{: .label .label-green}
 
 
