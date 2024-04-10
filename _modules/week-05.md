@@ -14,7 +14,7 @@ Apr 8
 
 Apr 10 
 : [Linear Model Evaluation](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_20/20_Linear_Model_Evaluation.pdf)
-  : [worksheet 20](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_20/worksheet_20.ipynb)
+  : [worksheet 20](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_20/worksheet_20.ipynb){: .btn .btn-outline } 
 
 Apr 15 
 : **NO CLASS**{: .label .label-red } 
