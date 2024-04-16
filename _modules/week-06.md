@@ -2,11 +2,14 @@
 title: Neural Networks
 ---
 
+Apr 22 
+: [Fundamentals of Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_22/22_Neural_Networks.pdf) 
+  : [worksheet 22](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_22/worksheet_22.ipynb) 
+
+
 Apr 24 
-: [Fundamentals of Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_23/23_Neural_Networks.pdf) 
+: Day in the Life of a DS / SWE
+
+Apr 29 
+: [Advanced Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_23/23_Neural_Networks.pdf) 
   : [worksheet 23](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_23/worksheet_23.ipynb) 
-
-Apr 29
-: [Advanced Neural Networks](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_24/24_Neural_Networks.pdf) 
-  : [worksheet 24](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_24/worksheet_24.ipynb) 
-

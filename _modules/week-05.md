@@ -20,9 +20,5 @@ Apr 15
 : **NO CLASS**{: .label .label-red } 
 
 Apr 17
-: [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_21/21_Logistic_Regression.pdf) 
-  : [worksheet 21](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_21/worksheet_21.ipynb) 
-
-Apr 22
-: [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_22/22_Gradient_Descent.pdf) 
-  : [worksheet 22](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_22/worksheet_22.ipynb) 
+: [Logistic Regression](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_21/21_Logistic_Regression.pdf) + [Gradient Descent](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_22/22_Gradient_Descent.pdf) 
+  : [worksheet 21](https://github.com/gallettilance/Data-Science-Fundamentals/blob/main/lecture_21/worksheet_21.ipynb){: .btn .btn-outline } 
