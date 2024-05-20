@@ -10,14 +10,18 @@ seo:
 
 # Data Science Tools and Applications
 
+Suplmental material can be found on [YouTube](https://youtube.com/@howithinkabout?feature=shared)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smLdMzVlmyU?si=1YV8CSIx92LVLfTt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/spring2024/cs506) and [Discord](https://discord.gg/mNN7jEJT7H)
+1. Join [Piazza]() and [Discord]()
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
-4. Fill out [this form](https://forms.gle/bQeZjJdjJXF98N3DA) (requires BU email) with your GitHub and Kaggle account username
+4. Fill out [this form]() (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope](https://www.gradescope.com/courses/711437) (code: WBZEWG)
+6. Sign up for [GradeScope]() (code: TBD)
 
 ## About
 

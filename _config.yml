@@ -28,13 +28,15 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Piazza:
-    - 'https://piazza.com/bu/spring2024/cs506'
+    - ''
   GradeScope:
-    - 'https://www.gradescope.com/courses/711437'
+    - ''
   Course GitHub:
     - 'https://github.com/gallettilance/Data-Science-Fundamentals'
   Course Medium:
     - 'https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf'
+  YouTube:
+    - 'https://youtube.com/@howithinkabout?feature=shared'
 footer_content:
 
 # Collections for website data
