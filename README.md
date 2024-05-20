@@ -10,7 +10,7 @@ seo:
 
 # Data Science Tools and Applications
 
-Suplmental material can be found on [YouTube](https://youtube.com/@howithinkabout?feature=shared)
+Supplemental material can be found on [YouTube](https://youtube.com/@howithinkabout?feature=shared)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smLdMzVlmyU?si=1YV8CSIx92LVLfTt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
