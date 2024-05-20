@@ -12,7 +12,7 @@ seo:
 
 Supplemental material can be found on [YouTube](https://youtube.com/@howithinkabout?feature=shared)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smLdMzVlmyU?si=1YV8CSIx92LVLfTt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=howithinkabout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Getting Started Checklist
 
