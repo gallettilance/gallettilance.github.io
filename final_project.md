@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Final Project 
-description: Spark! Project Work Syllabus
+description: Final Project Details
 ---
 
-## Spark! Project Work Syllabus
+# Final Project Requirements
 
-Teams are expected to complete 3 deliverables on their set due dates. If students are going to drop the class, they need to inform their PM, TE, and the Spark! Operations Director (Lydia Holck - lydia12@bu.edu). 
+Your final project must be in a github repo with:
+1. A REAME.md detailing the project, how to build and use the code, how to contribute, how to test the code, and what environment it’s supported in.
+2. Github workflow should be defined to test the code. Just test a few things you think are important - no need to overdo it on the testing front that’s not the focus of the project.
+3. Code should be consumable / runnable and results should be reproduceable with only a few instructions / commands
 
-{% assign deliverables = site.finalproject %}
-{% for d in deliverables %}
-{{ d }}
-{% endfor %}
+More details to follow.
