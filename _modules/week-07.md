@@ -2,6 +2,12 @@
 title: Other Topics
 ---
 
-May 1 
+Dec 2
 : EXTRA TOPICS 
-  : **FINAL REPORT**{: .label .label-green}
+  : [assignment 11](#){: .btn .btn-outline }
+
+Dec 4
+: EXTRA TOPICS 
+
+Dec 9
+: [Ask Me Anything](#)

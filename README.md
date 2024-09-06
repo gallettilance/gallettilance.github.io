@@ -21,7 +21,6 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form]() (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Sign up for [GradeScope]() (code: TBD)
 
 ## About
 
@@ -39,16 +38,16 @@ Students taking this class must have some prior familiarity with programming at 
 
 ## Workload
 
-There are 3 components to this course:
+There are a number of components to this course:
 
-1. Weekly assignments
+1. Weekly assignments and labs
 2. A midterm
 3. A final project
-4. Cold Calls in class
+4. In class exercises
 
 ### Assignments
 
-A programming assignment will be released every Wednesday and be due on Sunday at 11:59PM. These are individual assignments. The use of tools like chatGPT is encouraged.
+A programming assignment will be released every Monday and be due on Sunday at 11:59PM. These are individual assignments. The use of tools like chatGPT is encouraged.
 
 ### Midterm
 
@@ -64,22 +63,23 @@ You can select among a number of [BU Spark](https://www.bu.edu/spark/) curated p
 
 At the end of the semester, some teams will be selected to present a poster of their project on Demo Day (details to follow).
 
-### Cold Call
+### Participation
 
-Reading will be assigned prior to some classes and you may be cold called to answer a question specific to the reading.
+Every lecture will have in class exercises to complete.
 
 ## Labs
 
-The first few labs will aim to help folks get up to speed with using Python, or tools like Git/GiitHub. Labs will then become extra office hours.
+Labs will be graded and attendance will be recorded.
 
 ## Grading
 
 ### Grading
 
-- 40% assignments
+- 30% assignments
+- 15% labs
 - 20% midterm
-- 35% final project
-- 5% cold call
+- 30% final project
+- 5% participation
 
 | Letter | Grade  |
 |----|------------|
