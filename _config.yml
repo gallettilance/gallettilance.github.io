@@ -45,6 +45,7 @@ collections:
   modules:
   faq:
   finalproject:
+  assignments:
 
 # Default layouts for each collection type
 defaults:
@@ -69,7 +70,11 @@ defaults:
       type: finalproject
     values:
       layout: module
-  
+  - scope:
+      path: ''
+      type: assignments
+    values:
+      layout: module
 
 compress_html:
   clippings: all

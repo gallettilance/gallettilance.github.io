@@ -4,7 +4,7 @@ title: Introduction
 
 Sep 9 
 : [Overview](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_00/00_CS_506_Overview.pdf) 
-  : [assignment 00](#){: .btn .btn-outline }
+  : [assignment 00](../assignments/assignment0){: .btn .btn-outline }
 
 Sep 11 
 : [Git](https://github.com/gallettilance/Data-Science-Fundamentals/raw/main/lecture_01/01_Git.pdf) 
