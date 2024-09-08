@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 # GIT Instructions
-### Please read these assignment instructions in its entirety very carefully before starting it!
+### Please read these assignment instructions in their entirety very carefully before starting it!
 ## 1. Set Up Your GitHub Repository:
 - Create a new repository on GitHub named `username.github.io`, where `username` is your GitHub username.
 - This repository will host your personal website.
@@ -24,7 +24,7 @@ nav_exclude: true
 - For each assignment, you will provide a brief explanation of how you approached it.
 - You will include a link to the GitHub code repository of that assignment.
 - Below is an example image of how your assignment page in your portfolio website might look like (Styling is not necessary, you can choose to keep minimal styling):
-![assignments_image](assets/images/hw1-image.png)
+![assignments_image](../../assets/images/hw1-image.png)
 
 ## 4. Requirements:
 Please refer to the following list of requirements:
@@ -41,7 +41,7 @@ Please refer to the following list of requirements:
 - Test your website to ensure it’s live and functioning as expected.
 
 ## 6. Dummy Assignment:
-To practice submitting assignment for this course, please add a dummy assignment to your website. Follow the below steps carefully:
+To practice submitting assignments for this course, please add a dummy assignment to your website. Follow the steps below carefully:
 1) Create a private repo called `assignment-0` following the repo naming convention.
 2) Assignment task: Write a python script that adds two numbers together and prints their sum to the command line.
 3) Add, commit, push your code to your `assignment-0` repo (which should still be private).
