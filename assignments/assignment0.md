@@ -13,7 +13,7 @@ nav_exclude: true
 ## 2. Design Your Website:
 - Create a simple HTML/CSS website. You can use any website template you like or build your own from scratch.
 - Ensure that your website includes the following sections with `About Me as the landing page of your website`:
-  - **About Me**: This will be your landing page. A brief introduction about yourself. The About me section should be accessible at `username.github.io/about-me`, where `username` is your GitHub username.
+  - **About Me**: This will be your landing page. A brief introduction about yourself. The About me section should be accessible at `username.github.io/`, where `username` is your GitHub username.
   - **Work Experience**: If any, highlight your work experience. The Work experience section should be accessible at `username.github.io/work-experience`, where `username` is your GitHub username.
   - **Projects**: A section showcasing some of the projects you've worked on. The Work experience section should be accessible at `username.github.io/projects`, where `username` is your GitHub username.
   - **Contact**: Information on how to reach you, like email, LinkedIn, etc. The Work experience section should be accessible at `username.github.io/contact`, where `username` is your GitHub username.
