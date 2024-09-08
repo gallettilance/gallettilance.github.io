@@ -31,8 +31,7 @@ Please refer to the following list of requirements:
 - Graders will be running an automated script to scrape all websites for each assignment. As such it's critical that:
   1. Your assignment repo should be public after the deadline (not before). Keep it private until the deadline.
   2. The href/link to your assignment's github repo on your website is exactly named: "Github Link". Note: capitalization is important here.
-  3. The name of your github code repository should be of the format: "assignment-X" (where X is the assignment number), for example: "assignment-1".
-- The name of your github code repository should be of the format: `bu_username-assignment-X` (where `X` is the assignment number and `bu_username` is your *BU Email ID without @bu.edu*), for example, in my case (ayush25@bu.edu and for assignment 1): "ayush25-assignment-1" will be the correct GitHub repo name for assignment 1.
+  3. The name of your github code repository should be of the format: `bu_username-assignment-X` (where `X` is the assignment number and `bu_username` is your *BU Email ID without @bu.edu*), for example, in my case (ayush25@bu.edu and for assignment 1): "ayush25-assignment-1" will be the correct GitHub repo name for assignment 1.
 -  If any of these is missing, graders will not be able to find your assignment and you will get 0. For the first few assignments, if you do get 0 because the grading staff was unable to find your assignment, you will have 24h after grades are returned to fix the issue for a regrade. This second chance will not be available after the first month of classes.
 
 ## 5. Deploy Your Website:
@@ -42,12 +41,12 @@ Please refer to the following list of requirements:
 
 ## 6. Dummy Assignment:
 To practice submitting assignments for this course, please add a dummy assignment to your website. Follow the steps below carefully:
-1) Create a private repo called `assignment-0` following the repo naming convention.
-2) Assignment task: Write a python script that adds two numbers together and prints their sum to the command line.
-3) Add, commit, push your code to your `assignment-0` repo (which should still be private).
-4) Add an Assignment 0 section to your assignments page with a brief description of the project and the private repo linked following the requirements above.
-5) Add, commit, push these changes and ensure the dummy assignment is visible on your website.
-6) Finally make the `assignment-0` public.
+1. Create a private repo called `assignment-0` following the repo naming convention.
+2. Assignment task: Write a python script that adds two numbers together and prints their sum to the command line.
+3. Add, commit, push your code to your `assignment-0` repo (which should still be private).
+4. Add an Assignment 0 section to your assignments page with a brief description of the project and the private repo linked following the requirements above.
+5. Add, commit, push these changes and ensure the dummy assignment is visible on your website.
+6. Finally make the `assignment-0` public.
 
 ## 7. Submit to the Course Repository:
 - Create a pull request against the course repository with a link to your website.
