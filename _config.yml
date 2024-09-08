@@ -46,6 +46,7 @@ collections:
   faq:
   finalproject:
   assignments:
+  labs:
 
 # Default layouts for each collection type
 defaults:
@@ -73,6 +74,11 @@ defaults:
   - scope:
       path: ''
       type: assignments
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: labs
     values:
       layout: module
 
