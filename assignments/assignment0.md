@@ -48,5 +48,5 @@ To practice submitting assignments for this course, please add a dummy assignmen
   5. Add, commit, push these changes and ensure the dummy assignment is visible on your website.
   6. Finally make the `assignment-0` public.
 
-## 7. Submit to the Course Repository:
-- Create a pull request against the course repository with a link to your website.
+## 7. Submit your website:
+- Complete the following [form](https://forms.gle/S2DyVycuwmJCCw8i7) to submit your website.
