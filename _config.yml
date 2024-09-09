@@ -28,8 +28,8 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Piazza:
-    - ''
-  GradeScope:
+    - 'https://piazza.com/bu/fall2024/cs506a1'
+  BlackBoard:
     - ''
   Course GitHub:
     - 'https://github.com/gallettilance/Data-Science-Fundamentals'

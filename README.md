@@ -16,10 +16,10 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 
 ## Getting Started Checklist
 
-1. Join [Piazza]() and [Discord]()
+1. Join [Piazza](https://piazza.com/bu/fall2024/cs506a1) and [Discord](https://discord.gg/UveZDdwsyn)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
-4. Fill out [this form]() (requires BU email) with your GitHub and Kaggle account username
+4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
 
 ## About
@@ -65,7 +65,7 @@ At the end of the semester, some teams will be selected to present a poster of t
 
 ### Participation
 
-Every lecture will have in class exercises to complete.
+Every lecture will have in class exercises to complete and submit via in class polls.
 
 ## Labs
 
