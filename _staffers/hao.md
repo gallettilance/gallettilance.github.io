@@ -1,6 +1,6 @@
 ---
 name: Hao Yu
-role: Teaching Fellow
+role: Teaching Assistant
 email: haoyu@bu.edu
 lab: TBD
 photo: hao.JPG
