@@ -18,9 +18,3 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
-# Technical Project Managers
-
-{% assign technical_pms = site.staffers | where: 'role', 'Technical Project Manager' %}
-{% for staffer in technical_pms %}
-{{ staffer }}
-{% endfor %}
