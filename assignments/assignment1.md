@@ -9,7 +9,7 @@ This assignment is released as a Python Notebook [at this link](assignment1.ipyn
 
 You can use Google Colab to edit the Python notebook or run your local Jupyter server.
 
-Once the Python notebook is completed, follow thsese steps to submit:
+Once the Python notebook is completed, follow these steps to submit:
 
   1. Create a private repo called `assignment-1` following the repo naming convention.
   2. Add the completed `assignment1.ipynb` to the repo (it can be the only file).
