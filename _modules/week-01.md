@@ -12,5 +12,5 @@ Sep 11
 
 Sep 16
 : [Intro to DS](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_03/03_Introduction.pdf) + [Distance & Similarity](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_04/04_Distance_%26_Similarity.pdf) 
-  : [assignment 01](#){: .btn .btn-outline } 
+  : [assignment 01](../assignments/assignment1){: .btn .btn-outline } 
 
