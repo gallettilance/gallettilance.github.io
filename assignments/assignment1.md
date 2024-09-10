@@ -13,4 +13,4 @@ Once the Python notebook is completed, follow these steps to submit:
 
   1. Create a private repo called `assignment-1` following the repo naming convention.
   2. Add the completed `assignment1.ipynb` to the repo (it can be the only file).
-  3. Make the `assignment-1` repo public before the deadline.
+  3. Make the `assignment-1` repo public on the deadline.
