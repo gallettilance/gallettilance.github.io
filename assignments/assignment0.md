@@ -41,12 +41,12 @@ Please refer to the following list of requirements:
 
 ## 6. Dummy Assignment:
 To practice submitting assignments for this course, please add a dummy assignment to your website. Follow the steps below carefully:
-  1. Create a private repo called `assignment-0` following the repo naming convention.
+  1. Create a private repo called `bu_username-assignment-0` following the repo naming convention.
   2. Assignment task: Write a python script that adds two numbers together and prints their sum to the command line.
-  3. Add, commit, push your code to your `assignment-0` repo (which should still be private).
+  3. Add, commit, push your code to your `bu_username-assignment-0` repo (which should still be private).
   4. Add an Assignment 0 section to your assignments page with a brief description of the project and the private repo linked following the requirements above.
   5. Add, commit, push these changes and ensure the dummy assignment is visible on your website.
-  6. Finally make the `assignment-0` public.
+  6. Finally make the `bu_username-assignment-0` public.
 
 ## 7. Submit to the Course Repository:
 - Create a pull request against the course repository with a link to your website.
