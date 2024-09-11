@@ -16,7 +16,7 @@ Each assignment is worth 2 points. Criteria is as follows:
 Graders will be running an automated script to scrape all websites for each assignment. As such it's critical that:
   1. Your assignment repo should be public after the deadline (not before). Keep it private until the deadline.
   2. The href/link to your assignment's github repo on your website is exactly named: "Github Link". Note: capitalization is important here.
-  3. The name of your github code repository should be of the format: `bu_username-assignment-X` (where `X` is the assignment number and `bu_username` is your *BU Email ID without @bu.edu*), for example, in my case (ayush25@bu.edu and for assignment 1): "ayush25-assignment-1" will be the correct GitHub repo name for assignment 1.
+  3. The name of the github repository for each assignment should be of the format: `bu_username-assignment-X` (where `X` is the assignment number and `bu_username` is your *BU Email ID without @bu.edu*), for example: given a bu email of ayush25@bu.edu and working on assignment 1: "ayush25-assignment-1" will be the correct GitHub repo name for assignment 1.
 
 If any of these is missing, graders will not be able to find your assignment and you will get 0.
 
