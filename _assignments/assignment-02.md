@@ -1,6 +1,6 @@
 ---
-title: Assignment 1
+title: Assignment 2
 ---
 
-Sep 23
+Due Sep 29
 : **Assignment 2**{: .label .label-hw }[KMeans Clustering Visualization Webpage](#)
