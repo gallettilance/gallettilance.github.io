@@ -7,7 +7,7 @@ Sep 9
   : [assignment 00](../assignments/assignment0){: .btn .btn-outline }
 
 Sep 11 
-: [Git](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_01/01_Git.pdf) 
+: [Git](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_01/01_Git.pdf) [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_01/worksheet_01.ipynb){: .btn .btn-outline }
   : [lab 00](https://github.com/Chris210634/CS506-Lab0){: .btn .btn-outline }
 
 Sep 16
