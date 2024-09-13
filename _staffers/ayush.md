@@ -2,7 +2,7 @@
 name: Ayush Sharma
 role: Teaching Assistant
 email: ayush25@bu.edu
-lab: TBD!
+lab: Th 12:30 pm-01:20 pm
 photo: ayush.jpeg
 ---
 
