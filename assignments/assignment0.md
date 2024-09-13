@@ -15,8 +15,8 @@ nav_exclude: true
 - Ensure that your website includes the following sections with `About Me as the landing page of your website`:
   - **About Me**: This will be your landing page. A brief introduction about yourself. The About me section should be accessible at `username.github.io/`, where `username` is your GitHub username.
   - **Work Experience**: If any, highlight your work experience. The Work experience section should be accessible at `username.github.io/work-experience`, where `username` is your GitHub username.
-  - **Projects**: A section showcasing some of the projects you've worked on. The Work experience section should be accessible at `username.github.io/projects`, where `username` is your GitHub username.
-  - **Contact**: Information on how to reach you, like email, LinkedIn, etc. The Work experience section should be accessible at `username.github.io/contact`, where `username` is your GitHub username.
+  - **Projects**: A section showcasing some of the projects you've worked on. The Project section should be accessible at `username.github.io/projects`, where `username` is your GitHub username.
+  - **Contact**: Information on how to reach you, like email, LinkedIn, etc. The Contact section should be accessible at `username.github.io/contact`, where `username` is your GitHub username.
   - Each section should be a separate page. Don't include multiple sections in same page, create different dedicated pages for different sections.
 
 ## 3. Create an Assignment Section:
