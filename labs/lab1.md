@@ -1,4 +1,10 @@
-# Lab 1: Elevator Data Visualization
+---
+layout: page
+title: Lab 1: Elevator Data Visualizations
+nav_exclude: true
+---
+
+# Elevator Data Visualization
 
 ## Introduction
 
