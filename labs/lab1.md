@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab 1: Elevator Data Visualizations
+title: Lab 1 - Elevator Data Visualizations
 nav_exclude: true
 ---
 
