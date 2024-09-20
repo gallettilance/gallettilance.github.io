@@ -16,11 +16,11 @@ Your final project must be in a github repo with:
 The goal is to practice the full data science lifecycle on a topic of your choice.
 
 The proposed project must include the following components:
- - data collection
- - data cleaning
- - feature extraction
- - data visualization
- - model training
+ - Data collection
+ - Data cleaning
+ - Feature extraction
+ - Data visualization
+ - Model training
  
 Thoughout this project, you should maintain a well organized Github.
 
