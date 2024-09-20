@@ -6,10 +6,10 @@ description: Final Project Details
 
 # Final Project Requirements
 
-Your final project must be in a github repo with:
-1. A REAME.md detailing the project, how to build and use the code, how to contribute, how to test the code, and what environment it’s supported in.
-2. Github workflow should be defined to test the code. Just test a few things you think are important - no need to overdo it on the testing front that’s not the focus of the project.
-3. Code should be consumable / runnable and results should be reproduceable with only a few instructions / commands
+Your final project must be in a GitHub repo with:
+1. A README.md detailing the project, how to build and use the code, how to contribute, how to test the code, and what environment it’s supported in.
+2. GitHub workflow should be defined to test the code. Just test a few things you think are important - no need to overdo it on the testing front that’s not the focus of the project.
+3. Code should be consumable / runnable and results should be reproducible with only a few instructions / commands
 
 # Project Goals
 
@@ -22,7 +22,7 @@ The proposed project must include the following components:
  - Data visualization
  - Model training
  
-Thoughout this project, you should maintain a well organized Github.
+Throughout this project, you should maintain a well organized GitHub.
 
 # Project Timeline
 
@@ -40,18 +40,18 @@ Work in groups of 1-5 students.
   - Description of the project.
   - Clear goal(s) (e.g. Successfully predict the number of students attending lecture based on the weather report).
   - What data needs to be collected and how you will collect it (e.g. scraping xyz website or polling students).
-  - How you plan on modeling the data (e.g. clustering, fitting a linear model, decision trees, XG-boost, some sort of deep learning method etc.).
+  - How you plan on modeling the data (e.g. clustering, fitting a linear model, decision trees, XGBoost, some sort of deep learning method, etc.).
   - How do you plan on visualizing the data? (e.g. interactive t-SNE plot, scatter plot of feature x vs. feature y).
-  - What is your test plan? (e.g. withhold 20 % of data for testing, train on data collected in October and test on data collected in November etc.).
+  - What is your test plan? (e.g. withhold 20% of data for testing, train on data collected in October and test on data collected in November, etc.).
   
  Note that at this stage of the project you should be as explicit as possible on what the goals of the project are and how you plan on collecting the data.
  You can be a little more vague on the modeling and visualization aspects because that will evolve as you learn more methods in class and see what the data looks like.
 
  Keep in mind that the scope of this project should reflect two months worth of work. Do not be overly simple or ambitious. The course staff will provide feedback on your proposal. 
 
- Please form groups of 1-5 students and create either a Github repo. Submit your github repo URL here: link here.
+ Please form groups of 1-5 students and create either a GitHub repo. Submit your GitHub repo URL here: link here.
  
- Your proposal should be submitted as `README.md` in your project Github repo.
+ Your proposal should be submitted as `README.md` in your project GitHub repo.
 
  ## Midterm Report and Presentation (Due 11/5)
  
@@ -63,7 +63,7 @@ Work in groups of 1-5 students.
  
  We expect to see preliminary code in your project repo at this point.
  
- Your report should be submitted as `README.md` in your project Github repo.
+ Your report should be submitted as `README.md` in your project GitHub repo.
  
  The 5-minute presentation should be a recording uploaded to YouTube. Please add the video link to the beginning of your report.
  
@@ -74,7 +74,7 @@ Work in groups of 1-5 students.
  You must include the following:
   - How to build and run the code (Include this first so we know how to reproduce your results). 
   There should be a `makefile` that installs all dependencies and builds the code. 
-  - Include test code and a Github workflow that runs the test code. 
+  - Include test code and a GitHub workflow that runs the test code. 
   Just test a few things you think are important - no need to overdo it on the testing front, since that’s not the focus of the project.
   - Visualizations of data (interactive visualizations are highly encouraged).
   - Description of data processing and modeling (what the code does).
