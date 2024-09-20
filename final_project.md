@@ -13,7 +13,7 @@ Your final project must be in a github repo with:
 
 # Project Goals
 
-Students will practice the full data science lifecycle on a project of their choice. 
+The goal is to practice the full data science lifecycle on a topic of your choice.
 
 The proposed project must include the following components:
  - data collection
