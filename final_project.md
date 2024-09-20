@@ -7,7 +7,7 @@ description: Final Project Details
 # Final Project Requirements
 
 Your final project must be in a GitHub repo with:
-1. A README.md detailing the project, how to build and use the code, how to contribute, how to test the code, and what environment it’s supported in.
+1. A README.md detailing the project, how to build and use the code, how to contribute, how to test the code, and what environment it's supported in.
 2. GitHub workflow should be defined to test the code. Just test a few things you think are important - no need to overdo it on the testing front that’s not the focus of the project.
 3. Code should be consumable / runnable and results should be reproducible with only a few instructions / commands
 
@@ -90,5 +90,5 @@ Work in groups of 1-5 students.
  Stock and options data could be scraped from websites like nasdaq.com.
  3. Predicting the optimal lane to drive in on a highway. For example, driving on I-93 from the north, there's the option of taking the HOV lane or the two other lanes. 
  The goal is to pick the lane(s) that minimize time in traffic. Live webcam data can be scraped from https://mass511.com/. You would probably need to use some computer vision techniques to process the images.
- 4. Predicting peoples' moods based on current events. Current event data can be scraped from news websites or using the twitter API to monitor trending events.
- Peoples' moods can be polled using a Google form disctributed weekly to the class. You would probably need to use a text feature extractor.
+ 4. Predicting people's moods based on current events. Current event data can be scraped from news websites or using the twitter API to monitor trending events.
+ People's moods can be polled using a Google form distributed weekly to the class. You would probably need to use a text feature extractor.
