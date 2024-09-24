@@ -32,9 +32,9 @@ Work in groups of 1-5 students.
  2. Submit midterm report and short presentation by **November 5**.
  3. Submit final report by **December 10**.
  
- # Project Requirements
+# Project Requirements
  
- ## Proposal (Due 10/1)
+## Proposal (Due 10/1)
  
  The project proposal should include the following:
   - Description of the project.
@@ -49,11 +49,11 @@ Work in groups of 1-5 students.
 
  Keep in mind that the scope of this project should reflect two months worth of work. Do not be overly simple or ambitious. The course staff will provide feedback on your proposal. 
 
- **Please form groups of 1-5 students and create either a GitHub repo. Submit your GitHub repo URL here: https://forms.gle/ZswPBRmBXrRyQuLc6.**
+ **Please form groups of 1-5 students and create a GitHub repo. Submit your GitHub repo URL here: https://forms.gle/ZswPBRmBXrRyQuLc6.**
  
  Your proposal should be submitted as `README.md` in your project GitHub repo.
 
- ## Midterm Report and Presentation (Due 11/5)
+## Midterm Report and Presentation (Due 11/5)
  
  The midterm report and 5-minute presentation should include the following.
   - Preliminary visualizations of data.
@@ -67,7 +67,7 @@ Work in groups of 1-5 students.
  
  The 5-minute presentation should be a recording uploaded to YouTube. Please add the video link to the beginning of your report.
  
- ## Final Report (Due 12/10)
+## Final Report (Due 12/10)
  
  The `README.md` in your project repo is the final report (reuse anything you want from the midterm report).
  
@@ -80,7 +80,7 @@ Work in groups of 1-5 students.
   - Description of data processing and modeling (what the code does).
   - Results showing that you achieved your goal.
   
- ## Example Project Ideas
+## Example Project Ideas
 
  **Spark! Projects:** You are welcome to choose a Spark! project from [this link](https://docs.google.com/document/d/1jnalQ6P5rKLYlcmh3uG7_iDv29xXOs-Tw_qn8WPF7Eo). There would be an additional requirement of presenting a poster at demo day at the end of the semester. As part of doing a Spark! project, you would get access to Spark! Experts in Residence and SMEs via [booking links](www.bu.edu/spark/consultations) and project support from the Spark! program team Thursday evenings at Spark’s Syntax & Snax event from 4-7pm at Spark (CDS207).
  
