@@ -59,7 +59,7 @@ The webpage **MUST** include the following functionality:
      Ensure that your Makefile works smoothly, as a **non-functioning Makefile will automatically result in an grade of 0**. Also, your application **MUST** run on `http://localhost:3000`, or graders won't be able to access it, which **will result in a grade of 0**.
    
    - **GitHub Workflow Integration**:  
-     While automated tests are not required, you must set up a GitHub Actions workflow (similar to [Lab 0](https://github.com/Chris210634/CS506-Lab0)) to ensure that your code is tested and run in the same way as the graders will. This workflow will ensure your project builds and runs correctly by running `make install` and `make run.
+     While automated tests are not required, you must set up a GitHub Actions workflow (similar to [Lab 0](https://github.com/Chris210634/CS506-Lab0)) to ensure that your code is tested and run in the same way as the graders will. This workflow will ensure your project builds and runs correctly by running `make install` and `make run`.
 
      1. Follow the instructions [here](https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-python#using-a-python-workflow-template) to create a python workflow template.
      2. Edit your newly created `.github/workflows/python-app.yml` file on Github to make sure it runs `make install` and `make run` as part of the workflow.
