@@ -2,8 +2,8 @@
 name: Kaihong Wang
 role: Teaching Assistant
 email: kaiwkh@bu.edu
-lab: TBD!
+lab: Friday 9:05 AM - 12:05 PM
 photo: kaihong.jpg
 ---
 
-Office Hours: TBD! Location: TBD!
+Office Hours: Friday 3 PM - 4 PM, Location: CDS 362C
