@@ -10,7 +10,7 @@ Sep 23
   : [assignment 02](#){: .btn .btn-outline } 
 
 Sep 25 
-: [Density Based Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_07/07_Density_Based_Clustering.pdf) 
+: [Hierarchical Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_05/05_Hierarchical_Clustering.pdf) + [Density Based Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_05/05_Density_Based_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_05/worksheet_05.ipynb){: .btn .btn-outline }
   : [lab 02](https://github.com/wangkaihong/CS506_Lab2){: .btn .btn-outline }
 
 Sep 30  
