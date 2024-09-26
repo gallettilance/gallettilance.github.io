@@ -15,7 +15,7 @@ Sep 25
 
 Sep 30  
 : [Soft Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_08/08_Soft_Clustering.pdf) 
-  : [assignment 03](#){: .btn .btn-outline } 
+  : [assignment 03](../assignments/assignment3){: .btn .btn-outline } 
 
 (Optional) 
 : [Clustering Aggregation](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_09/09_Clustering_Aggregation.pdf) 
