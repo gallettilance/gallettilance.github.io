@@ -14,7 +14,7 @@ Sep 25
   : [lab 02](https://github.com/wangkaihong/CS506_Lab2){: .btn .btn-outline }
 
 Sep 30  
-: [Soft Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_08/08_Soft_Clustering.pdf) 
+: [Soft Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_06/06_Soft_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_06/worksheet_06.ipynb){: .btn .btn-outline }
   : [assignment 03](../assignments/assignment3){: .btn .btn-outline } 
 
 (Optional) 
