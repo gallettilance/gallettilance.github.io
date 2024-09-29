@@ -7,7 +7,7 @@ Sep 18
 
 Sep 23 
 : [K-means++](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_04/04_Kmeans++.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_04/worksheet_04.ipynb){: .btn .btn-outline }
-  : [assignment 02](#){: .btn .btn-outline } 
+  : [assignment 02](../assignments/assignment2){: .btn .btn-outline } 
 
 Sep 25 
 : [Hierarchical Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_05/05_Hierarchical_Clustering.pdf) + [Density Based Clustering](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_05/05_Density_Based_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_05/worksheet_05.ipynb){: .btn .btn-outline }
