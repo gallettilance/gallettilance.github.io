@@ -91,7 +91,7 @@ newsgroups = fetch_20newsgroups(subset='all')
    - You **MUST** add this project to your portfolio site with a link to the GitHub repository with your project following the [guidelines outlined on the course website for assignment submission](https://gallettilance.github.io/assignment/#assignments) so that it can be graded properly.
 
 #### 2. Demo Video:
-   - Instead of a description (or in addition to, if you wish), you **MUST** embed a demo video accompanying the link to your project's repository that showcases the functionality of your project on your portfolio site. The video will demonstrate all the functionality you have built into your website (as listed in the [Description](#description)), similar to how [our example video](#see-this-example-for-what-your-project-might-look-like) does. If you do not wish to add a video file to your portfolio, you may embed a YouTube link to your video instead.
+   - Instead of a description (or in addition to, if you wish), you **MUST** embed a demo video accompanying the link to your project's repository that showcases the functionality of your project on your portfolio site. The video will demonstrate all the functionality you have built into your website (as listed in the [Description](#description)), similar to how [our example video](#demo-video) does. If you do not wish to add a video file to your portfolio, you may embed a YouTube link to your video instead.
 
 ## Additional Notes
 
@@ -99,7 +99,8 @@ newsgroups = fetch_20newsgroups(subset='all')
    - This dynamic web application **must be in a separate repository** from your static portfolio website. You need to create a dedicated repository for this project that allows for running the web application using `make run`. This must serve the web application on `http://localhost:3000`, ensuring the app is properly isolated from your static GitHub Pages site.
 
 #### 2. Technologies:
-   - You may use any libraries you wish to create your webpage such as React.js, Flask, matplotlib, etc. Ensure the interface is responsive and intuitive.
+   - If you want, you can use the starter code [here](assignment4_starter_code.zip). In these files, the web app has been set up for you using Flask. You have to complete the missing code in `app.py` and `static/main.js`. Using the starter code is **NOT** mandatory.
+   - You may use any libraries you wish to create your webpage such as React.js, Flask, Plotly, etc. Ensure the interface is responsive and intuitive.
    - Although not required, we encourage you to get creative with your CSS styling and HTML structure to make the interface visually appealing.
 
 ## Evaluation Criteria
