@@ -3,7 +3,7 @@ title: Singular Value Decomposition
 ---
 
 Oct 2 
-: [Singular Value Decomposition](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_10/10_Singular_Value_Decomposition.pdf) 
+: [Singular Value Decomposition](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_07/07_Singular_Value_Decomposition.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_07/worksheet_07.ipynb) 
   : [lab 03](https://github.com/haoyu-bu/CS506-Lab3){: .btn .btn-outline }
 
 Oct 7

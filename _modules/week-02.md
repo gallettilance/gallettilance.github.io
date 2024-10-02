@@ -18,5 +18,5 @@ Sep 30
   : [assignment 03](../assignments/assignment3){: .btn .btn-outline } 
 
 (Optional) 
-: [Clustering Aggregation](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_09/09_Clustering_Aggregation.pdf) 
-  : [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_09/worksheet_09.ipynb)  
+: [Clustering Aggregation](#) 
+  : [worksheet](#)  
