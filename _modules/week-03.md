@@ -8,5 +8,5 @@ Oct 2
 
 Oct 7
 : SVD cont'd + [Latent Semantic Analysis](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_11/11_Latent_Semantic_Analysis.pdf) 
-  : [assignment 04](../assignments/assignment4.md){: .btn .btn-outline }  
+  : [assignment 04](../assignments/assignment4){: .btn .btn-outline }  
 
