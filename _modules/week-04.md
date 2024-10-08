@@ -4,6 +4,7 @@ title: Classification
 
 Oct 9 
 : [Intro to Classification + KNN](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_12/12_Classification_KNN.pdf) 
+  : [lab 04](../labs/lab4){: .btn .btn-outline }
 
 Oct 14
 : **NO CLASS**{: .label .label-red } 
