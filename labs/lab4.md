@@ -1,4 +1,10 @@
-# **Lab 4: Topic Modeling with Latent Semantic Analysis (LSA)**
+---
+layout: page
+title: Lab 4 - Topic Modeling with Latent Semantic Analysis (LSA)
+nav_exclude: true
+---
+
+# Topic Modeling with Latent Semantic Analysis (LSA)**
 
 ## **Overview**
 
