@@ -3,7 +3,7 @@ title: Classification
 ---
 
 Oct 9 
-: [Intro to Classification + KNN](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_12/12_Classification_KNN.pdf) 
+: [Intro to Classification + KNN](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_09/09_Classification_KNN.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_09/worksheet_09.ipynb){: .btn .btn-outline } 
   : [lab 04](../labs/lab4){: .btn .btn-outline }
 
 Oct 14
