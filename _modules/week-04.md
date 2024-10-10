@@ -11,7 +11,7 @@ Oct 14
 
 Oct 15
 : **MONDAY SCHEDULE**{: .label .label-red } [Decision Trees](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_13/13_Decision_Trees.pdf) 
-  : [assignment 05](#){: .btn .btn-outline } 
+  : [assignment 05](../assignments/assignment5){: .btn .btn-outline } 
 
 Oct 16 
 : [Naive Bayes](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Model_Evaluation_and_Ensemble_Methods.pdf) 
