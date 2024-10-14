@@ -103,7 +103,7 @@ Extra Credit can be earned by **consistently**:
 
 ### Re-Grades
 
-If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
+If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 24h of receiving the grade. Anything beyond 24h will not be accepted for a re-grade.
 
 ## Emails
 
