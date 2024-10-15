@@ -15,6 +15,7 @@ Oct 15
 
 Oct 16 
 : [Naive Bayes](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Model_Evaluation_and_Ensemble_Methods.pdf) 
+ : [lab 05](../labs/lab5){: .btn .btn-outline }
 
 Oct 21
 : [Support Vector Machines](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
