@@ -10,7 +10,7 @@ Oct 14
 : **NO CLASS**{: .label .label-red } 
 
 Oct 15
-: **MONDAY SCHEDULE**{: .label .label-red } [Decision Trees](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_13/13_Decision_Trees.pdf) 
+: **MONDAY SCHEDULE**{: .label .label-red } [Decision Trees](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_10/10_Decision_Trees.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_10/worksheet_10.ipynb){: .btn .btn-outline }
   : [assignment 05](../assignments/assignment5){: .btn .btn-outline } 
 
 Oct 16 
