@@ -14,8 +14,8 @@ Oct 15
   : [assignment 05](../assignments/assignment5){: .btn .btn-outline } 
 
 Oct 16 
-: [Naive Bayes](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Model_Evaluation_and_Ensemble_Methods.pdf) 
- : [lab 05](../labs/lab5){: .btn .btn-outline }
+: [Naive Bayes](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_11/11_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_11/11_Model_Evaluation_and_Ensemble_Methods.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_11/worksheet_11.ipynb){: .btn .btn-outline } 
+  : [lab 05](../labs/lab5){: .btn .btn-outline }
 
 Oct 21
 : [Support Vector Machines](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
