@@ -18,7 +18,7 @@ Oct 16
   : [lab 05](../labs/lab5){: .btn .btn-outline }
 
 Oct 21
-: [Support Vector Machines](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_15/15_Support_Vector_Machines.pdf) 
+: [Support Vector Machines](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_12/12_Support_Vector_Machines.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_12/worksheet_12.ipynb){: .btn .btn-outline } 
 
 Oct 23
 : [MIDTERM LAUNCH](#)
