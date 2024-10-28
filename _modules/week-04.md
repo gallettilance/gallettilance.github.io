@@ -24,7 +24,7 @@ Oct 23
 : [MIDTERM LAUNCH](#)
  
 Oct 28
-: MIDTERM REVIEW + [Support Vector Machines (Non-Linear)](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_16/16_Support_Vector_Machines.pdf)
+: MIDTERM REVIEW
   : [assignment 06](#){: .btn .btn-outline } 
     : **MIDTERM END**{: .label .label-yellow } 
 
