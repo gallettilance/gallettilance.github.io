@@ -5,4 +5,4 @@ email: munirsid@bu.edu
 photo: munir.jpg
 ---
 
-Office Hours: Tue 12:45 pm - 01:45 pm Location: CDS 362
+Office Hours: Tue 12:30 pm - 01:30 pm Location: CDS 701
