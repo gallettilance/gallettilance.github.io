@@ -3,7 +3,7 @@ title: Regression
 ---
 
 Oct 30 
-: [Linear Regression](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_18/18_Linear_Regression.pdf) 
+: [Linear Regression](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_14/14_Linear_Regression.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_14/worksheet_14.ipynb){: .btn .btn-outline }  
 
 Nov 4 
 : [Linear Model Evaluation](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_19/19_Linear_Model_Evaluation.pdf) 
