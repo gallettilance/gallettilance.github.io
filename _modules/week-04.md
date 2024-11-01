@@ -25,7 +25,7 @@ Oct 23
  
 Oct 28
 : MIDTERM REVIEW
-  : [assignment 06](#){: .btn .btn-outline } 
+  : [assignment 06](../assignments/assignment6){: .btn .btn-outline } 
     : **MIDTERM END**{: .label .label-yellow } 
 
 (Optional)
