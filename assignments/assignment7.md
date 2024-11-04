@@ -14,19 +14,27 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
 ### 1. Hypothesis Testing
 
+- **Workflow**:
+  - **First**, users will generate data using the specified parameters (done in Assignment 6).
+  - **Next**, they can choose to perform hypothesis testing based on the generated data (new for this assignment).
+
 - **User Inputs**:
   - **Parameter to Test**: Allow the user to select whether to test the **slope** or **intercept**.
-  - **Hypothesized Value (β₀)**: A numeric value that the user can input as the hypothesized value for the slope or intercept.
+  - **Hypothesized Values (β₀)**: Numeric values that the user inputs as the hypothesized values they want to test before they decide either to test the slope or intercept.
   - **Type of Test**:
     - **Greater than ( > )**
     - **Less than ( < )**
     - **Not equal to ( ≠ )**
 
+- **Null Hypothesis**:
+  - The null hypothesis will use the **original slope or intercept specified during data generation**.
+
 - **Simulation**:
   - Run simulations to generate the distribution of the slope or intercept under the null hypothesis.
   - Display a histogram of the simulated slopes or intercepts.
-  - Highlight the region of the histogram that provides evidence against the null hypothesis.
+  - Show the region of the histogram that provides evidence against the null hypothesis.
   - Calculate and display the **p-value** based on the simulations.
+  - Add a fun message when the p-value is extremely small (p ≤ 0.0001).
 
 ### 2. Confidence Intervals
 
@@ -37,15 +45,31 @@ In addition to the features implemented in your website on Assignment 6, you mus
   - Run simulations to generate confidence intervals for the slope or intercept.
   - Count the number of times the confidence intervals capture the true parameter value.
   - Display the proportion of intervals that contain the true value.
-  - Plot the confidence intervals and highlight those that do not contain the true parameter value.
+  - Plot the confidence intervals and show those that do not contain the true parameter value.
 
 ## Instructions
 
 1. **Extend Your Existing Code**:
    - Use your code from Assignment 6 as a starting point.
-   - Add the new features while ensuring the previous functionality still works correctly.
+   - Update the data generation to use user-specified slope (β₁) and intercept (β₀), along with the mean (μ) and variance (σ²).
+   - Ensure that the null hypothesis in your hypothesis testing uses these specified values.
 
-2. **Hypothesis Testing Implementation**:
+2. **Modify the Webpage Workflow**:
+
+   - **Data Generation**:
+     - Users input parameters for data generation and click a **"Generate Data"** button.
+     - Display the plots related to data generation (scatter plot, histograms).
+
+   - **Hypothesis Testing**:
+     - After generating data, users can input parameters for hypothesis testing.
+     - Provide a **"Run Hypothesis Testing"** button under the data generation results.
+     - The hypothesis testing should be based on the generated data.
+
+   - **Confidence Intervals**:
+     - Similarly, provide options for generating confidence intervals.
+     - Include a **"Calculate Confidence Interval"** button.
+
+3. **Hypothesis Testing Implementation**:
 
    - **Data Generation**:
      - Generate datasets under the null hypothesis where the true parameter equals the hypothesized value.
@@ -62,15 +86,18 @@ In addition to the features implemented in your website on Assignment 6, you mus
        - **Less than**: `p-value = (number of simulated stats ≤ observed stat) / S`
        - **Not equal to**: `p-value = (number of simulated stats as extreme as observed stat) / S`
 
+   - **Handling Small p-values**:
+      - Add code to display a fun message when the p-value is extremely small (e.g., ≤ 0.0001).
+      - This message should inform the user that they have encountered a rare event.
+
    - **Visualization**:
      - Plot a histogram of the simulated statistics.
      - Mark the observed statistic on the histogram.
-     - Shade the area(s) representing evidence against the null hypothesis.
      - See below for an example of a histogram with a p-value calculation.
 
       ![Hypothesis Testing](../assets/images/assignment7-image-1.png)
 
-3. **Confidence Intervals Implementation**:
+4. **Confidence Intervals Implementation**:
 
    - **Simulation**:
      - For each of the `S` simulations, generate a bootstrap sample (resample with replacement from your original dataset).
@@ -79,13 +106,12 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
    - **Visualization and Analysis**:
      - Plot all the confidence intervals.
-     - Highlight intervals that do **not** contain the true parameter value.
      - Calculate and display the proportion of intervals that contain the true parameter value.
      - See below for an example of confidence intervals with the true parameter value marked.
 
       ![Confidence Intervals](../assets/images/assignment7-image-2.png)
 
-1. **New User Inputs**:
+5. **New User Inputs**:
 
    - Update your webpage to include new input fields and options for:
      - Selecting the parameter to test (slope or intercept).
@@ -93,7 +119,7 @@ In addition to the features implemented in your website on Assignment 6, you mus
      - Choosing the type of hypothesis test.
      - Selecting the confidence level for intervals.
 
-2. **Create a Short Demo Video (2-3 minutes)**:
+6. **Create a Short Demo Video (2-3 minutes)**:
 
    - Explain the new additions to the webpage.
      - Demonstrate your application with different inputs.
@@ -103,7 +129,7 @@ In addition to the features implemented in your website on Assignment 6, you mus
      - Share any interesting patterns or observations from your experiments.
    - Record your screen while doing a voiceover narrating the above content.
 
-3. **Submission**:
+7. **Submission**:
 
    - **Code**:
      - Submit your completed code as a GitHub repository on your portfolio website as you have done for previous assignments.
