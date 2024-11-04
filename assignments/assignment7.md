@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Hypothesis Testing and Confidence Intervals in Linear Regression
 
-In this assignment, you'll extend your previous work from assignment 6 to include hypothesis testing and confidence intervals through simulations. You'll enhance your interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations.
+In this assignment, you'll extend your previous work from assignment 6 to include hypothesis testing and confidence intervals through simulations. You'll enhance your interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations. Download the starter code [here](assignment7_starter_code.zip).
 
 ## Task Overview
 
@@ -15,8 +15,8 @@ In addition to the features implemented in your website on Assignment 6, you mus
 ### 1. Hypothesis Testing
 
 - **Workflow**:
-  - **First**, users will generate data using the specified parameters.
-  - **Next**, they can choose to perform hypothesis testing based on the generated data.
+  - **First**, users will generate data using the specified parameters (as in assignment 6).
+  - **Next**, they can choose to perform hypothesis testing based on the generated data (new for this assignment).
 
 - **User Inputs**:
   - **Parameter to Test**: Allow the user to select whether to test the **slope** or **intercept**.
@@ -55,7 +55,7 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
 1. **Extend Your Existing Code**:
    - Copy relevant code from your Assignment 6 to the starter code provided.
-   - **Add new input fields for users to specify the intercept (β₀) and slope (β₁)**, along with the mean (μ), variance (σ²), sample size (N), and number of simulations (S).
+   - **New input fields for users to specify the intercept (β₀) and slope (β₁) are provided in the starter code**, along with the mean (μ), variance (σ²), sample size (N), and number of simulations (S) from Assignment 6.
    - Update the data generation to use these user-specified values.
    - Store the simulated slopes and intercepts from the data generation step for later use.
 
