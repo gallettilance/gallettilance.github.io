@@ -49,7 +49,7 @@ In addition to the features implemented in your website on Assignment 6, you mus
 ## Instructions
 
 1. **Extend Your Existing Code**:
-   - Use your code from Assignment 6 as a starting point.
+   - Copy relevant code from your assignment 6 to the starter code provided.
    - **Add new input fields for users to specify the intercept (β₀) and slope (β₁)**, along with the mean (μ) and variance (σ²).
    - Update the data generation to use these user-specified values.
    - **Note**: The null hypothesis in your hypothesis testing will use these specified β₀ and β₁ values.
