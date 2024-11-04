@@ -79,10 +79,6 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
    - **Simulation**:
      - Use the slopes or intercepts from the stored simulations as the distribution under the null hypothesis.
-     - For each simulation:
-       - Generate a dataset using `Y = β₀ + β₁ * X + μ + error`.
-       - Compute the slope or intercept for each simulated dataset.
-     - Store these values to create the distribution under the null hypothesis.
 
    - **Calculating p-value**:
      - Based on the type of test ( > , < , ≠ ), calculate the proportion of simulated statistics that are as extreme or more extreme than the observed statistic from your sample.
