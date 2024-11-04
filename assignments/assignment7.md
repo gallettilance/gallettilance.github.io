@@ -20,7 +20,6 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
 - **User Inputs**:
   - **Parameter to Test**: Allow the user to select whether to test the **slope** or **intercept**.
-  - **Hypothesized Values (β₀)**: Numeric values that the user inputs as the hypothesized values they want to test before they decide either to test the slope or intercept.
   - **Type of Test**:
     - **Greater than ( > )**
     - **Less than ( < )**
@@ -51,8 +50,10 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
 1. **Extend Your Existing Code**:
    - Use your code from Assignment 6 as a starting point.
-   - Update the data generation to use user-specified slope (β₁) and intercept (β₀), along with the mean (μ) and variance (σ²).
-   - Ensure that the null hypothesis in your hypothesis testing uses these specified values.
+   - **Add new input fields for users to specify the intercept (β₀) and slope (β₁)**, along with the mean (μ) and variance (σ²).
+   - Update the data generation to use these user-specified values.
+   - **Note**: The null hypothesis in your hypothesis testing will use these specified β₀ and β₁ values.
+
 
 2. **Modify the Webpage Workflow**:
 
@@ -72,11 +73,15 @@ In addition to the features implemented in your website on Assignment 6, you mus
 3. **Hypothesis Testing Implementation**:
 
    - **Data Generation**:
-     - Generate datasets under the null hypothesis where the true parameter equals the hypothesized value.
-     - For example, if testing the slope, generate `Y` using `Y = β₀ * X + error`.
+     - Use the parameters specified during data generation (β₀ and β₁) as the null hypothesis values.
+     - For simulations under the null hypothesis, generate datasets using the original parameters:
+       - `Y = β₀ + β₁ * X + μ + error`
 
    - **Simulation**:
-     - Run `S` simulations to create datasets and compute the slope or intercept for each.
+     - Run `S` simulations under the null hypothesis using the **original β₀ and β₁ values specified during data generation**.
+     - For each simulation:
+       - Generate a dataset using `Y = β₀ + β₁ * X + μ + error`.
+       - Compute the slope or intercept for each simulated dataset.
      - Store these values to create the distribution under the null hypothesis.
 
    - **Calculating p-value**:
@@ -115,7 +120,6 @@ In addition to the features implemented in your website on Assignment 6, you mus
 
    - Update your webpage to include new input fields and options for:
      - Selecting the parameter to test (slope or intercept).
-     - Entering the hypothesized value (β₀).
      - Choosing the type of hypothesis test.
      - Selecting the confidence level for intervals.
 
