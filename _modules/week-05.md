@@ -14,4 +14,4 @@ Nov 6
 
 Nov 11 
 : [Logistic Regression](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_21/21_Logistic_Regression.pdf) + [Gradient Descent](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_21/21_Gradient_Descent.pdf) 
-  : [assignment 08](#){: .btn .btn-outline } 
+  : [assignment 08](../assignments/assignment8){: .btn .btn-outline } 
