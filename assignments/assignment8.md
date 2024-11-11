@@ -1,1 +1,1 @@
-Please click this link to start with Assignment 8: [Assignment 8 - Logistic Regression](assignment8.ipynb)
+Please click this link to start with Assignment 8: [Assignment 8 - Logistic Regression](https://github.com/wangkaihong/CS506_Assignment8)
