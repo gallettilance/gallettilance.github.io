@@ -3,8 +3,8 @@ title: Other Topics
 ---
 
 Dec 2
-: EXTRA TOPICS 
-  : [assignment 11](#){: .btn .btn-outline }
+: REVIEW SESSION 
+  : [assignment 10](#){: .btn .btn-outline }
 
 Dec 4
 : EXTRA TOPICS 
