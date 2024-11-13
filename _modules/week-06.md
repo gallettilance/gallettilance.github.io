@@ -4,6 +4,7 @@ title: Neural Networks
 
 Nov 13 
 : [Fundamentals of Neural Networks](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_22/22_Neural_Networks.pdf) 
+  : [lab 08](../labs/lab8){: .btn .btn-outline }
 
 Nov 18 
 : Day in the Life of a DS / SWE
