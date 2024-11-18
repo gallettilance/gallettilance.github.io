@@ -3,7 +3,7 @@ title: Neural Networks
 ---
 
 Nov 18 
-: [Fundamentals of Neural Networks](#)
+: [Fundamentals of Neural Networks](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_19/19_Neural_Networks.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_19/worksheet_19.ipynb){: .btn .btn-outline } 
   : [assignment 09](#){: .btn .btn-outline }
 
 Nov 20 
