@@ -8,6 +8,7 @@ Nov 18
 
 Nov 20 
 : [Advanced Neural Networks](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_23/23_Neural_Networks.pdf)  
+  : [lab 09](../labs/lab9){: .btn .btn-outline } 
 
 Nov 25 
 : NO CLASS
