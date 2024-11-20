@@ -7,7 +7,7 @@ Nov 18
   : [assignment 09](../assignments/assignment9){: .btn .btn-outline }
 
 Nov 20 
-: [Advanced Neural Networks](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_23/23_Neural_Networks.pdf)  
+: [More Neural Networks](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_20/worksheet_20.ipynb)  
   : [lab 09](../labs/lab9){: .btn .btn-outline } 
 
 Nov 25 
