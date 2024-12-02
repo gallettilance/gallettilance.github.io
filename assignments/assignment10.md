@@ -1,0 +1,1 @@
+Please click this link to start with Assignment 10: [Assignment 10 - Image Retrieval](https://github.com/Chris210634/CS506_Assignment_10)
