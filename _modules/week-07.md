@@ -8,6 +8,7 @@ Dec 2
 
 Dec 4
 : REVIEW SESSION
+  : [lab 10](../labs/lab10){: .btn .btn-outline }
 
 Dec 9
 : [Ask Me Anything](#)
