@@ -16,11 +16,12 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 
 ## Getting Started Checklist
 
-1. Join [Piazza](https://piazza.com/bu/fall2024/cs506a1) and [Discord](https://discord.gg/UveZDdwsyn)
+1. Join [Discord](https://discord.gg/K7MAVwpT)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
+6. Join [Gradescope](https://www.gradescope.com/courses/961268) (code: BKJNW7)
 
 ## About
 
@@ -40,18 +41,27 @@ Students taking this class must have some prior familiarity with programming at 
 
 There are a number of components to this course:
 
-1. Weekly assignments and labs
-2. A midterm
+1. Weekly labs
+2. A written midterm
+3. An applied midterm
 3. A final project
-4. In class exercises
+4. Participation
 
-### Assignments
+### Labs
 
-A programming assignment will be released every Monday and be due on Sunday at 11:59PM. These are individual assignments. The use of tools like chatGPT is encouraged.
+Labs will be graded and attendance recorded. Lowest lab will be dropped.
 
-### Midterm
+### Participation
 
-The midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and a report detailing the methods used and decisions made.
+You can earn participation by attending class and answering in class polls as well as being active on the course's discord server.
+
+### Written Midterm
+
+In class, closed notes, multiple choice exam.
+
+### Applied Midterm
+
+The applied midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and meet certain benchmarks to earn points.
 
 ### Final Project
 
@@ -63,43 +73,20 @@ You can select among a number of [BU Spark](https://www.bu.edu/spark/) curated p
 
 At the end of the semester, some teams will be selected to present a poster of their project on Demo Day (details to follow).
 
-### Participation
+### Final Exam
 
-Every lecture will have in class exercises to complete and submit via in class polls.
-
-## Labs
-
-Labs will be graded and attendance will be recorded.
+The final exam will be a closed notes, multiple choice exam.
 
 ## Grading
 
-### Grading
-
-- 30% assignments
-- 15% labs
-- 20% midterm
-- 30% final project
 - 5% participation
+- 15% labs
+- 15% written midterm
+- 15% applied midterm
+- 30% final project
+- 20% final exam
 
-| Letter | Grade  |
-|----|------------|
-| A  |  95% +     |
-| A- |  90% - 95% |
-| B+ |  87% - 90% |
-| B  |  83% - 87% |
-| B- |  80% - 83% |
-| C+ |  77% - 80% |
-| C  |  73% - 77% |
-| C- |  70% - 73% |
-| D  |  60% - 70% |
-| F  |  below 60% |
-
-### Extra Credit
-
-Extra Credit can be earned by **consistently**:
-
-- Asking and answering questions on Piazza/ Discord
-- Contributing to our class repository or course website via PRs (e.g. by fixing typos, providing clarification edits, sharing class notes, etc.)
+Letter Grades may be curved depending on class performance. We will never curve down.
 
 ### Re-Grades
 
@@ -107,4 +94,4 @@ If you notice an issue with a grade you’ve received, please don't email the te
 
 ## Emails
 
-If emailing the CS506 staff, or creating a private Piazza post, please always CC or include the instructor, the TF, and all TAs.
+If emailing the CS506 staff, please always CC or include the instructor, and all TAs.
