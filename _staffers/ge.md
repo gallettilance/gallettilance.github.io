@@ -1,8 +1,8 @@
 ---
 name: Ge Gao
-role: Instructor
+role: Teaching Assistant
 email: ggao02@bu.edu
-website: https://tdrinker.github.io/
+lab: TBH
 photo: ge.jpeg
 ---
 
