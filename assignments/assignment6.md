@@ -1,1 +1,0 @@
-Please click this link to start with Assignment 6: [Assignment 6 - Linear Regression](https://github.com/iamcalledayush/Assignment-6-Linear-Regression-)

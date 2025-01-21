@@ -27,16 +27,16 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Piazza:
-    - 'https://piazza.com/bu/fall2024/cs506a1'
   Discord:
-    - 'https://discord.gg/xZUk6Enw'
+    - 'https://discord.gg/K7MAVwpT'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/961268'
   Course GitHub:
-    - 'https://github.com/gallettilance/CS506-Fall2024'
+    - 'https://github.com/gallettilance/CS506-Spring2025'
   Course Medium:
     - 'https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf'
   YouTube:
-    - 'https://youtube.com/@howithinkabout?feature=shared'
+    - 'https://youtube.com/@howithinkabout'
 footer_content:
 
 # Collections for website data
@@ -45,7 +45,6 @@ collections:
   modules:
   faq:
   finalproject:
-  assignments:
   labs:
 
 # Default layouts for each collection type
@@ -69,11 +68,6 @@ defaults:
   - scope:
       path: ''
       type: finalproject
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: assignments
     values:
       layout: module
   - scope:

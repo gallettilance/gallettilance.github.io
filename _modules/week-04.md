@@ -2,32 +2,32 @@
 title: Classification
 ---
 
-Oct 9 
-: [Intro to Classification + KNN](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_09/09_Classification_KNN.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_09/worksheet_09.ipynb){: .btn .btn-outline } 
-  : [lab 04](../labs/lab4){: .btn .btn-outline }
+Mar 3 
+: MIDTERM 1
 
-Oct 14
+Mar 5
 : **NO CLASS**{: .label .label-red } 
 
-Oct 15
-: **MONDAY SCHEDULE**{: .label .label-red } [Decision Trees](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_10/10_Decision_Trees.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_10/worksheet_10.ipynb){: .btn .btn-outline }
-  : [assignment 05](../assignments/assignment5){: .btn .btn-outline } 
+Mar 8 - Mar 16
+: **SPRING BREAK**{: .label .label-red } 
 
-Oct 16 
-: [Naive Bayes](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_11/11_Naive_Bayes.pdf), [Model Evaluation & Ensemble](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_11/11_Model_Evaluation_and_Ensemble_Methods.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_11/worksheet_11.ipynb){: .btn .btn-outline } 
-  : [lab 05](../labs/lab5){: .btn .btn-outline }
+Mar 17
+: [Intro to Classification]() + [KNN]()
 
-Oct 21
-: [Support Vector Machines](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_12/12_Support_Vector_Machines.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_12/worksheet_12.ipynb){: .btn .btn-outline } 
+Mar 19
+: [Decision Trees]()
 
-Oct 23
-: [MIDTERM LAUNCH](#)
+Mar 24 
+: [Naive Bayes]()
+
+Mar 26
+: [Support Vector Machines]()
+
+Mar 31
+: [Support Vector Machines (Non-Linear)]()
  
-Oct 28
-: MIDTERM REVIEW
-  : [assignment 06](../assignments/assignment6){: .btn .btn-outline } 
-    : **MIDTERM END**{: .label .label-yellow } 
+Apr 2:
+: [Recommender Systems]() + MIDTERM 2 LAUNCH
 
-(Optional)
-: [Recommender Systems](https://github.com/gallettilance/CS506-Fall2024/raw/main/lecture_17/17_Recommender_Systems.pdf)
-  : [worksheet](https://github.com/gallettilance/CS506-Fall2024/blob/main/lecture_17/worksheet_17.ipynb)
+Apr 7
+: MIDTERM REVIEW
