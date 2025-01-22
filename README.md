@@ -69,9 +69,11 @@ The final project can be done as an individual or a group of up to 5 students.
 
 A project proposal will need to be submitted at the end of the first month of the semester. Details will be provided at the start of the semester.
 
-You can select among a number of [BU Spark](https://www.bu.edu/spark/) curated projects or you can create your own. A list of example projects will be provided.
+You can select among a number of [BU Spark](https://www.bu.edu/spark/) curated projects or you can create your own. You can find a list of projects [here](https://docs.google.com/document/d/1-a7IIj5K5v1mcdvi0_cUSYJpfFmZ9QJmsYikYGl3bJ4/edit?usp=sharing)
 
-At the end of the semester, some teams will be selected to present a poster of their project on Demo Day (details to follow).
+At the end of the semester, some teams will be selected to present a poster of their project on Demo Day (details to follow) and add your project video and/or code to the BU Spark website.
+
+Spark also host "Syntax & Snax" every Thursday 4-7 in CDS.
 
 ### Final Exam
 
