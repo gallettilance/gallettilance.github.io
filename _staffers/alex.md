@@ -7,4 +7,4 @@ photo: alex.jpeg
 ---
 
 Office Hours: Th 3:30pm-4:30pm
-Location: TBD
+Location: CDS 362B
