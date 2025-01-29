@@ -6,4 +6,4 @@ website: https://www.bu.edu/cs/profiles/galletti/
 photo: me.jpeg
 ---
 
-Office Hours: W 3-4PM Location CDS 926
+Office Hours: MW 5:45-6:30PM Location KCB 101
