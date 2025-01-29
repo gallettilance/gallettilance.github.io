@@ -9,4 +9,4 @@ Jan 27
 : [Git](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_01/01_Git.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_01/worksheet_01.ipynb){: .btn .btn-outline }
 
 Jan 29
-: Git Cont'd + [Intro to DS]()
+: [Intro to DS](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_02/02_Introduction.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_02/worksheet_02.ipynb){: .btn .btn-outline }
