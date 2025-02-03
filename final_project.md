@@ -84,7 +84,7 @@ Work in groups of 1-5 students.
   
 ## Example Project Ideas
 
- **Spark! Projects:** You are welcome to choose a Spark! project from [this link](#). There would be an additional requirement of presenting a poster at demo day at the end of the semester. As part of doing a Spark! project, you would get access to Spark! Experts in Residence and SMEs via [booking links](www.bu.edu/spark/consultations) and project support from the Spark! program team Thursday evenings at Spark’s Syntax & Snax event from 4-7pm at Spark (CDS207).
+ **Spark! Projects:** You are welcome to choose a Spark! project from [this link](https://docs.google.com/document/d/1-a7IIj5K5v1mcdvi0_cUSYJpfFmZ9QJmsYikYGl3bJ4/edit?usp=sharing). There would be an additional requirement of presenting a poster at demo day at the end of the semester. As part of doing a Spark! project, you would get access to Spark! Experts in Residence and SMEs via [booking links](www.bu.edu/spark/consultations) and project support from the Spark! program team Thursday evenings at Spark’s Syntax & Snax event from 4-7pm at Spark (CDS207).
  
  We also encourage you to come up with your own ideas that you can feel passionate about, but we list here some (random) example project ideas. 
  
