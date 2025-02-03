@@ -10,6 +10,7 @@ Feb 5
 
 Feb 10 
 : [K-means++]()
+ : **PROPOSAL**{: .label .label-green }
 
 Feb 12 
 : [Hierarchical Clustering]() + [Density Based Clustering]()
