@@ -3,7 +3,7 @@ title: Clustering
 ---
 
 Feb 3 
-: [Distance & Similarity]()
+: [Distance & Similarity](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_03/03_Distance_&_Similarity.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_03/worksheet_03.ipynb){: .btn .btn-outline }
 
 Feb 5 
 : [K-means]()
