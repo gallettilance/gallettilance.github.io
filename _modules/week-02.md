@@ -6,7 +6,7 @@ Feb 3
 : [Distance & Similarity](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_03/03_Distance_&_Similarity.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_03/worksheet_03.ipynb){: .btn .btn-outline }
 
 Feb 5 
-: [K-means]()
+: [K-means](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_04/04_Clustering_Kmeans.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_04/worksheet_04.ipynb){: .btn .btn-outline }
 
 Feb 10 
 : [K-means++]()
