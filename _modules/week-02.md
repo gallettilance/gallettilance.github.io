@@ -9,7 +9,7 @@ Feb 5
 : [K-means](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_04/04_Clustering_Kmeans.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_04/worksheet_04.ipynb){: .btn .btn-outline }
 
 Feb 10 
-: [K-means++]()
+: [K-means++](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_05/05_Kmeans++.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_05/worksheet_05.ipynb){: .btn .btn-outline }
  : **PROPOSAL**{: .label .label-green }
 
 Feb 12 
