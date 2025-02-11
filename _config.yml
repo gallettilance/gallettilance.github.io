@@ -45,7 +45,7 @@ collections:
   modules:
   faq:
   finalproject:
-  labs:
+  labs_solutions:
 
 # Default layouts for each collection type
 defaults:
@@ -72,7 +72,7 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: labs
+      type: lab_solutions
     values:
       layout: module
 

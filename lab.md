@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Labs
-description: Listing of labs.
+title: Lab Solutions
+description: Solutions for Labs
 ---
 
-# Labs
+# Lab Solutions
 
-{% for lab in site.labs %}
+{% for lab in site.lab_solutions %}
 {{ lab }}
 {% endfor %}
