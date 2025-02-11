@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Solutions
-description: Solutions for Labs
+description: Lab Solutions
 ---
 
 # Lab Solutions
