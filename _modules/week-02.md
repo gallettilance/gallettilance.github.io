@@ -13,7 +13,7 @@ Feb 10
  : **PROPOSAL**{: .label .label-green }
 
 Feb 12 
-: [Hierarchical Clustering]() + [Density Based Clustering]()
+: [Hierarchical Clustering](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_06/06_Hierarchical_Clustering.pdf) + [Density Based Clustering](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_06/06_Density_Based_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_06/worksheet_06.ipynb){: .btn .btn-outline }
 
 Feb 17
 : **NO CLASS**{: .label .label-red }
