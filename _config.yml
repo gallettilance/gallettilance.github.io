@@ -45,7 +45,7 @@ collections:
   modules:
   faq:
   finalproject:
-  labs_solutions:
+  lab_solutions:
 
 # Default layouts for each collection type
 defaults:

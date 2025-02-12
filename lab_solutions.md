@@ -6,6 +6,6 @@ description: Lab Solutions
 
 # Lab Solutions
 
-{% for lab in site.lab_solutions %}
-{{ lab }}
+{% for lab_solution in site.lab_solutions %}
+{{ lab_solution }}
 {% endfor %}
