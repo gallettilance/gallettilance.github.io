@@ -19,8 +19,8 @@ Feb 17
 : **NO CLASS**{: .label .label-red }
 
 Feb 18
-: [Soft Clustering](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_07/07_Soft_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_07/worksheet_07.ipynb){: .btn .btn-outline }
+: [Density Based Clustering](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_06/06_Density_Based_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_07/worksheet_07.ipynb){: .btn .btn-outline }
   : **MONDAY SCHEDULE**{: .label .label-red }
 
 Feb 19
-: [Clustering Aggregation](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_08/08_Clustering_Aggregation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_08/worksheet_08.ipynb){: .btn .btn-outline }
+: [Soft Clustering](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_07/07_Soft_Clustering.pdf) + [Clustering Aggregation](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_08/08_Clustering_Aggregation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_08/worksheet_08.ipynb){: .btn .btn-outline }
