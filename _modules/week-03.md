@@ -3,7 +3,7 @@ title: Singular Value Decomposition
 ---
 
 Feb 24 
-: [Singular Value Decomposition]()
+: [Singular Value Decomposition](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_09/09_Singular_Value_Decomposition.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_09/worksheet_09.ipynb)
 
 Feb 26
 : SVD cont'd + [Latent Semantic Analysis]() 
