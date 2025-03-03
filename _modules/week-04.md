@@ -12,7 +12,7 @@ Mar 8 - Mar 16
 : **SPRING BREAK**{: .label .label-red } 
 
 Mar 17
-: [Intro to Classification]() + [KNN]()
+: Guest Lecture from Ge: the Development of Language Models: RNN -> LSTM -> Transformer -> ChatGPT -> DeepSeek
 
 Mar 19
 : [Decision Trees]()
