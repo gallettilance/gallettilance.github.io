@@ -27,7 +27,7 @@ Mar 31
 : [Support Vector Machines (linear/non linear)]()
  : **MIDTERM REPORT**{: .label .label-green }
  
-Apr 2:
+Apr 2
 : [Recommender Systems]() + MIDTERM 2 LAUNCH
 
 Apr 7
