@@ -15,16 +15,16 @@ Mar 17
 : Guest Lecture from Ge: the Development of Language Models: RNN -> LSTM -> Transformer -> ChatGPT -> DeepSeek
 
 Mar 19
-: [Decision Trees]()
+: [Intro to Classification]()
 
 Mar 24 
-: [Naive Bayes]()
+: [Decision Trees]()
 
 Mar 26
-: [Support Vector Machines]()
+: [Naive Bayes]()
 
 Mar 31
-: [Support Vector Machines (Non-Linear)]()
+: [Support Vector Machines (linear/non linear)]()
  : **MIDTERM REPORT**{: .label .label-green }
  
 Apr 2:
