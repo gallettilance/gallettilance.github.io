@@ -15,7 +15,7 @@ Mar 17
 : Guest Lecture from Ge: the Development of Language Models: RNN -> LSTM -> Transformer -> ChatGPT -> DeepSeek
 
 Mar 19
-: [Intro to Classification]()
+: [Intro to Classification](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_11/11_Classification_KNN.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_11/worksheet_11.ipynb){: .btn .btn-outline }
 
 Mar 24 
 : [Decision Trees]()
