@@ -18,7 +18,7 @@ Mar 19
 : [Intro to Classification](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_11/11_Classification_KNN.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_11/worksheet_11.ipynb){: .btn .btn-outline }
 
 Mar 24 
-: [Decision Trees]()
+: [Decision Trees](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_12/12_Decision_Trees.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_12/worksheet_12.ipynb){: .btn .btn-outline }
 
 Mar 26
 : [Naive Bayes]()
