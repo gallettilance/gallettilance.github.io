@@ -21,7 +21,7 @@ Mar 24
 : [Decision Trees](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_12/12_Decision_Trees.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_12/worksheet_12.ipynb){: .btn .btn-outline }
 
 Mar 26
-: [Naive Bayes]()
+: [Naive Bayes](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_13/13_Naive_Bayes.pdf) + [Model Evaluation](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_13/13_Model_Evaluation_and_Ensemble_Methods.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_13/worksheet_13.ipynb){: .btn .btn-outline }
 
 Mar 31
 : [Support Vector Machines (linear/non linear)]()
