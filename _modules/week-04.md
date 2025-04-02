@@ -28,7 +28,7 @@ Mar 31
  : **MIDTERM REPORT**{: .label .label-green }
  
 Apr 2
-: [Recommender Systems]() + MIDTERM 2 LAUNCH
+: [Recommender Systems](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_15/15_Recommender_Systems.pdf) + MIDTERM 2 LAUNCH
 
 Apr 7
 : MIDTERM REVIEW
