@@ -3,7 +3,7 @@ title: Regression
 ---
 
 Apr 9
-: [Linear Regression]()
+: [Linear Regression](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_16/16_Linear_Regression.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_16/worksheet_16.ipynb){: .btn .btn-outline }
 
 Apr 14
 : [Linear Model Evaluation]()
