@@ -8,5 +8,5 @@ Apr 30
 May 1
 : **FINAL REPORT**{: .label .label-green }
 
-Date TBD
+May 7
 : FINAL EXAM
