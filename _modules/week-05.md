@@ -6,7 +6,7 @@ Apr 9
 : [Linear Regression](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_16/16_Linear_Regression.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_16/worksheet_16.ipynb){: .btn .btn-outline }
 
 Apr 14
-: [Linear Model Evaluation]()
+: [Linear Model Evaluation](https://github.com/gallettilance/CS506-Spring2025/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2025/blob/main/lecture_17/worksheet_17.ipynb){: .btn .btn-outline }
 
 Apr 16 
 : [Linear Model Evaluation Cont'd]() 
