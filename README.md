@@ -1,99 +1,234 @@
 ---
-layout: home
-title: CS 506
-nav_exclude: true
-permalink: index.html
-seo:
-  type: Course
-  name: Data Science Tools and Applications
+layout: page
+title: CS 506 - Data Science Tools and Applications
 ---
 
-# Data Science Tools and Applications
+# CS 506: Data Science Tools and Applications
 
-Supplemental material can be found on [YouTube](https://youtube.com/@howithinkabout?feature=shared)
+**Spring 2025** | **Instructor: Lance Galletti** | **Boston University**
 
-<iframe width="600" height="340" src="https://www.youtube.com/embed/cQW_DV2nr-s?si=XM1x_0rAcMv15qTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Welcome to CS 506! This course provides a comprehensive introduction to data science tools and applications, combining theoretical foundations with hands-on practice.
 
-## Getting Started Checklist
+## 🤖 AI-Powered Course Assistant
 
-1. Join [Discord](https://discord.gg/c9J8JH4M)
-2. Create a [GitHub](https://github.com/) account
-3. Create a [Kaggle](https://www.kaggle.com/) account
-4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
-5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Join [Gradescope](https://www.gradescope.com/courses/961268) (code: BKJNW7)
+**Need help? Ask our AI assistant!** Click the chat icon in the bottom-right corner to get instant answers about:
+- Course content and assignments
+- Deadlines and important dates
+- Office hours and contact information
+- Technical concepts and algorithms
+- Student perspectives and tips
 
-## About
+### 🔑 API Key Required
+**Important**: To use the AI assistant, you'll need to provide your own OpenAI API key:
+1. **Get a free key** at [OpenAI Platform](https://platform.openai.com/api-keys)
+2. **Click the chat icon** and enter your key when prompted
+3. **Your key stays private** - it's stored locally and never sent to our servers
+4. **Change your key anytime** - use the 🔑 button in the chat header
 
-The goal of this course is to provide students a hands-on understanding of classical data analysis techniques and to develop proficiency in applying these techniques in modern programming languages (Python).
+The assistant learns from course materials and student contributions, providing personalized help throughout your learning journey.
 
-The course introduces students to a wide range of techniques that are commonly used in the analysis of data such as clustering, classification, regression, and neural networks.
+## 📚 Course Overview
 
-Note that this is not a Python (or an introduction to programming) course, so self-study will be necessary for those students who do not already know the language.
+This course covers the complete data science workflow, from data collection to model deployment. You'll learn practical skills using real-world datasets and tools commonly used in industry.
 
-There is no textbook for this course, all material will be made available online.
+### What You'll Learn
+- **Data Science Workflow** - CRISP-DM methodology and best practices
+- **Data Preprocessing** - Cleaning, transformation, and feature engineering
+- **Machine Learning** - Clustering, classification, regression, and neural networks
+- **Data Visualization** - Creating compelling visualizations and storytelling
+- **Real-world Applications** - Industry-standard tools and techniques
 
-### Prerequisites
+### Course Outcomes
+By the end of this course, you will be able to:
+- ✅ Apply the complete data science workflow to real problems
+- ✅ Implement and evaluate machine learning algorithms
+- ✅ Create compelling data visualizations and reports
+- ✅ Use industry-standard tools (Python, pandas, scikit-learn)
+- ✅ Communicate findings effectively to stakeholders
+- ✅ Build a portfolio of data science projects
 
-Students taking this class must have some prior familiarity with programming at the level of CS 105, 108, or 111, or equivalent. CS 132 or equivalent (MA 242, MA 442) is required. CS 112 is also helpful.
+## 📋 Prerequisites
 
-## Workload
+**Required Background:**
+- Basic programming experience (any language)
+- Familiarity with Python is highly recommended
+- Basic statistics knowledge (mean, median, standard deviation)
 
-There are a number of components to this course:
+**What You'll Learn:**
+- Data science workflow and methodology
+- Data cleaning and preprocessing techniques
+- Machine learning algorithms and implementation
+- Data visualization and storytelling
+- Real-world project development
 
-1. Weekly labs
-2. A written midterm
-3. An applied midterm
-3. A final project
-4. Participation
+**If You're Unsure:**
+- Contact the instructor if you have concerns about prerequisites
+- We can provide additional resources for students who need them
+- The course is designed to accommodate various backgrounds
+
+**Recommended Preparation:**
+- Review basic Python syntax if you're new to it
+- Familiarize yourself with Jupyter notebooks
+- Brush up on basic statistics concepts
+
+## 📊 Grading
+
+| Component | Weight | Description |
+|-----------|--------|-------------|
+| **Participation** | 10% | Active engagement in discussions and labs |
+| **Assignments** | 30% | Weekly lab assignments and exercises |
+| **Midterm Report** | 25% | Individual project report (due March 31) |
+| **Final Project** | 35% | Real-world data science application (due May 1) |
+
+### Detailed Breakdown
+
+**Participation (10%):**
+- Active participation in class discussions
+- Engagement in lab sessions
+- Contribution to group activities
+- Regular attendance and preparation
+
+**Assignments (30%):**
+- Weekly lab assignments
+- Data analysis exercises
+- Code implementation tasks
+- Submission through Gradescope
+
+**Midterm Report (25%):**
+- Due: March 31, 2025
+- Individual project report
+- Data analysis and visualization
+- Written report with findings
+
+**Final Project (35%):**
+- Due: May 1, 2025
+- Individual or group project (up to 5 students)
+- Real-world data science application
+- Final presentation and report
+
+## 📅 Course Schedule
+
+### Topics Covered
+- **Introduction to Data Science** - Workflow, tools, and methodology (Lectures 1-2)
+- **Clustering** - K-means, hierarchical, and density-based algorithms (Lectures 3-8)
+- **Singular Value Decomposition** - Dimensionality reduction and feature extraction (Lectures 9-10)
+- **Classification** - KNN, decision trees, Naive Bayes, and SVM (Lectures 11-15)
+- **Regression** - Linear and logistic regression with evaluation (Lectures 16-20)
+- **Neural Networks** - Deep learning fundamentals and applications (Lectures 21-23)
+
+### Semester Structure
+- **Duration**: 12 weeks (Spring 2025)
+- **Total Lectures**: 23
+- **Topics**: 6 major topics with flexible duration
+- **Flexible Pacing**: Topics can take 1-3 weeks depending on complexity
+
+## 🎯 Course Components
+
+### Lectures
+- **Format**: Interactive lectures with live coding
+- **Materials**: Slides, worksheets, and code examples
+- **Location**: [Check your schedule](https://www.bu.edu/classapp/#/cs506)
+- **Office Hours**: [See staff page](staff.md) for times and locations
 
 ### Labs
+- **Format**: Hands-on coding sessions
+- **Focus**: Practical implementation of concepts
+- **Submission**: Through Gradescope
+- **Support**: TA assistance and peer collaboration
 
-Labs will be graded and attendance recorded. Lowest lab will be dropped.
+### Projects
+- **Midterm Project**: Individual analysis and report
+- **Final Project**: Real-world application of your choice
+- **Portfolio**: Build a collection of your best work
+- **Presentation**: Share your findings with the class
 
-### Participation
+## 🚀 Getting Started
 
-You can earn participation by attending class and answering in class polls as well as being active on the course's discord server.
+### 1. Set Up Your Environment
+- Install Python and Jupyter notebooks
+- Set up required packages (pandas, numpy, matplotlib, scikit-learn)
+- Configure your development environment
 
-### Written Midterm
+### 2. Join Our Community
+- **Discord**: [Join our server](https://discord.gg/c9J8JH4M) for discussions and help
+- **Gradescope**: [Submit assignments](https://www.gradescope.com/courses/961268)
+- **YouTube**: [Watch supplementary videos](https://youtube.com/@howithinkabout)
 
-In class, closed notes, multiple choice exam.
+### 3. Start Learning
+- Review the [course modules](_modules/) for detailed content
+- Complete the [setup tutorial](index.md#setup-checklist)
+- Ask questions using the AI assistant!
 
-### Applied Midterm
+## 📝 Contributing to Course Knowledge
 
-The applied midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and meet certain benchmarks to earn points.
+### Share Your Insights
+Students can contribute their understanding and tips to help others learn:
 
-### Final Project
+1. **Create a Pull Request** with your notes in the `student_notes/` directory
+2. **Follow the format** with sections for your thoughts, challenges, and tips
+3. **Get instant feedback** - PRs are automatically validated and merged
+4. **Help future students** - Your insights become part of the AI assistant's knowledge
 
-The final project can be done as an individual or a group of up to 5 students.
+### Note Format
+```markdown
+---
+title: "Your Topic - Your Understanding"
+student_name: "Your Name"
+topic: "Topic Name"
+difficulty_level: "beginner/intermediate/advanced"
+---
 
-A project proposal will need to be submitted at the end of the first month of the semester. Details will be provided at the start of the semester.
+## What I Think
+Your understanding of the concept...
 
-You can select among a number of [BU Spark](https://www.bu.edu/spark/) curated projects or you can create your own. You can find a list of projects [here](https://docs.google.com/document/d/1-a7IIj5K5v1mcdvi0_cUSYJpfFmZ9QJmsYikYGl3bJ4/edit?usp=sharing)
+## What I Found Challenging
+Specific difficulties you encountered...
 
-At the end of the semester, some teams will be selected to present a poster of their project on Demo Day (details to follow) and add your project video and/or code to the BU Spark website.
+## My Tips for Other Students
+Helpful advice and strategies...
+```
 
-Spark also host "Syntax & Snax" every Thursday 4-7 in CDS.
+## 📚 Course Resources
 
-### Final Exam
+### Essential Links
+- **Discord**: [Join our community](https://discord.gg/c9J8JH4M)
+- **Gradescope**: [Submit assignments](https://www.gradescope.com/courses/961268)
+- **YouTube**: [Supplementary videos](https://youtube.com/@howithinkabout)
 
-The final exam will be a closed notes, multiple choice exam.
+### Learning Materials
+- **Lecture Slides**: Available in each module
+- **Worksheets**: Interactive Jupyter notebooks
+- **Code Examples**: Complete implementations
+- **Student Notes**: Peer insights and tips
 
-## Grading
+### Getting Help
+- **AI Assistant**: Click the chat icon for instant help (requires OpenAI API key)
+- **Office Hours**: See [staff page](staff.md) for times
+- **Discord**: Ask questions in our community
+- **Email**: Contact the instructor for private concerns
 
-- 5% participation
-- 15% labs
-- 15% written midterm
-- 15% applied midterm
-- 30% final project
-- 20% final exam
+## 🗓️ Important Dates
 
-Letter Grades may be curved depending on class performance. We will never curve down.
+| Date | Event |
+|------|-------|
+| **Early Semester** | Project proposal due |
+| **March 31** | Midterm report due |
+| **May 1** | Final project due |
+| **May 7** | Final exam |
 
-### Re-Grades
+## 🎓 Support and Communication
 
-If you notice an issue with a grade you’ve received, please don't email the teaching staff. Instead, please submit a regrade on Gradescope within 48h of receiving the grade. Anything beyond 48h will not be accepted for a re-grade.
+### Office Hours
+- **Instructor**: See [staff page](staff.md) for times
+- **TAs**: Available during lab sessions
+- **Discord**: 24/7 community support
 
-## Emails
+### Communication Channels
+- **Course Questions**: Use the AI assistant or Discord
+- **Private Concerns**: Email the instructor
+- **Technical Issues**: Discord or office hours
+- **Assignment Help**: Gradescope or Discord
 
-If emailing the CS506 staff, please always CC or include the instructor, and all TAs.
+---
+
+**Ready to start your data science journey?** Use the AI assistant to ask any questions, and don't hesitate to reach out for help! 🚀

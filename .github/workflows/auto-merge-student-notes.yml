@@ -1,0 +1,259 @@
+name: Auto-Merge Student Notes PRs
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'student_notes/**'
+
+jobs:
+  validate-and-merge:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+      
+    - name: Install dependencies
+      run: npm install js-yaml gray-matter
+      
+    - name: Check if PR only contains student notes
+      id: check-files
+      run: |
+        # Get list of changed files
+        CHANGED_FILES=$(git diff --name-only origin/main...HEAD)
+        
+        # Check if all changed files are in student_notes directory
+        NON_STUDENT_FILES=$(echo "$CHANGED_FILES" | grep -v "^student_notes/" | grep -v "^$" || true)
+        
+        if [ -z "$NON_STUDENT_FILES" ]; then
+          echo "✅ All changed files are in student_notes directory"
+          echo "student_notes_only=true" >> $GITHUB_OUTPUT
+        else
+          echo "❌ Found files outside student_notes directory:"
+          echo "$NON_STUDENT_FILES"
+          echo "student_notes_only=false" >> $GITHUB_OUTPUT
+        fi
+        
+        # Count student note files
+        STUDENT_NOTE_FILES=$(echo "$CHANGED_FILES" | grep "^student_notes/" | grep "\.md$" | grep -v "README\.md" || true)
+        STUDENT_NOTE_COUNT=$(echo "$STUDENT_NOTE_FILES" | wc -l | tr -d ' ')
+        
+        echo "📝 Found $STUDENT_NOTE_COUNT student note files"
+        echo "student_note_count=$STUDENT_NOTE_COUNT" >> $GITHUB_OUTPUT
+        
+        if [ "$STUDENT_NOTE_COUNT" -gt 0 ]; then
+          echo "has_student_notes=true" >> $GITHUB_OUTPUT
+        else
+          echo "has_student_notes=false" >> $GITHUB_OUTPUT
+        fi
+      
+    - name: Validate student note format
+      id: validate-notes
+      if: steps.check-files.outputs.has_student_notes == 'true'
+      run: |
+        echo "🔍 Validating student note format..."
+        
+        # Get list of new/modified student note files
+        CHANGED_FILES=$(git diff --name-only origin/main...HEAD)
+        STUDENT_NOTE_FILES=$(echo "$CHANGED_FILES" | grep "^student_notes/" | grep "\.md$" | grep -v "README\.md" || true)
+        
+        VALIDATION_PASSED=true
+        
+        for file in $STUDENT_NOTE_FILES; do
+          echo "📄 Validating $file..."
+          
+          # Check if file exists
+          if [ ! -f "$file" ]; then
+            echo "❌ File $file does not exist"
+            VALIDATION_PASSED=false
+            continue
+          fi
+          
+          # Read file content
+          CONTENT=$(cat "$file")
+          
+          # Check for required frontmatter fields
+          if ! echo "$CONTENT" | grep -q "title:"; then
+            echo "❌ $file missing 'title' in frontmatter"
+            VALIDATION_PASSED=false
+          fi
+          
+          if ! echo "$CONTENT" | grep -q "student_name:"; then
+            echo "❌ $file missing 'student_name' in frontmatter"
+            VALIDATION_PASSED=false
+          fi
+          
+          if ! echo "$CONTENT" | grep -q "topic:"; then
+            echo "❌ $file missing 'topic' in frontmatter"
+            VALIDATION_PASSED=false
+          fi
+          
+          if ! echo "$CONTENT" | grep -q "difficulty_level:"; then
+            echo "❌ $file missing 'difficulty_level' in frontmatter"
+            VALIDATION_PASSED=false
+          fi
+          
+          # Check for required content sections
+          if ! echo "$CONTENT" | grep -q "## What I Think"; then
+            echo "❌ $file missing 'What I Think' section"
+            VALIDATION_PASSED=false
+          fi
+          
+          if ! echo "$CONTENT" | grep -q "## What I Found Challenging"; then
+            echo "❌ $file missing 'What I Found Challenging' section"
+            VALIDATION_PASSED=false
+          fi
+          
+          if ! echo "$CONTENT" | grep -q "## My Tips for Other Students"; then
+            echo "❌ $file missing 'My Tips for Other Students' section"
+            VALIDATION_PASSED=false
+          fi
+          
+          if [ "$VALIDATION_PASSED" = true ]; then
+            echo "✅ $file passes validation"
+          fi
+        done
+        
+        if [ "$VALIDATION_PASSED" = true ]; then
+          echo "format_valid=true" >> $GITHUB_OUTPUT
+        else
+          echo "format_valid=false" >> $GITHUB_OUTPUT
+        fi
+      
+    - name: Test course knowledge generation
+      if: steps.check-files.outputs.has_student_notes == 'true' && steps.validate-notes.outputs.format_valid == 'true'
+      run: |
+        echo "🤖 Testing course knowledge generation with new notes..."
+        
+        # Generate course knowledge
+        node scripts/generate-course-knowledge.js
+        
+        # Test the generated knowledge
+        node scripts/test-course-knowledge.js
+        
+        echo "✅ Course knowledge generation test passed"
+      
+    - name: Comment on PR
+      if: steps.check-files.outputs.student_notes_only == 'true' && steps.check-files.outputs.has_student_notes == 'true'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const { data: comments } = await github.rest.issues.listComments({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+          });
+          
+          const botComment = comments.find(comment => 
+            comment.user.type === 'Bot' && 
+            comment.body.includes('🤖 Student Notes PR')
+          );
+          
+          if (!botComment) {
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `🤖 **Student Notes PR Detected**
+              
+✅ **Validation Status:**
+- ✅ Only student notes files changed
+- ✅ Student note format validated
+- ✅ Course knowledge generation tested
+              
+📝 **What happens next:**
+- This PR will be automatically merged if all checks pass
+- Your notes will be added to the course knowledge base
+- The chatbot will be updated with your perspectives
+              
+💡 **Your notes will help other students learn!**`
+            });
+          }
+      
+    - name: Auto-merge PR
+      if: steps.check-files.outputs.student_notes_only == 'true' && steps.check-files.outputs.has_student_notes == 'true' && steps.validate-notes.outputs.format_valid == 'true'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          // Wait a bit for other checks to complete
+          await new Promise(resolve => setTimeout(resolve, 10000));
+          
+          // Check if all status checks are passing
+          const { data: status } = await github.rest.repos.getCombinedStatusForRef({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            ref: context.payload.pull_request.head.sha,
+          });
+          
+          const allChecksPassing = status.statuses.every(check => check.state === 'success');
+          
+          if (allChecksPassing) {
+            console.log('✅ All checks passing, proceeding with merge');
+            
+            try {
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                merge_method: 'squash',
+                commit_title: `📝 Add student notes: ${context.payload.pull_request.title}`,
+                commit_message: `Auto-merged student notes PR
+
+- Added student perspectives to course knowledge
+- Validated note format and structure
+- Tested course knowledge generation
+
+This PR was automatically merged because it only contains properly formatted student notes.`
+              });
+              
+              console.log('✅ PR merged successfully');
+            } catch (error) {
+              console.error('❌ Failed to merge PR:', error.message);
+            }
+          } else {
+            console.log('⏳ Waiting for all checks to pass before merging');
+          }
+      
+    - name: Comment on validation failure
+      if: steps.check-files.outputs.student_notes_only == 'true' && steps.check-files.outputs.has_student_notes == 'true' && steps.validate-notes.outputs.format_valid == 'false'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          await github.rest.issues.createComment({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+            body: `❌ **Student Note Validation Failed**
+            
+Your student note doesn't meet the required format. Please ensure your note includes:
+
+**Required Frontmatter:**
+\`\`\`yaml
+---
+title: "Your Note Title"
+student_name: "Your Name"
+topic: "Topic Name"
+difficulty_level: "beginner/intermediate/advanced"
+date: "YYYY-MM-DD"
+---
+\`\`\`
+
+**Required Sections:**
+- \`## What I Think [Topic]\` - Your understanding
+- \`## What I Found Challenging\` - Difficulties encountered
+- \`## My Tips for Other Students\` - Advice for fellow students
+
+**Example Format:**
+See \`student_notes/example-student-linear-regression.md\` for a complete example.
+
+Please update your note and push the changes to trigger re-validation.`
+          }); 

@@ -1,0 +1,176 @@
+{
+  "courseInfo": {
+    "name": "BU CS 506",
+    "instructor": "Lance Galletti",
+    "semester": "Spring 2025",
+    "description": "Data Science Tools and Applications"
+  },
+  "schedule": {
+    "Topic 01: Introduction to Data Science": "Lectures 1-2",
+    "Topic 02: Clustering": "Lectures 3-8",
+    "Topic 03: Singular Value Decomposition": "Lectures 9-10",
+    "Topic 04: Classification": "Lectures 11-15",
+    "Topic 05: Regression": "Lectures 16-20",
+    "Topic 06: Neural Networks": "Lectures 21-23"
+  },
+  "topics": [
+    "introduction",
+    "workflow",
+    "tools",
+    "clustering",
+    "distance",
+    "kmeans",
+    "hierarchical",
+    "density",
+    "svd",
+    "dimensionality_reduction",
+    "feature_extraction",
+    "classification",
+    "knn",
+    "decision_trees",
+    "naive_bayes",
+    "svm",
+    "evaluation",
+    "regression",
+    "linear_regression",
+    "logistic_regression",
+    "model_evaluation",
+    "neural_networks",
+    "deep_learning",
+    "backpropagation"
+  ],
+  "resources": {
+    "discord": "https://discord.gg/c9J8JH4M",
+    "gradescope": "https://www.gradescope.com/courses/961268",
+    "youtube": "https://youtube.com/@howithinkabout"
+  },
+  "faq": [
+    {
+      "question": "Are there labs / discussion sections the first week?",
+      "answer": "No, there are no labs the first week. Labs will start the second week of classes.",
+      "category": "course_structure",
+      "tags": [
+        "labs",
+        "schedule",
+        "first_week"
+      ]
+    },
+    {
+      "question": "What are the course prerequisites?",
+      "answer": "**Required Background:**\n- Basic programming experience (any language)\n- Familiarity with Python is highly recommended\n- Basic statistics knowledge (mean, median, standard deviation)\n\n**What You'll Learn:**\n- Data science workflow and methodology\n- Data cleaning and preprocessing techniques\n- Machine learning algorithms and implementation\n- Data visualization and storytelling\n- Real-world project development\n\n**If You're Unsure:**\n- Contact the instructor if you have concerns about prerequisites\n- We can provide additional resources for students who need them\n- The course is designed to accommodate various backgrounds\n\n**Recommended Preparation:**\n- Review basic Python syntax if you're new to it\n- Familiarize yourself with Jupyter notebooks\n- Brush up on basic statistics concepts\n",
+      "category": "prerequisites",
+      "tags": [
+        "requirements",
+        "preparation",
+        "background"
+      ]
+    },
+    {
+      "question": "How is the course graded?",
+      "answer": "**Grading Breakdown:**\n- **Participation**: 10%\n- **Assignments**: 30%\n- **Midterm Report**: 25%\n- **Final Project**: 35%\n\n**Participation (10%):**\n- Active participation in class discussions\n- Engagement in lab sessions\n- Contribution to group activities\n- Regular attendance and preparation\n\n**Assignments (30%):**\n- Weekly lab assignments\n- Data analysis exercises\n- Code implementation tasks\n- Submission through Gradescope\n\n**Midterm Report (25%):**\n- Due: March 31, 2025\n- Individual project report\n- Data analysis and visualization\n- Written report with findings\n\n**Final Project (35%):**\n- Due: May 1, 2025\n- Individual or group project (up to 5 students)\n- Real-world data science application\n- Final presentation and report\n",
+      "category": "grading",
+      "tags": [
+        "grades",
+        "assignments",
+        "projects",
+        "participation"
+      ]
+    },
+    {
+      "question": "What is the final project?",
+      "answer": "**Final Project Overview:**\n- Practice the complete data science lifecycle\n- Work on a topic of your choice\n- Demonstrate real-world data science skills\n- Create reproducible and well-documented code\n\n**Required Components:**\n1. **Data Collection** - Gather data from various sources\n2. **Data Cleaning** - Preprocess and prepare your data\n3. **Feature Extraction** - Create meaningful features\n4. **Data Visualization** - Create insightful visualizations\n5. **Model Training** - Implement and evaluate models\n6. **Results Analysis** - Interpret and communicate findings\n\n**Project Timeline:**\n- **Proposal**: Due early in semester\n- **Progress Report**: Mid-semester check-in\n- **Final Report**: Due May 1, 2025\n- **Presentation**: Final class session\n\n**Project Ideas:**\n- Customer behavior analysis\n- Social media sentiment analysis\n- Sports analytics\n- Healthcare data analysis\n- Financial market prediction\n- Environmental data analysis\n",
+      "category": "projects",
+      "tags": [
+        "final_project",
+        "data_science",
+        "portfolio"
+      ]
+    }
+  ],
+  "studentNotes": [
+    {
+      "title": "Linear Regression - My Understanding",
+      "content": "\n## What I Think Linear Regression Is\n\nLinear regression is a way to find the best straight line that fits through a set of data points. It's like drawing a line through scattered dots on a graph to show the general trend. The goal is to predict one variable (like house price) based on another variable (like square footage).\n\nI think of it as the \"starting point\" of machine learning - it's simple enough to understand but powerful enough to solve real problems. The line equation y = mx + b becomes our model, where m is the slope and b is where the line crosses the y-axis.\n\n## What I Found Challenging\n\nThe most confusing part for me was understanding the difference between correlation and causation. Just because two variables have a linear relationship doesn't mean one causes the other. I kept thinking \"if square footage goes up, price goes up, so square footage causes price\" but that's not always true.\n\nI also struggled with the math behind finding the \"best\" line. The concept of minimizing the sum of squared errors made sense, but actually calculating it was tricky. I had to practice with simple examples before it clicked.\n\nThe gradient descent algorithm was another challenge - understanding how the computer \"learns\" the best parameters by taking small steps in the right direction took time to visualize.\n\n## My Tips for Other Students\n\n1. **Start with simple examples** - Use 2-3 data points first to see how the line changes\n2. **Draw it out** - Sketch the data points and try to draw the line by hand before using code\n3. **Understand the assumptions** - Linear regression assumes a linear relationship, normally distributed errors, and independent observations\n4. **Check your data** - Always plot your data first to see if a straight line makes sense\n5. **Practice with real datasets** - Try predicting house prices, student grades, or any dataset you find interesting\n6. **Don't worry about the math initially** - Focus on the intuition first, then dive into the equations\n\nRemember: Linear regression is everywhere! From predicting sales to analyzing scientific data, it's a fundamental tool you'll use throughout your data science journey. ",
+      "metadata": {
+        "student_name": "Example Student",
+        "topic": "Linear Regression",
+        "difficulty_level": "beginner"
+      }
+    }
+  ],
+  "labs": [
+    {
+      "title": "Lab 1 - Data Exploration with Pandas",
+      "content": "\n# Lab 1: Data Exploration with Pandas\n\n## Overview\nIn this lab, you'll learn the fundamentals of data exploration using pandas and matplotlib. You'll work with a real-world dataset to practice loading data, examining its structure, creating visualizations, and handling common data issues.\n\n## Learning Objectives\n- Load and explore datasets using pandas\n- Create basic visualizations with matplotlib\n- Identify and handle missing data\n- Perform basic statistical analysis\n\n## Dataset\nWe'll be working with the **Boston Housing Dataset**, a classic dataset containing information about housing prices in Boston suburbs. This dataset is perfect for learning data exploration techniques.\n\n## Setup Instructions\n\n### 1. Environment Setup\n```bash\n# Install required packages\npip install pandas numpy matplotlib seaborn scikit-learn\n```\n\n### 2. Download the Dataset\n```python\nfrom sklearn.datasets import load_boston\nimport pandas as pd\n\n# Load the dataset\nboston = load_boston()\ndata = pd.DataFrame(boston.data, columns=boston.feature_names)\ndata['PRICE'] = boston.target\n```\n\n## Lab Exercises\n\n### Exercise 1: Data Loading and Initial Exploration\n**Goal**: Load the dataset and perform initial exploration\n\n```python\n# Your code here\n# 1. Load the dataset\n# 2. Display the first 5 rows\n# 3. Check the data types of each column\n# 4. Get basic information about the dataset\n```\n\n**Questions to Answer**:\n- How many rows and columns does the dataset have?\n- What are the data types of each column?\n- Are there any missing values?\n\n### Exercise 2: Statistical Summary\n**Goal**: Understand the statistical properties of the data\n\n```python\n# Your code here\n# 1. Generate descriptive statistics\n# 2. Check for outliers using box plots\n# 3. Examine the distribution of key variables\n```\n\n**Questions to Answer**:\n- What is the average house price?\n- Which variables have the most variation?\n- Are there any obvious outliers?\n\n### Exercise 3: Data Visualization\n**Goal**: Create meaningful visualizations to understand the data\n\n```python\n# Your code here\n# 1. Create a histogram of house prices\n# 2. Create scatter plots of price vs key features\n# 3. Create a correlation heatmap\n```\n\n**Questions to Answer**:\n- What is the distribution of house prices?\n- Which features are most strongly correlated with price?\n- Are there any interesting patterns in the data?\n\n### Exercise 4: Data Cleaning\n**Goal**: Handle missing data and data quality issues\n\n```python\n# Your code here\n# 1. Check for missing values\n# 2. Handle any data quality issues\n# 3. Create a cleaned version of the dataset\n```\n\n**Questions to Answer**:\n- Are there any missing values that need to be handled?\n- Are there any data quality issues?\n- How did you decide to handle missing data?\n\n## Submission Requirements\n\n### Code Notebook\nSubmit a Jupyter notebook containing:\n- All code with clear comments\n- Answers to all questions\n- Visualizations with proper titles and labels\n- Summary of findings\n\n### Written Report (1-2 pages)\nInclude:\n- **Data Overview**: Summary of the dataset and its key characteristics\n- **Key Findings**: Most important insights from your exploration\n- **Data Quality Issues**: Any problems you found and how you handled them\n- **Recommendations**: Suggestions for further analysis\n\n## Grading Criteria\n- **Code Quality** (30%): Clean, well-commented code\n- **Analysis Depth** (40%): Thorough exploration and insights\n- **Visualizations** (20%): Clear, informative plots\n- **Documentation** (10%): Clear explanations and conclusions\n\n## Resources\n- [Pandas Documentation](https://pandas.pydata.org/docs/)\n- [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html)\n- [Data Cleaning Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)\n\n## Tips for Success\n1. **Start Simple**: Begin with basic exploration before diving into complex analysis\n2. **Document Everything**: Comment your code and explain your reasoning\n3. **Ask Questions**: Don't just plot data - think about what patterns you're looking for\n4. **Iterate**: Refine your visualizations based on what you discover\n\n## Next Steps\nAfter completing this lab, you'll be ready for:\n- Lab 2: Feature Engineering and Preprocessing\n- Lab 3: Clustering Analysis\n- Lab 4: Classification Models\n\n---\n\n**Due Date**: Week 2 | **Points**: 100 | **Submission**: Gradescope ",
+      "metadata": {
+        "lab_number": 1,
+        "topics": [
+          "data_exploration",
+          "pandas",
+          "visualization",
+          "data_cleaning"
+        ],
+        "difficulty": "beginner",
+        "estimated_time": "2-3 hours",
+        "learning_objectives": [
+          "Load and explore datasets using pandas",
+          "Create basic visualizations with matplotlib",
+          "Identify and handle missing data",
+          "Perform basic statistical analysis"
+        ]
+      }
+    }
+  ],
+  "labSolutions": [
+    {
+      "title": "Lab 1 Solution - Data Exploration with Pandas",
+      "content": "\n# Lab 1 Solution: Data Exploration with Pandas\n\n## Complete Solution Code\n\n```python\n# Import required libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom sklearn.datasets import load_boston\n\n# Set up plotting style\nplt.style.use('default')\nsns.set_palette(\"husl\")\n\n# Load the dataset\nboston = load_boston()\ndata = pd.DataFrame(boston.data, columns=boston.feature_names)\ndata['PRICE'] = boston.target\n\nprint(\"Dataset loaded successfully!\")\nprint(f\"Shape: {data.shape}\")\n```\n\n## Exercise 1: Data Loading and Initial Exploration\n\n```python\n# Display first 5 rows\nprint(\"First 5 rows:\")\nprint(data.head())\n\n# Check data types\nprint(\"\\nData types:\")\nprint(data.dtypes)\n\n# Get basic information\nprint(\"\\nDataset info:\")\nprint(data.info())\n\n# Check for missing values\nprint(\"\\nMissing values:\")\nprint(data.isnull().sum())\n\n# Display basic statistics\nprint(\"\\nBasic statistics:\")\nprint(data.describe())\n```\n\n**Answers**:\n- **Rows and Columns**: 506 rows, 14 columns (13 features + 1 target)\n- **Data Types**: All columns are float64 (continuous variables)\n- **Missing Values**: No missing values in this dataset\n\n## Exercise 2: Statistical Summary\n\n```python\n# Generate descriptive statistics\nprint(\"Descriptive Statistics:\")\nprint(data.describe())\n\n# Create box plots for key variables\nfig, axes = plt.subplots(2, 2, figsize=(12, 8))\nfig.suptitle('Distribution of Key Variables', fontsize=16)\n\n# Box plots for key features\nkey_features = ['CRIM', 'RM', 'AGE', 'PRICE']\nfor i, feature in enumerate(key_features):\n    row = i // 2\n    col = i % 2\n    data.boxplot(column=feature, ax=axes[row, col])\n    axes[row, col].set_title(f'{feature} Distribution')\n\nplt.tight_layout()\nplt.show()\n\n# Check for outliers using IQR method\ndef detect_outliers(df, column):\n    Q1 = df[column].quantile(0.25)\n    Q3 = df[column].quantile(0.75)\n    IQR = Q3 - Q1\n    lower_bound = Q1 - 1.5 * IQR\n    upper_bound = Q3 + 1.5 * IQR\n    outliers = df[(df[column] < lower_bound) | (df[column] > upper_bound)]\n    return outliers\n\nprint(\"\\nOutlier Analysis:\")\nfor feature in ['CRIM', 'RM', 'AGE', 'PRICE']:\n    outliers = detect_outliers(data, feature)\n    print(f\"{feature}: {len(outliers)} outliers ({len(outliers)/len(data)*100:.1f}%)\")\n```\n\n**Answers**:\n- **Average House Price**: $22,533 (target variable)\n- **Most Variation**: CRIM (crime rate) has the highest standard deviation\n- **Outliers**: CRIM has many outliers due to its skewed distribution\n\n## Exercise 3: Data Visualization\n\n```python\n# Create histogram of house prices\nplt.figure(figsize=(10, 6))\nplt.hist(data['PRICE'], bins=30, edgecolor='black', alpha=0.7)\nplt.title('Distribution of House Prices', fontsize=14)\nplt.xlabel('Price ($1000s)', fontsize=12)\nplt.ylabel('Frequency', fontsize=12)\nplt.grid(True, alpha=0.3)\nplt.show()\n\n# Create scatter plots of price vs key features\nfig, axes = plt.subplots(2, 2, figsize=(12, 8))\nfig.suptitle('Price vs Key Features', fontsize=16)\n\nkey_features = ['RM', 'LSTAT', 'PTRATIO', 'CRIM']\nfor i, feature in enumerate(key_features):\n    row = i // 2\n    col = i % 2\n    axes[row, col].scatter(data[feature], data['PRICE'], alpha=0.6)\n    axes[row, col].set_xlabel(feature)\n    axes[row, col].set_ylabel('Price')\n    axes[row, col].set_title(f'Price vs {feature}')\n    axes[row, col].grid(True, alpha=0.3)\n\nplt.tight_layout()\nplt.show()\n\n# Create correlation heatmap\nplt.figure(figsize=(12, 8))\ncorrelation_matrix = data.corr()\nsns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0,\n            square=True, linewidths=0.5)\nplt.title('Correlation Heatmap', fontsize=14)\nplt.tight_layout()\nplt.show()\n\n# Show top correlations with price\nprice_correlations = correlation_matrix['PRICE'].sort_values(ascending=False)\nprint(\"\\nTop correlations with PRICE:\")\nprint(price_correlations)\n```\n\n**Answers**:\n- **Price Distribution**: Slightly right-skewed, most houses between $10k-$30k\n- **Strongest Correlations**: \n  - LSTAT (negative): Lower socioeconomic status → lower prices\n  - RM (positive): More rooms → higher prices\n  - PTRATIO (negative): Higher pupil-teacher ratio → lower prices\n- **Interesting Patterns**: Clear negative correlation between LSTAT and price\n\n## Exercise 4: Data Cleaning\n\n```python\n# Check for missing values\nprint(\"Missing values check:\")\nprint(data.isnull().sum())\n\n# Check for duplicate rows\nprint(f\"\\nDuplicate rows: {data.duplicated().sum()}\")\n\n# Check for infinite values\nprint(f\"Infinite values: {np.isinf(data.select_dtypes(include=[np.number])).sum().sum()}\")\n\n# Create cleaned dataset (no missing values in this dataset, but here's the process)\ndata_cleaned = data.copy()\n\n# Handle outliers if needed (example for CRIM)\nQ1 = data_cleaned['CRIM'].quantile(0.25)\nQ3 = data_cleaned['CRIM'].quantile(0.75)\nIQR = Q3 - Q1\nlower_bound = Q1 - 1.5 * IQR\nupper_bound = Q3 + 1.5 * IQR\n\n# Cap outliers instead of removing them\ndata_cleaned['CRIM_capped'] = data_cleaned['CRIM'].clip(lower=lower_bound, upper=upper_bound)\n\nprint(\"\\nData cleaning summary:\")\nprint(f\"Original shape: {data.shape}\")\nprint(f\"Cleaned shape: {data_cleaned.shape}\")\nprint(f\"CRIM outliers capped: {len(data[data['CRIM'] > upper_bound])} values\")\n```\n\n**Answers**:\n- **Missing Values**: None found in this dataset\n- **Data Quality Issues**: CRIM has many outliers due to its nature (crime rates can be very high in some areas)\n- **Handling Strategy**: Capped outliers rather than removing them to preserve data integrity\n\n## Key Insights and Findings\n\n### 1. Dataset Characteristics\n- **Size**: 506 housing records with 13 features\n- **Quality**: Clean dataset with no missing values\n- **Target**: House prices ranging from $5k to $50k\n\n### 2. Important Features\n- **RM (Average Rooms)**: Strongest positive correlation with price\n- **LSTAT (% Lower Status)**: Strongest negative correlation with price\n- **PTRATIO (Pupil-Teacher Ratio)**: Moderate negative correlation\n- **CRIM (Crime Rate)**: Weak negative correlation, many outliers\n\n### 3. Data Quality\n- No missing values or duplicates\n- CRIM has many outliers (expected for crime data)\n- All variables are continuous and properly scaled\n\n### 4. Recommendations for Further Analysis\n1. **Feature Engineering**: Create interaction terms (e.g., RM × LSTAT)\n2. **Outlier Handling**: Consider robust statistical methods\n3. **Model Selection**: Linear models should work well given the correlations\n4. **Feature Selection**: Focus on RM, LSTAT, PTRATIO for initial models\n\n## Common Mistakes to Avoid\n\n1. **Not checking data types** - Always verify your data types\n2. **Ignoring outliers** - Understand why outliers exist before removing them\n3. **Poor visualization** - Always add titles, labels, and proper formatting\n4. **No documentation** - Comment your code and explain your reasoning\n5. **Rushing analysis** - Take time to understand the data before modeling\n\n## Extension Activities\n\n1. **Feature Engineering**: Create new features like price per room\n2. **Advanced Visualizations**: Try 3D plots or pair plots\n3. **Statistical Tests**: Perform correlation significance tests\n4. **Data Transformation**: Try log transformations for skewed variables\n\n---\n\n**This solution demonstrates proper data exploration techniques and provides a foundation for more advanced analysis in subsequent labs.** ",
+      "metadata": {
+        "lab_number": 1,
+        "topics": [
+          "data_exploration",
+          "pandas",
+          "visualization",
+          "data_cleaning"
+        ],
+        "difficulty": "beginner",
+        "solution_type": "complete",
+        "learning_objectives": [
+          "Load and explore datasets using pandas",
+          "Create basic visualizations with matplotlib",
+          "Identify and handle missing data",
+          "Perform basic statistical analysis"
+        ]
+      }
+    }
+  ],
+  "semesterInfo": {
+    "semester_info": {
+      "name": "Spring 2025",
+      "duration_weeks": 12,
+      "start_date": "2025-01-27",
+      "end_date": "2025-05-07",
+      "final_exam_date": "2025-05-07"
+    },
+    "schedule_info": {
+      "total_lectures": 23,
+      "topics_covered": 6,
+      "midterm_week": 8,
+      "final_week": 12
+    },
+    "important_dates": {
+      "project_proposal": "Early in semester",
+      "midterm_report": "2025-03-31",
+      "final_project": "2025-05-01",
+      "final_exam": "2025-05-07"
+    },
+    "topic_duration": {
+      "introduction": "1-2 weeks",
+      "clustering": "2-3 weeks",
+      "svd": "1-2 weeks",
+      "classification": "2-3 weeks",
+      "regression": "2-3 weeks",
+      "neural_networks": "1-2 weeks"
+    }
+  }
+}

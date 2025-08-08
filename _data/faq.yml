@@ -1,0 +1,96 @@
+- question: "Are there labs / discussion sections the first week?"
+  answer: "No, there are no labs the first week. Labs will start the second week of classes."
+  category: "course_structure"
+  tags: ["labs", "schedule", "first_week"]
+
+- question: "What are the course prerequisites?"
+  answer: |
+    **Required Background:**
+    - Basic programming experience (any language)
+    - Familiarity with Python is highly recommended
+    - Basic statistics knowledge (mean, median, standard deviation)
+
+    **What You'll Learn:**
+    - Data science workflow and methodology
+    - Data cleaning and preprocessing techniques
+    - Machine learning algorithms and implementation
+    - Data visualization and storytelling
+    - Real-world project development
+
+    **If You're Unsure:**
+    - Contact the instructor if you have concerns about prerequisites
+    - We can provide additional resources for students who need them
+    - The course is designed to accommodate various backgrounds
+
+    **Recommended Preparation:**
+    - Review basic Python syntax if you're new to it
+    - Familiarize yourself with Jupyter notebooks
+    - Brush up on basic statistics concepts
+  category: "prerequisites"
+  tags: ["requirements", "preparation", "background"]
+
+- question: "How is the course graded?"
+  answer: |
+    **Grading Breakdown:**
+    - **Participation**: 10%
+    - **Assignments**: 30%
+    - **Midterm Report**: 25%
+    - **Final Project**: 35%
+
+    **Participation (10%):**
+    - Active participation in class discussions
+    - Engagement in lab sessions
+    - Contribution to group activities
+    - Regular attendance and preparation
+
+    **Assignments (30%):**
+    - Weekly lab assignments
+    - Data analysis exercises
+    - Code implementation tasks
+    - Submission through Gradescope
+
+    **Midterm Report (25%):**
+    - Due: March 31, 2025
+    - Individual project report
+    - Data analysis and visualization
+    - Written report with findings
+
+    **Final Project (35%):**
+    - Due: May 1, 2025
+    - Individual or group project (up to 5 students)
+    - Real-world data science application
+    - Final presentation and report
+  category: "grading"
+  tags: ["grades", "assignments", "projects", "participation"]
+
+- question: "What is the final project?"
+  answer: |
+    **Final Project Overview:**
+    - Practice the complete data science lifecycle
+    - Work on a topic of your choice
+    - Demonstrate real-world data science skills
+    - Create reproducible and well-documented code
+
+    **Required Components:**
+    1. **Data Collection** - Gather data from various sources
+    2. **Data Cleaning** - Preprocess and prepare your data
+    3. **Feature Extraction** - Create meaningful features
+    4. **Data Visualization** - Create insightful visualizations
+    5. **Model Training** - Implement and evaluate models
+    6. **Results Analysis** - Interpret and communicate findings
+
+    **Project Timeline:**
+    - **Proposal**: Due early in semester
+    - **Progress Report**: Mid-semester check-in
+    - **Final Report**: Due May 1, 2025
+    - **Presentation**: Final class session
+
+    **Project Ideas:**
+    - Customer behavior analysis
+    - Social media sentiment analysis
+    - Sports analytics
+    - Healthcare data analysis
+    - Financial market prediction
+    - Environmental data analysis
+  category: "projects"
+  tags: ["final_project", "data_science", "portfolio"] 

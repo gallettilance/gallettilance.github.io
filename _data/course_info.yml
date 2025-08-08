@@ -1,0 +1,103 @@
+# Course Information for RAG System
+# This file provides structured data that the chatbot can use for better responses
+
+course:
+  name: "CS 506 - Data Science Tools and Applications"
+  code: "CS506"
+  semester: "Spring 2025"
+  year: 2025
+  credits: 4
+  department: "Computer Science"
+  school: "Boston University"
+
+instructor:
+  name: "Lance Galletti"
+  email: "galletti@bu.edu"
+  office_hours: "TBD"
+  office_location: "TBD"
+  bio: "Data Science instructor at Boston University"
+
+schedule:
+  class_times: "TBD"
+  location: "TBD"
+  lab_times: "TBD"
+  lab_location: "TBD"
+
+prerequisites:
+  - "Basic programming experience"
+  - "Familiarity with Python"
+  - "Basic statistics knowledge"
+
+learning_objectives:
+  - "Understand data science workflow"
+  - "Master data cleaning and preprocessing"
+  - "Learn machine learning techniques"
+  - "Develop visualization skills"
+  - "Practice real-world applications"
+
+grading:
+  participation: 10
+  assignments: 30
+  midterm: 25
+  final_project: 35
+
+important_dates:
+  - date: "2025-02-10"
+    event: "Project Proposal Due"
+    type: "deadline"
+    description: "Submit project proposal with GitHub repo URL"
+  - date: "2025-03-31"
+    event: "Midterm Report Due"
+    type: "deadline"
+    description: "Submit midterm report and 5-minute presentation"
+  - date: "2025-05-01"
+    event: "Final Project Due"
+    type: "deadline"
+    description: "Submit final report and 10-minute presentation"
+
+resources:
+  discord: "https://discord.gg/c9J8JH4M"
+  gradescope: "https://www.gradescope.com/courses/961268"
+  github: "https://github.com/gallettilance/CS506-Spring2025"
+  medium: "https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf"
+  youtube: "https://youtube.com/@howithinkabout"
+
+topics:
+  - name: "Introduction to Data Science"
+    weeks: [1, 2]
+    description: "Overview of data science workflow and tools"
+  - name: "Data Collection and Cleaning"
+    weeks: [3, 4]
+    description: "Methods for collecting and preprocessing data"
+  - name: "Exploratory Data Analysis"
+    weeks: [5, 6]
+    description: "Visualization and statistical analysis"
+  - name: "Linear Regression"
+    weeks: [7, 8]
+    description: "Linear modeling and evaluation"
+  - name: "Classification"
+    weeks: [9, 10]
+    description: "Logistic regression and classification methods"
+  - name: "Advanced Topics"
+    weeks: [11, 12]
+    description: "Advanced machine learning techniques"
+  - name: "Project Work"
+    weeks: [13, 14]
+    description: "Final project development and presentation"
+
+common_questions:
+  - question: "When are office hours?"
+    answer: "Office hours will be announced in the first week of class. Check the course website for updates."
+    category: "logistics"
+  - question: "How do I submit assignments?"
+    answer: "Assignments are submitted through Gradescope. You'll receive an invitation to join the course."
+    category: "submissions"
+  - question: "What programming language do we use?"
+    answer: "We primarily use Python for this course. Basic Python knowledge is expected."
+    category: "technical"
+  - question: "Can I work in groups for the final project?"
+    answer: "Yes, you can work in groups of 1-5 students for the final project."
+    category: "projects"
+  - question: "What if I miss a deadline?"
+    answer: "Contact the instructor as soon as possible. Extensions may be granted for valid reasons."
+    category: "policies" 

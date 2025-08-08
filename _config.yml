@@ -18,7 +18,7 @@ tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Lance Galletti
 url: 'https://gallettilance.github.io'
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "node_modules", "scripts", ".github", "student_notes", "package.json", "package-lock.json"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
@@ -45,7 +45,6 @@ collections:
   modules:
   faq:
   finalproject:
-  lab_solutions:
 
 # Default layouts for each collection type
 defaults:
@@ -70,11 +69,7 @@ defaults:
       type: finalproject
     values:
       layout: module
-  - scope:
-      path: ''
-      type: lab_solutions
-    values:
-      layout: module
+
 
 compress_html:
   clippings: all
@@ -86,3 +81,6 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+# Chatbot configuration
+enable_chatbot: true

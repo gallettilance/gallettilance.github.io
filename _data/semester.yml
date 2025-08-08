@@ -1,0 +1,26 @@
+semester_info:
+  name: "Spring 2025"
+  duration_weeks: 12
+  start_date: "2025-01-27"
+  end_date: "2025-05-07"
+  final_exam_date: "2025-05-07"
+  
+schedule_info:
+  total_lectures: 23
+  topics_covered: 6
+  midterm_week: 8
+  final_week: 12
+  
+important_dates:
+  project_proposal: "Early in semester"
+  midterm_report: "2025-03-31"
+  final_project: "2025-05-01"
+  final_exam: "2025-05-07"
+  
+topic_duration:
+  introduction: "1-2 weeks"
+  clustering: "2-3 weeks"
+  svd: "1-2 weeks"
+  classification: "2-3 weeks"
+  regression: "2-3 weeks"
+  neural_networks: "1-2 weeks" 
