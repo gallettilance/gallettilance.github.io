@@ -18,7 +18,7 @@ tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Lance Galletti
 url: 'https://gallettilance.github.io'
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "node_modules"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
@@ -28,11 +28,11 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Discord:
-    - 'https://discord.gg/c9J8JH4M'
+    - 'https://discord.gg/kwHpnKcz'
   Gradescope:
-    - 'https://www.gradescope.com/courses/961268'
+    - 'https://www.gradescope.com/courses/1114343'
   Course GitHub:
-    - 'https://github.com/gallettilance/CS506-Spring2025'
+    - 'https://github.com/gallettilance/CS506-Fall2025'
   Course Medium:
     - 'https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf'
   YouTube:
@@ -45,7 +45,6 @@ collections:
   modules:
   faq:
   finalproject:
-  lab_solutions:
 
 # Default layouts for each collection type
 defaults:
@@ -70,11 +69,7 @@ defaults:
       type: finalproject
     values:
       layout: module
-  - scope:
-      path: ''
-      type: lab_solutions
-    values:
-      layout: module
+
 
 compress_html:
   clippings: all

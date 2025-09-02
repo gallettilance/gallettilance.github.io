@@ -16,12 +16,12 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 
 ## Getting Started Checklist
 
-1. Join [Discord](https://discord.gg/c9J8JH4M)
+1. Join [Discord](https://discord.gg/kwHpnKcz)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Join [Gradescope](https://www.gradescope.com/courses/961268) (code: BKJNW7)
+6. Join [Gradescope](https://www.gradescope.com/courses/1114343) (code: ZYVJE7)
 
 ## About
 
@@ -44,8 +44,9 @@ There are a number of components to this course:
 1. Weekly labs
 2. A written midterm
 3. An applied midterm
-3. A final project
-4. Participation
+4. A final project
+5. A final Exam
+6. Participation
 
 ### Labs
 
@@ -82,11 +83,11 @@ The final exam will be a closed notes, multiple choice exam.
 ## Grading
 
 - 5% participation
-- 15% labs
+- 10% labs
 - 15% written midterm
 - 15% applied midterm
 - 30% final project
-- 20% final exam
+- 25% final exam
 
 Letter Grades may be curved depending on class performance. We will never curve down.
 
