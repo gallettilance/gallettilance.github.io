@@ -28,13 +28,13 @@ Throughout this project, you should maintain a well organized GitHub.
 
 Work in groups of 1-5 students.
 
- 1. Form groups and submit proposal by **Feb 10**.
- 2. Submit midterm report and short presentation by **March 31**.
- 3. Submit final report and presentation by **May 1**.
+ 1. Form groups and submit proposal by **Sep 22**.
+ 2. Submit midterm report and short presentation by **Oct 27**.
+ 3. Submit final report and presentation by **Dec 10**.
  
 # Project Requirements
  
-## Proposal (Due 02/10)
+## Proposal (Due 9/22)
  
  The project proposal should include the following:
   - Description of the project.
@@ -53,7 +53,7 @@ Work in groups of 1-5 students.
  
  Your proposal should be submitted as `README.md` in your project GitHub repo.
 
-## Midterm Report and Presentation (Due 03/31)
+## Midterm Report and Presentation (Due 10/27)
  
  The midterm report and 5-minute presentation should include the following.
   - Preliminary visualizations of data.
@@ -67,7 +67,7 @@ Work in groups of 1-5 students.
  
  The 5-minute presentation should be a recording uploaded to YouTube. Please add the video link to the beginning of your report.
  
-## Final Report and Presentation (Due 05/01)
+## Final Report and Presentation (Due 12/10)
  
  The `README.md` in your project repo is the final report (reuse anything you want from the midterm report).
  

@@ -17,7 +17,6 @@ Sep 24
 
 Sep 29
 : [Density Based Clustering](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_06/06_Density_Based_Clustering.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2025/blob/main/lecture_06/worksheet_07.ipynb)
-  : **MONDAY SCHEDULE**{: .label .label-red }
 
 Oct 1
 : [Soft Clustering](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_07/07_Soft_Clustering.pdf) + [Clustering Aggregation](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_08/08_Clustering_Aggregation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2025/blob/main/lecture_08/worksheet_08.ipynb)

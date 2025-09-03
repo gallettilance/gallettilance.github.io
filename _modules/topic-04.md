@@ -7,6 +7,7 @@ Oct 13
 
 Oct 14
 : MIDTERM 1
+  : **MONDAY SCHEDULE**{: .label .label-red }
 
 Oct 15
 : Post Midterm Interlude: The Development of Language Models
