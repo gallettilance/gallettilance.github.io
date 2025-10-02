@@ -6,4 +6,4 @@ website: https://www.bu.edu/cs/profiles/galletti/
 photo: me.jpeg
 ---
 
-Office Hours: M 3-4pm CDS 926
+Office Hours: M 1-4pm CDS 926
