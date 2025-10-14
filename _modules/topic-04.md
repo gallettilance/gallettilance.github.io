@@ -10,7 +10,7 @@ Oct 14
   : **MONDAY SCHEDULE**{: .label .label-red }
 
 Oct 15
-: Post Midterm Interlude: The Development of Language Models
+: Post Midterm Interlude: Day in the Life of a SWE / MLE Panel
 
 Oct 20
 : [Intro to Classification](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_11/11_Classification_KNN.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2025/blob/main/lecture_11/worksheet_11.ipynb)
