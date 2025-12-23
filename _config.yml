@@ -28,9 +28,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Discord:
-    - 'https://discord.gg/8MmWm8e5'
+    - ''
   Gradescope:
-    - 'https://www.gradescope.com/courses/1114343'
+    - ''
   Course GitHub:
     - 'https://github.com/gallettilance/CS506-Fall2025'
   Course Medium:

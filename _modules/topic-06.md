@@ -2,9 +2,9 @@
 title: Final Projects and Review
 ---
 
-Dec 8 
-: Final Exam
+Lec 27 
+: Applied Midterm
 
-Dec 10 
+Lec 28 
 : End of semester AMA
     : **FINAL REPORT**{: .label .label-green }

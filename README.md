@@ -16,12 +16,12 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 
 ## Getting Started Checklist
 
-1. Join [Discord](https://discord.gg/8MmWm8e5)
+1. Join [Discord]()
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Join [Gradescope](https://www.gradescope.com/courses/1114343) (code: ZYVJE7)
+6. Join [Gradescope]() (code: TBD)
 
 ## About
 
@@ -45,7 +45,7 @@ There are a number of components to this course:
 2. A written midterm
 3. An applied midterm
 4. A final project
-5. A final Exam
+5. A second written midterm
 6. Participation
 
 ### Labs
@@ -56,7 +56,7 @@ Labs will be graded and attendance recorded. Lowest lab will be dropped.
 
 You can earn participation by attending class and answering in class polls as well as being active on the course's discord server.
 
-### Written Midterm
+### Written Midterms
 
 In class, closed notes, multiple choice exam.
 
@@ -76,10 +76,6 @@ At the end of the semester, some teams will be selected to present a poster of t
 
 Spark also host "Syntax & Snax" every Thursday 4-7 in CDS.
 
-### Final Exam
-
-The final exam will be a closed notes, multiple choice exam.
-
 ## Grading
 
 - 5% participation
@@ -87,7 +83,7 @@ The final exam will be a closed notes, multiple choice exam.
 - 15% written midterm
 - 15% applied midterm
 - 30% final project
-- 25% final exam
+- 25% written midterm 2
 
 Letter Grades may be curved depending on class performance. We will never curve down.
 
