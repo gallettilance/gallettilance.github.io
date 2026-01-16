@@ -2,26 +2,27 @@
 title: Regression
 ---
 
-Lec 19
-: [Linear Regression](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_16/16_Linear_Regression.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2025/blob/main/lecture_16/worksheet_16.ipynb)
+Apr 6
+: [Linear Regression](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_16/16_Linear_Regression.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_16/worksheet_16.ipynb)
 
-Lec 20
-: [Linear Model Evaluation](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2025/blob/main/lecture_17/worksheet_17.ipynb)
+Apr 8
+: [Linear Model Evaluation](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_17/worksheet_17.ipynb)
 
-Lec 21
-: [Linear Model Evaluation Cont'd](https://github.com/gallettilance/CS506-Fall2025/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Fall2025/blob/main/lecture_18/worksheet_18.ipynb)
+Apr 13
+: [Linear Model Evaluation Cont'd](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_18/worksheet_18.ipynb)
 
-Lec 22
+Apr 15
 : [Logistic Regression]()
 
-Lec 23
+Apr 20
+: **PATRIOTS DAY**{: .label .label-red }
+
+Apr 22
 : [Logistic Regression Cont'd]()
+  : **SUBSTITUTE MONDAY**{: .label .label-yellow }
 
-Lec 24
-: **THANKSGIVING RECESS**{: .label .label-red }
-
-Lec 25 
+Apr 27 
 : [Neural Networks Fundamentals]()
 
-Lec 26 
+Apr 29 
 : [Neural Networks Advanced]()
