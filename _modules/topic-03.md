@@ -2,8 +2,24 @@
 title: Singular Value Decomposition
 ---
 
-Feb 25 
-: [Clustering Aggregation](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_09/09_Clustering_Aggregation.pdf) + [Singular Value Decomposition](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_09/09_Singular_Value_Decomposition.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_09/worksheet_09.ipynb)
-
-Mar 2
-: SVD cont'd - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_10/worksheet_10.ipynb)
+<table class="schedule-table">
+<thead>
+<tr>
+<th>Date</th>
+<th>Lecture</th>
+<th>Lab</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feb 25</td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_09/09_Clustering_Aggregation.pdf">Clustering Aggregation</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_09/09_Singular_Value_Decomposition.pdf">Singular Value Decomposition</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_09/worksheet_09.ipynb">worksheet</a></td>
+<td><strong class="label label-purple">LAB 6</strong> Clustering Aggregation</td>
+</tr>
+<tr>
+<td>Mar 2</td>
+<td>SVD cont'd - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_10/worksheet_10.ipynb">worksheet</a></td>
+<td><strong class="label label-purple">LAB 7</strong> SVD & Dimensionality Reduction</td>
+</tr>
+</tbody>
+</table>

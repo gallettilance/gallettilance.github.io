@@ -2,27 +2,50 @@
 title: Regression
 ---
 
-Apr 6
-: [Linear Regression](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_16/16_Linear_Regression.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_16/worksheet_16.ipynb)
-
-Apr 8
-: [Linear Model Evaluation](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_17/worksheet_17.ipynb)
-
-Apr 13
-: [Linear Model Evaluation Cont'd](https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf) - [worksheet](https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_18/worksheet_18.ipynb)
-
-Apr 15
-: [Logistic Regression]()
-
-Apr 20
-: **PATRIOTS DAY**{: .label .label-red }
-
-Apr 22
-: [Logistic Regression Cont'd]()
-  : **SUBSTITUTE MONDAY**{: .label .label-yellow }
-
-Apr 27 
-: [Neural Networks Fundamentals]()
-
-Apr 29 
-: [Neural Networks Advanced]()
+<table class="schedule-table">
+<thead>
+<tr>
+<th>Date</th>
+<th>Lecture</th>
+<th>Lab</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Apr 6</td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_16/16_Linear_Regression.pdf">Linear Regression</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_16/worksheet_16.ipynb">worksheet</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 11</strong> Linear Regression</td>
+</tr>
+<tr>
+<td>Apr 8</td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf">Linear Model Evaluation</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_17/worksheet_17.ipynb">worksheet</a></td>
+</tr>
+<tr>
+<td>Apr 13</td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf">Linear Model Evaluation Cont'd</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_18/worksheet_18.ipynb">worksheet</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 12</strong> Model Evaluation</td>
+</tr>
+<tr>
+<td>Apr 15</td>
+<td><a href="">Logistic Regression</a></td>
+</tr>
+<tr>
+<td>Apr 20</td>
+<td><strong class="label label-red">PATRIOTS DAY</strong></td>
+<td rowspan="2"><strong class="label label-purple">LAB 13</strong> Logistic Regression</td>
+</tr>
+<tr>
+<td>Apr 22</td>
+<td><a href="">Logistic Regression Cont'd</a> <strong class="label label-yellow">SUBSTITUTE MONDAY</strong></td>
+</tr>
+<tr>
+<td>Apr 27</td>
+<td><a href="">Neural Networks Fundamentals</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 14</strong> Neural Networks</td>
+</tr>
+<tr>
+<td>Apr 29</td>
+<td><a href="">Neural Networks Advanced</a></td>
+</tr>
+</tbody>
+</table>

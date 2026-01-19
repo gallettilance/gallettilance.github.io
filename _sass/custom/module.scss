@@ -13,6 +13,60 @@
     }
   }
 
+  // Three-column schedule table
+  .schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: $sp-2 (-$sp-4);
+    
+    th {
+      text-align: left;
+      padding: $sp-2;
+      border-bottom: 2px solid $border-color;
+      font-weight: 600;
+      
+      @include mq(sm) {
+        padding: $sp-2 $sp-4;
+      }
+      
+      &:first-child {
+        text-align: right;
+        width: 15%;
+      }
+      
+      &:nth-child(2) {
+        width: 55%;
+      }
+      
+      &:nth-child(3) {
+        width: 30%;
+      }
+    }
+    
+    td {
+      padding: $sp-2;
+      border-top: $border $border-color;
+      vertical-align: top;
+      
+      @include mq(sm) {
+        padding: $sp-2 $sp-4;
+      }
+      
+      &:first-child {
+        text-align: right;
+        white-space: nowrap;
+      }
+    }
+    
+    tr:first-child td {
+      border-top: $border $border-color;
+    }
+    
+    tr:last-child td {
+      border-bottom: $border $border-color;
+    }
+  }
+
   >dl {
     border-bottom: $border $border-color;
     border-top: $border $border-color;
