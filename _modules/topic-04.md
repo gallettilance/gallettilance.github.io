@@ -32,7 +32,7 @@ title: Classification
 </tr>
 <tr>
 <td>Mar 23</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_13/13_Naive_Bayes.pdf">Naive Bayes</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_13/13_Model_Evaluation_and_Ensemble_Methods.pdf">Model Evaluation</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_13/worksheet_13.ipynb">worksheet</a> <strong class="label label-green">MIDTERM REPORT</strong></td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_13/13_Naive_Bayes.pdf">Naive Bayes</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_13/13_Model_Evaluation_and_Ensemble_Methods.pdf">Model Evaluation</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_13/worksheet_13.ipynb">worksheet</a>
 <td rowspan="2"><strong class="label label-purple">LAB 9</strong> Naive Bayes & Model Eval</td>
 </tr>
 <tr>

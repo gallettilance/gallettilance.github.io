@@ -28,13 +28,13 @@ Throughout this project, you should maintain a well organized GitHub.
 
 Work in groups of 1-5 students.
 
- 1. Form groups and submit proposal by **Sep 22**.
- 2. Submit midterm report and short presentation by **Oct 27**.
- 3. Submit final report and presentation by **Dec 10**.
+ 1. Form groups and submit proposal
+ 2. 2 project check-ins (random in March and April).
+ 3. Submit final report and presentation.
  
 # Project Requirements
  
-## Proposal (Due 9/22)
+## Proposal
  
  The project proposal should include the following:
   - Description of the project.
@@ -53,23 +53,19 @@ Work in groups of 1-5 students.
  
  Your proposal should be submitted as `README.md` in your project GitHub repo.
 
-## Midterm Report and Presentation (Due 10/27)
+## Project check-ins
  
- The midterm report and 5-minute presentation should include the following.
+At your check-in please prepare
   - Preliminary visualizations of data.
   - Detailed description of data processing done so far.
   - Detailed description of data modeling methods used so far.
   - Preliminary results. (e.g. we fit a linear model to the data and we achieve promising results, or we did some clustering and we notice a clear pattern in the data)
  
- We expect to see preliminary code in your project repo at this point.
- 
- Your report should be submitted as `README.md` in your project GitHub repo.
- 
- The 5-minute presentation should be a recording uploaded to YouTube. Please add the video link to the beginning of your report.
+You will be asked questions about what you have done so far and what you plan to do next (and why).
  
 ## Final Report and Presentation (Due 12/10)
  
- The `README.md` in your project repo is the final report (reuse anything you want from the midterm report).
+ The `README.md` in your project repo is the final report.
  
  You must include the following:
   - **How to build and run the code (Include this first so we know how to reproduce your results). 

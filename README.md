@@ -16,12 +16,12 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 
 ## Getting Started Checklist
 
-1. Join [Discord]()
+1. Join [Discord](https://discord.gg/GH4Yq86h)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
-6. Join [Gradescope]() (code: TBD)
+6. Join [Gradescope](https://www.gradescope.com/courses/1234032) (code: X8E22N)
 
 ## About
 
