@@ -14,7 +14,7 @@ title: Regression
 <tr>
 <td>Apr 6</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_16/16_Linear_Regression.pdf">Linear Regression</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_16/worksheet_16.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 11</strong> Linear Regression</td>
+<td rowspan="2"><strong class="label label-purple">LAB 10</strong> Non-linear SVMs and Intro to Linear Regression</td>
 </tr>
 <tr>
 <td>Apr 8</td>
@@ -23,7 +23,7 @@ title: Regression
 <tr>
 <td>Apr 13</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf">Linear Model Evaluation Cont'd</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_18/worksheet_18.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 12</strong> Model Evaluation</td>
+<td rowspan="2"><strong class="label label-purple">LAB 11</strong> Linear Regression Advanced and Model Evaluation</td>
 </tr>
 <tr>
 <td>Apr 15</td>
@@ -32,7 +32,7 @@ title: Regression
 <tr>
 <td>Apr 20</td>
 <td><strong class="label label-red">PATRIOTS DAY</strong></td>
-<td rowspan="2"><strong class="label label-purple">LAB 13</strong> Logistic Regression</td>
+<td rowspan="2"><strong class="label label-purple">LAB 12</strong> Logistic Regression</td>
 </tr>
 <tr>
 <td>Apr 22</td>
@@ -41,7 +41,7 @@ title: Regression
 <tr>
 <td>Apr 27</td>
 <td><a href="">Neural Networks Fundamentals</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 14</strong> Neural Networks</td>
+<td rowspan="2"><strong class="label label-purple">LAB 13</strong> Neural Networks</td>
 </tr>
 <tr>
 <td>Apr 29</td>

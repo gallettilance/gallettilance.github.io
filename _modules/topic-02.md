@@ -14,7 +14,7 @@ title: Clustering
 <tr>
 <td>Feb 2</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_03/03_Distance_&_Similarity.pdf">Distance & Similarity</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_03/worksheet_03.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 2</strong> Data Exploration & Correlation</td>
+<td rowspan="2"><strong class="label label-purple">LAB 2</strong> Data Science Intro and Distance/Similarity</td>
 </tr>
 <tr>
 <td>Feb 4</td>
@@ -23,7 +23,7 @@ title: Clustering
 <tr>
 <td>Feb 9</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_04/04_Clustering_Kmeans.pdf">K-means</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_04/worksheet_04.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 3</strong> K-means Implementation</td>
+<td rowspan="2"><strong class="label label-purple">LAB 3</strong> Clustering and K-Means</td>
 </tr>
 <tr>
 <td>Feb 11</td>
@@ -32,7 +32,7 @@ title: Clustering
 <tr>
 <td>Feb 16</td>
 <td><strong class="label label-red">PRESIDENTS DAY</strong></td>
-<td rowspan="3"><strong class="label label-purple">LAB 4</strong> Hierarchical & Density Clustering</td>
+<td rowspan="3"><strong class="label label-purple">LAB 4</strong> K-Means++</td>
 </tr>
 <tr>
 <td>Feb 17</td>
@@ -45,7 +45,6 @@ title: Clustering
 <tr>
 <td>Feb 23</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_08/08_Soft_Clustering.pdf">Soft Clustering</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_08/worksheet_08.ipynb">worksheet</a></td>
-<td><strong class="label label-purple">LAB 5</strong> Soft Clustering & GMM</td>
 </tr>
 </tbody>
 </table>
