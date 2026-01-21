@@ -13,7 +13,7 @@ title: Introduction
 <tbody>
 <tr>
 <td>Jan 21</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_00/00_CS_506_Overview.pdf">Overview</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_00/prerequisite_exam.pdf" class="btn btn-outline">worksheet</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_00/00_CS_506_Overview.pdf">Overview</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_00/00_Data_Science_Is_Impossible.pdf">DS is Impossible</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_00/prerequisite_exam.pdf" class="btn btn-outline">worksheet</a></td>
 <td></td>
 </tr>
 <tr>
