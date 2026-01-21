@@ -24,7 +24,7 @@ title: Classification
 <tr>
 <td>Mar 16</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_11/11_Classification_KNN.pdf">Intro to Classification</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_11/worksheet_11.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 8</strong> KNN & Decision Trees</td>
+<td rowspan="2"><strong class="label label-purple">LAB 7</strong> Classification and KNN</td>
 </tr>
 <tr>
 <td>Mar 18</td>
@@ -33,7 +33,7 @@ title: Classification
 <tr>
 <td>Mar 23</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_13/13_Naive_Bayes.pdf">Naive Bayes</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_13/13_Model_Evaluation_and_Ensemble_Methods.pdf">Model Evaluation</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_13/worksheet_13.ipynb">worksheet</a>
-<td rowspan="2"><strong class="label label-purple">LAB 9</strong> Naive Bayes & Model Eval</td>
+<td rowspan="2"><strong class="label label-purple">LAB 8</strong> Decision Trees and Naïve Bayes</td>
 </tr>
 <tr>
 <td>Mar 25</td>
@@ -42,7 +42,7 @@ title: Classification
 <tr>
 <td>Mar 30</td>
 <td>MIDTERM REVIEW + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_14/14_Support_Vector_Machines.pdf">Support Vector Machines (linear)</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 10</strong> Support Vector Machines</td>
+<td rowspan="2"><strong class="label label-purple">LAB 9</strong> Recommender Systems and Linear SVMs</td>
 </tr>
 <tr>
 <td>Apr 1</td>
