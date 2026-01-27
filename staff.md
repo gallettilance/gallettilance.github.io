@@ -11,6 +11,14 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
+# Teaching Fellow 
+
+{% assign teaching_fellows = site.staffers | where: 'role', 'Teaching Fellow' %}
+{% for staffer in teaching_fellows %}
+{{ staffer }}
+{% endfor %}
+
+
 # Teaching Assistants
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
