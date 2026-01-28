@@ -1,5 +1,5 @@
 ---
-name: Eeshwar Gattupalli :-)
+name: Eeshwar Gattupalli
 role: Teaching Assistant
 email: eeshwarg@bu.edu
 photo: eeshwarpic.jpeg
