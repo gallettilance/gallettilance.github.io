@@ -19,7 +19,7 @@ title: Introduction
 <tr>
 <td>Jan 26</td>
 <td><strong class="label label-red">CLASSES CANCELLED</strong></td>
-<td rowspan="2"><strong class="label label-purple">LAB 1</strong> Git Intro</td>
+<td rowspan="2"><strong class="label label-purple">LAB 1</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab01.git">Git Intro</a></td>
 </tr>
 <tr>
 <td>Jan 28</td>

@@ -16,7 +16,7 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 
 ## Getting Started Checklist
 
-1. Join [Discord](https://discord.gg/GH4Yq86h)
+1. Join [Discord](https://discord.gg/BNrpSsqCJb)
 2. Create a [GitHub](https://github.com/) account
 3. Create a [Kaggle](https://www.kaggle.com/) account
 4. Fill out [this form](https://forms.gle/YitWBVWeegjZzTJy9) (requires BU email) with your GitHub and Kaggle account username
