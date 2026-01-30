@@ -29,7 +29,7 @@ Throughout this project, you should maintain a well organized GitHub.
 Work in groups of 1-5 students.
 
  1. Form groups and submit proposal
- 2. 2 project check-ins (random in March and April).
+ 2. 2 project check-ins (one scheduled in March and another in April).
  3. Submit final report and presentation.
  
 # Project Requirements
@@ -53,7 +53,96 @@ Work in groups of 1-5 students.
  
  Your proposal should be submitted as `README.md` in your project GitHub repo.
 
-## Project check-ins
+
+## Proposal Rubric
+
+### 1. Project Description (10 points)
+
+| Criteria | Points |
+|--------|--------|
+| Project topic is clearly described | 5 |
+| Project timeline planned | 5 |
+
+**Notes**
+- The topic for your final project fit should fit a two month timeline. As such, you should think carefully about how you will budget your time to meet this deadline. It is wise to consider a related, but simpler problem that you could fall back on in case you realize that the original goal was too ambitious.
+- The project timeline should be a rough estimate (number of weeks) it will take to complete each important subtask for your project. You are not tied to this specific timeline; we are only looking to see how you realistically plan to complete the project in the allotted time.
+
+### 2. Project Goals (10 points)
+
+
+| Criteria | Points |
+|--------|--------|
+| Goal(s) are clearly stated | 5 |
+| Goals are specific and measurable | 5 |
+
+**Examples**
+- **Good**: “Successfully predict the number of students attending lecture based on the weather report”
+- **Bad**:  “Analyze weather data”
+
+---
+
+### 3. Data Collection Plan (10 points)
+
+**Goal:** Evaluate feasibility and thoughtfulness of data acquisition.
+
+| Criteria | Points |
+|--------|--------|
+| Potential data sources identified | 5 |
+| Data collection method explained (API, scraping, polling, etc.) | 5 |
+
+---
+
+### 4. Modeling Plan (10 points)
+
+| Criteria | Points |
+|--------|--------|
+| At least one plausible modeling approach identified | 5 |
+| Modeling choice is appropriate for the stated goal | 5 |
+
+**Notes**
+- Modeling approach may be high-level
+
+---
+
+### 5. Visualization Plan (5 points)
+
+| Criteria | Points |
+|--------|--------|
+| At least one planned visualization is described | 5 |
+
+**Notes**
+- Briefly explain how your visualization is relevant to your project.
+
+---
+
+### 6. Test / Evaluation Plan (5 points)
+
+
+| Criteria | Points |
+|--------|--------|
+| Test or evaluation strategy is described | 5 |
+
+---
+
+### Summary
+
+| Category | Points |
+|--------|--------|
+| Project Description & Motivation | 10 |
+| Project Goals | 10 |
+| Data Collection Plan | 10 |
+| Modeling Plan | 10 |
+| Visualization Plan | 5 |
+| Test / Evaluation Plan | 5 |
+| **Total** | **50** |
+
+---
+
+
+## Project Check-Ins
+
+You will need to schedule **two** check-in meetings with all your group members present. One meeting in March and another in April. To schedule an appointment schedule a time on [Google Calendar](https://calendar.app.google/vw6eL2sCoouekK4eA). **Note:** All appointments must be made with at least 24 hour notice.
+
  
 At your check-in please prepare
   - Preliminary visualizations of data.
@@ -62,6 +151,76 @@ At your check-in please prepare
   - Preliminary results. (e.g. we fit a linear model to the data and we achieve promising results, or we did some clustering and we notice a clear pattern in the data)
  
 You will be asked questions about what you have done so far and what you plan to do next (and why).
+
+
+## Project Check-In Rubric
+
+### 1. Preliminary Data Visualizations (15 points)
+
+
+| Criteria | Points |
+|--------|--------|
+| At least one relevant visualization is presented | 10 |
+| Visualizations are clear and readable (well-labeled) | 5 |
+| Visualizations show meaningful patterns or inform future exploration | 5 |
+
+**Notes**
+- Visualizations can be rough (not final-quality), but should be correctly labeled
+- You will be asked how to interpret your visuzalization(s) and what conclusions (if any) we can draw from it
+
+---
+
+### 2. Data Processing Progress (15 points)
+
+
+| Criteria | Points |
+|--------|--------|
+| Clear sources of data and data collection methods have been considered | 5 |
+| Data cleaning steps considered | 5 |
+| Reasoning for data processing decisions are well-explained | 5 |
+
+**Notes**
+- Data collection and cleaning does not need to be finalized (especially for the March check-in), but you should demonstrate that you have taken some initial steps.
+
+---
+
+### 3. Modeling Methods (15 points)
+
+
+| Criteria | Points |
+|--------|--------|
+| At least one modeling approach attempted or clearly planned | 5 |
+| Modeling method(s) are appropriate for the problem | 5 |
+| Modeling choices are well-explained | 5 |
+
+**Notes**
+- Explanation for your design decisions is much more important than the performance of your chosen model at this stage.
+
+---
+
+### 4. Preliminary Results & Interpretation (5 points)
+
+| Criteria | Points |
+|--------|--------|
+| Preliminary results are presented and interpreted | 5 |
+
+**Notes**
+- Your results at this stage are not expected to be good. However, you should be able to reason about what may be causing poor results.
+
+---
+
+### Summary
+
+| Category | Points |
+|--------|--------|
+| Preliminary Visualizations | 15 |
+| Data Processing Progress | 15 |
+| Modeling Methods | 15 |
+| Preliminary Results | 5 |
+| **Total** | **50** |
+
+
+
  
 ## Final Report and Presentation (Due 12/10)
  
@@ -92,3 +251,82 @@ You will be asked questions about what you have done so far and what you plan to
  The goal is to pick the lane(s) that minimize time in traffic. Live webcam data can be scraped from https://mass511.com/. You would probably need to use some computer vision techniques to process the images.
  4. Predicting people's moods based on current events. Current event data can be scraped from news websites or using the twitter API to monitor trending events.
  People's moods can be polled using a Google form distributed weekly to the class. You would probably need to use a text feature extractor.
+
+
+## Final Report Rubric 
+
+### 1. GitHub Organization & Reproducibility (20 points)
+
+| Criteria | Points |
+|--------|--------|
+| Clear instructions to build and run the code (`makefile`) | 10 |
+| Repository is well organized (clear structure, logical files) | 5 |
+| Results are reproducible | 5 |
+
+
+---
+
+### 2. Data Collection (15 points)
+
+| Criteria | Points |
+|--------|--------|
+| Data collection process is well-documented in README  | 5 |
+| Data source(s) clearly identified and justified | 5 |
+| Data collection method implemented in code | 5 |
+
+
+---
+
+### 3. Data Cleaning (15 points)
+
+| Criteria | Points |
+|--------|--------|
+| Cleaning steps clearly described in README | 5 |
+| Handling of missing, noisy, or inconsistent data | 5 |
+| Cleaning logic implemented in code | 5 |
+
+---
+
+### 4. Feature Extraction (10 points)
+
+| Criteria | Points |
+|--------|--------|
+| Features are clearly defined and explained in README | 5 |
+| Extracted features are appropriate for the task | 5 |
+
+---
+
+### 5. Model Training & Evaluation (25 points)
+
+| Criteria | Points |
+|--------|--------|
+| Training procedure is clearly described in README | 5 |
+| Model choice is appropriate for the problem | 10 |
+| Evaluation strategy is appropriate | 5 |
+| Discussion of limitations or failure cases | 5 |
+
+---
+
+### 6. Data Visualization & Results (15 points)
+
+| Criteria | Points |
+|--------|--------|
+| Visualizations are clear and readable (e.g., correctly labelled plots) | 5 |
+| Visualizations reveal patterns or insights | 5 |
+| Visualizations support results | 5 |
+
+
+---
+
+### Summary
+
+| Category | Points |
+|--------|--------|
+| GitHub Organization & Reproducibility | 20 |
+| Data Collection | 15 |
+| Data Cleaning | 15 |
+| Feature Extraction | 10 |
+| Model Training & Evaluation | 25 |
+| Data Visualization & Results | 15 |
+| **Total** | **100** |
+
