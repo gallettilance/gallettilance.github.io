@@ -56,34 +56,35 @@ Work in groups of 1-5 students.
 
 ## Proposal Rubric
 
-### 1. Project Description (10 points)
+### 1. Project Description (20 points)
 
 | Criteria | Points |
 |--------|--------|
-| Project topic is clearly described | 5 |
-| Project timeline planned | 5 |
+| Project topic is clearly described | 10 |
+| Project timeline planned | 10 |
 
 **Notes**
 - The topic for your final project fit should fit a two month timeline. As such, you should think carefully about how you will budget your time to meet this deadline. It is wise to consider a related, but simpler problem that you could fall back on in case you realize that the original goal was too ambitious.
 - The project timeline should be a rough estimate (number of weeks) it will take to complete each important subtask for your project. You are not tied to this specific timeline; we are only looking to see how you realistically plan to complete the project in the allotted time.
 
-### 2. Project Goals (10 points)
+### 2. Project Goals (20 points)
 
 
 | Criteria | Points |
 |--------|--------|
-| Goal(s) are clearly stated | 5 |
-| Goals are specific and measurable | 5 |
+| Goal(s) are clearly stated | 10 |
+| Goals are specific and measurable | 10 |
 
 **Examples**
 - **Good**: “Successfully predict the number of students attending lecture based on the weather report”
 - **Bad**:  “Analyze weather data”
 
+**Notes**
+- A goal is specific and measurable if you can identify some set of features that you would like to examine. 
+
 ---
 
 ### 3. Data Collection Plan (10 points)
-
-**Goal:** Evaluate feasibility and thoughtfulness of data acquisition.
 
 | Criteria | Points |
 |--------|--------|
@@ -92,48 +93,13 @@ Work in groups of 1-5 students.
 
 ---
 
-### 4. Modeling Plan (10 points)
-
-| Criteria | Points |
-|--------|--------|
-| At least one plausible modeling approach identified | 5 |
-| Modeling choice is appropriate for the stated goal | 5 |
-
-**Notes**
-- Modeling approach may be high-level
-
----
-
-### 5. Visualization Plan (5 points)
-
-| Criteria | Points |
-|--------|--------|
-| At least one planned visualization is described | 5 |
-
-**Notes**
-- Briefly explain how your visualization is relevant to your project.
-
----
-
-### 6. Test / Evaluation Plan (5 points)
-
-
-| Criteria | Points |
-|--------|--------|
-| Test or evaluation strategy is described | 5 |
-
----
-
 ### Summary
 
 | Category | Points |
 |--------|--------|
-| Project Description & Motivation | 10 |
-| Project Goals | 10 |
+| Project Description & Motivation | 20 |
+| Project Goals | 20 |
 | Data Collection Plan | 10 |
-| Modeling Plan | 10 |
-| Visualization Plan | 5 |
-| Test / Evaluation Plan | 5 |
 | **Total** | **50** |
 
 ---
@@ -153,7 +119,7 @@ At your check-in please prepare
 You will be asked questions about what you have done so far and what you plan to do next (and why).
 
 
-## Project Check-In Rubric
+## Project Check-In Rubric (March)
 
 ### 1. Preliminary Data Visualizations (15 points)
 
@@ -189,9 +155,9 @@ You will be asked questions about what you have done so far and what you plan to
 
 | Criteria | Points |
 |--------|--------|
-| At least one modeling approach attempted or clearly planned | 5 |
-| Modeling method(s) are appropriate for the problem | 5 |
-| Modeling choices are well-explained | 5 |
+| Process being predicted/described is clearly explained | 5 |
+| Relevant features are chosen to predict/describe the process | 5 |
+| Clear justification for features used | 5 |
 
 **Notes**
 - Explanation for your design decisions is much more important than the performance of your chosen model at this stage.
@@ -222,7 +188,7 @@ You will be asked questions about what you have done so far and what you plan to
 
 
  
-## Final Report and Presentation (Due 12/10)
+## Final Report and Presentation (Due 5/1)
  
  The `README.md` in your project repo is the final report.
  
