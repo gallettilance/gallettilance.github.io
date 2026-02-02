@@ -5,4 +5,4 @@ email: eeshwarg@bu.edu
 photo: eeshwarpic.jpeg
 ---
 
-Office Hours: R 3:30-4:30 LOC TBD, F 12:00 - 2:00 LOC TBD
+Office Hours: R 3:30-4:30pm, F 12:00 - 1:00pm. Both OH will be held in the blue lounge outside of CDS 928.
