@@ -14,7 +14,7 @@ title: Clustering
 <tr>
 <td>Feb 2</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_02/02_Introduction.pdf">Intro</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_03/03_Distance_&_Similarity.pdf">Distance & Similarity</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_03/worksheet_03.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 2</strong> Data Science Intro and Distance/Similarity</td>
+<td rowspan="2"><strong class="label label-purple">LAB 2</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab02">Data Science Intro and Distance/Similarity</a></td>
 </tr>
 <tr>
 <td>Feb 4</td>
