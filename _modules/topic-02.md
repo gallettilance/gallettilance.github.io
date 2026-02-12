@@ -23,7 +23,7 @@ title: Clustering
 <tr>
 <td>Feb 9</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_04/04_Clustering_Kmeans.pdf">K-means</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_04/worksheet_04.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 3</strong> Clustering and K-Means</td>
+<td rowspan="2"><strong class="label label-purple">LAB 3</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab03">Clustering and K-Means</a></td>
 </tr>
 <tr>
 <td>Feb 11</td>
