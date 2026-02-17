@@ -13,7 +13,7 @@ title: Classification
 <tbody>
 <tr>
 <td>Mar 4</td>
-<td>MIDTERM 1</td>
+<td><strong class="label label-red">NO CLASS</strong></td>
 <td></td>
 </tr>
 <tr>

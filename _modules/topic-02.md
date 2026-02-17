@@ -36,14 +36,10 @@ title: Clustering
 </tr>
 <tr>
 <td>Feb 17</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_06/06_Hierarchical_Clustering.pdf">Hierarchical Clustering</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_06/06_Density_Based_Clustering.pdf">Density Based Clustering</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_06/worksheet_06.ipynb">worksheet</a> <strong class="label label-yellow">SUBSTITUTE MONDAY</strong></td>
+<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_06/06_Density_Based_Clustering.pdf">Density Based Clustering</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_06/worksheet_06.ipynb">worksheet</a> <strong class="label label-yellow">SUBSTITUTE MONDAY</strong></td>
 </tr>
 <tr>
 <td>Feb 18</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_07/07_Density_Based_Clustering.pdf">Density Based Clustering</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_07/worksheet_07.ipynb">worksheet</a></td>
-</tr>
-<tr>
-<td>Feb 23</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_08/08_Soft_Clustering.pdf">Soft Clustering</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_08/worksheet_08.ipynb">worksheet</a></td>
 </tr>
 </tbody>
