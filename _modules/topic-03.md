@@ -19,7 +19,7 @@ title: Singular Value Decomposition
 <tr>
 <td>Feb 25</td>
 <td>SVD cont'd - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_10/worksheet_10.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-red">LAB 6 (INDEPENDENT/NOT IN PERSON)</strong> SVD and Midterm Review</td>
+<td rowspan="1"><strong class="label label-purple">LAB 6 </strong> SVD and Midterm Review</td>
 </tr>
 <tr>
 <td>Mar 2</td>
