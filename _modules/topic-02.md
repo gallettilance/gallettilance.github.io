@@ -32,7 +32,7 @@ title: Clustering
 <tr>
 <td>Feb 16</td>
 <td><strong class="label label-red">PRESIDENTS DAY</strong></td>
-<td rowspan="3"><strong class="label label-purple">LAB 4</strong> K-Means++ and Hierarchical Clustering</td>
+<td rowspan="3"><strong class="label label-purple">LAB 4</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab04">K-Means++ and Hierarchical Clustering</a></td>
 </tr>
 <tr>
 <td>Feb 17</td>

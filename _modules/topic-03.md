@@ -14,12 +14,12 @@ title: Singular Value Decomposition
 <tr>
 <td>Feb 23</td>
 <td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_09/09_Clustering_Aggregation.pdf">Clustering Aggregation</a> + <a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_09/09_Singular_Value_Decomposition.pdf">Singular Value Decomposition</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_09/worksheet_09.ipynb">worksheet</a></td>
-<td rowspan="1"><strong class="label label-purple">LAB 5</strong> Density Based Clustering and Midterm Review</td>
+<td rowspan="1"><strong class="label label-purple">LAB 5</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab05"> Density Based Clustering and Midterm Review</a></td>
 </tr>
 <tr>
 <td>Feb 25</td>
 <td>SVD cont'd - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_10/worksheet_10.ipynb">worksheet</a></td>
-<td rowspan="1"><strong class="label label-purple">LAB 6 </strong> SVD and Midterm Review</td>
+<td rowspan="1"><strong class="label label-purple">LAB 6</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab05"> GMM and Midterm Review</a></td>
 </tr>
 <tr>
 <td>Mar 2</td>
