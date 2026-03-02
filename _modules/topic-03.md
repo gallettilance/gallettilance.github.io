@@ -22,7 +22,7 @@ title: Singular Value Decomposition
 </tr>
 <tr>
 <td>Mar 2</td>
-<td>MIDTERM 1</td>
+<td>MIDTERM 1 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ"> ANSWER KEY </a> </td>
 <td></td>
 </tr>
 <tr>
