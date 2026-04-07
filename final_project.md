@@ -119,34 +119,37 @@ At your check-in please prepare
 You will be asked questions about what you have done so far and what you plan to do next (and why).
 
 
-## Project Check-In Rubric (March)
+## Project Check-In Rubric (April)
 
-### 1. Preliminary Data Visualizations (15 points)
+### 1. Data Visualizations (15 points)
 
 
 | Criteria | Points |
 |--------|--------|
-| At least one relevant visualization is presented | 10 |
+| At least one relevant visualization is presented | 5 |
 | Visualizations are clear and readable (well-labeled) | 5 |
-| Visualizations show meaningful patterns or inform future exploration | 5 |
+| Visualizations show supports a important claim | 5 |
 
 **Notes**
-- Visualizations can be rough (not final-quality), but should be correctly labeled
-- You will be asked how to interpret your visuzalization(s) and what conclusions (if any) we can draw from it
-
+- Visualizations should be meaningful and final quality. 
+- You will be asked your visuzalization(s) are relevant and what how it supports/disproves your project hypotheses.
+- You should be prepared to defend all of your visualization decisions.
+- For example: Why did you choose a scatter plot instead of a box plot, pie chart, histogram, etc.? Why did you choose to visualize these quantities? Is the visualization misleading? 
 ---
 
-### 2. Data Processing Progress (15 points)
+### 2. Data Processing (15 points)
 
 
 | Criteria | Points |
 |--------|--------|
-| Clear sources of data and data collection methods have been considered | 5 |
-| Data cleaning steps considered | 5 |
+| Clear sources of data and data collection methods have been chosen | 5 |
+| Data cleaning steps are close to finalized | 5 |
 | Reasoning for data processing decisions are well-explained | 5 |
 
 **Notes**
-- Data collection and cleaning does not need to be finalized (especially for the March check-in), but you should demonstrate that you have taken some initial steps.
+- Data collection should be (mostly) finalized at this point. 
+- Like the March check-in, I will ask you basic questions about why you chose the features you ultimately decided to use.
+- You should be prepared to justify all your data decisions. 
 
 ---
 
@@ -155,23 +158,24 @@ You will be asked questions about what you have done so far and what you plan to
 
 | Criteria | Points |
 |--------|--------|
-| Process being predicted/described is clearly explained | 5 |
-| Relevant features are chosen to predict/describe the process | 5 |
-| Clear justification for features used | 5 |
+| At least 1 modelling method has been attempted | 5 |
+| At least 1 modelling method has been appropriately tested for performance | 5 |
+| Clear justification for features and model used | 5 |
 
 **Notes**
-- Explanation for your design decisions is much more important than the performance of your chosen model at this stage.
-
+- You will be expect to have thoroughly experiemnted with at least one modelling method at this point (ideally two or more).
+- You should be able to defend all choices made for your modelling method.
 ---
 
-### 4. Preliminary Results & Interpretation (5 points)
+### 4. Results & Interpretation (5 points)
 
 | Criteria | Points |
 |--------|--------|
-| Preliminary results are presented and interpreted | 5 |
+| Results are presented and accurately interpreted | 5 |
 
 **Notes**
-- Your results at this stage are not expected to be good. However, you should be able to reason about what may be causing poor results.
+- Your results do not need to outperform state-of-the-art, however they you should be able to explain why they underperform/outperform other approaches.
+- Ideally, your visualizations include a visualization of your model's performance.
 
 ---
 
@@ -179,10 +183,10 @@ You will be asked questions about what you have done so far and what you plan to
 
 | Category | Points |
 |--------|--------|
-| Preliminary Visualizations | 15 |
-| Data Processing Progress | 15 |
+| Data Visualizations | 15 |
+| Data Processing | 15 |
 | Modeling Methods | 15 |
-| Preliminary Results | 5 |
+| Results & Interpretation | 5 |
 | **Total** | **50** |
 
 
