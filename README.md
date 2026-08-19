@@ -23,15 +23,31 @@ Supplemental material can be found on [YouTube](https://youtube.com/@howithinkab
 5. Install [Python](https://www.python.org/about/gettingstarted/) and [Jupyter Notebook](https://jupyter.org/install)
 6. Join [Gradescope](https://www.gradescope.com/courses/1234032) (code: X8E22N)
 
-## About
+## About the Course
 
-The goal of this course is to provide students a hands-on understanding of classical data analysis techniques and to develop proficiency in applying these techniques in modern programming languages (Python).
+This course is about understanding how models work, not just memorizing definitions and equations.
 
-The course introduces students to a wide range of techniques that are commonly used in the analysis of data such as clustering, classification, regression, and neural networks.
+Real understanding takes work. A big part of that work is learning to stress-test what you think you understand: try an idea, look for where it breaks, figure out why, and then improve it.
 
-Note that this is not a Python (or an introduction to programming) course, so self-study will be necessary for those students who do not already know the language.
+That process can be uncomfortable. Being confused or discovering that your explanation was wrong can feel like a setback, but those are often the moments where the most learning happens. They are also a big part of how research works: new ideas often come from finding the limits of old ones.
 
-There is no textbook for this course, all material will be made available online.
+Throughout the course, we will follow this process repeatedly:
+
+build an idea -> test it -> break it -> understand why -> improve it
+
+## What You Should Know
+
+You will be expected to understand the mechanics behind the tools we cover well enough to reason about them in new situations.
+
+On exams, I may change part of a familiar model, put it in a different setting, or show you something we never directly covered and ask you to work out how it should behave.
+
+Because of that, memorizing definitions or equations will not be enough. Practice should involve trying to break your own understanding and finding the places where it is still incomplete.
+
+The goal is that you leave the course with more than a set of machine-learning tools. You should also leave knowing how to think about those tools: how to question them, adapt them to new problems, recognize their limitations, and potentially use the same reasoning to develop new ideas of your own.
+
+This is not a Python (or introduction to programming) course, so self-study is expected for anyone who does not already know the language.
+
+There is no required textbook; all course material will be made available online.
 
 ### Prerequisites
 
@@ -42,15 +58,16 @@ Students taking this class must have some prior familiarity with programming at 
 There are a number of components to this course:
 
 1. Weekly labs
-2. A written midterm
-3. An applied midterm
-4. A final project
-5. A second written midterm
-6. Participation
+2. Written Midterm 1 (cumulative)
+3. Written Midterm 2 (cumulative)
+4. Written Midterm 3 (cumulative)
+5. An applied midterm
+6. A final project
+7. Participation
 
 ### Labs
 
-Labs will be graded and attendance recorded. Lowest lab will be dropped.
+Labs are where you should actively test your understanding, not just complete steps. Labs will be graded, attendance will be recorded, and the lowest lab score will be dropped.
 
 ### Participation
 
@@ -58,11 +75,27 @@ You can earn participation by attending class and answering in class polls as we
 
 ### Written Midterms
 
-In class, closed notes, multiple choice exam.
+In-class, closed-notes exams focused on reasoning and model behavior.
+
+The three written midterms are cumulative and are designed to reward growth:
+
+- **Midterm 1 (Foundations):** distance/similarity, clustering basics, K-means/K-means++, hierarchical/density-based ideas, soft clustering.
+- **Midterm 2 (Foundations + New Models):** everything from Midterm 1, plus SVD/dimensionality reduction, classification (KNN, trees, Naive Bayes), evaluation basics, and model tradeoffs.
+- **Midterm 3 (Full Course):** everything from Midterms 1-2, plus SVMs, linear/logistic regression, and neural network fundamentals with emphasis on transfer to unfamiliar settings.
+
+### Cumulative Exam Scoring Policy
+
+Written midterms are cumulative and scored to reward learning over time.
+
+- If your score on the next written midterm is **higher**, the earlier midterm score is replaced by the **higher score**.
+- If your score on the next written midterm is **not higher**, we keep a **weighted average** to still value later performance.
+- Weights used for roll-forward averaging: **previous score = 40%**, **new score = 60%**.
+
+This means improving later can recover from an earlier poor performance, while consistency is still rewarded.
 
 ### Applied Midterm
 
-The applied midterm will be a Kaggle Data Science competition among the students in the class with a live leaderboard. Students will need to submit predictions based on a training dataset and meet certain benchmarks to earn points.
+The applied midterm will be a Kaggle data science competition among students in the class with a live leaderboard. You will submit predictions based on a training dataset and meet benchmarks to earn points.
 
 ### Final Project
 
@@ -80,10 +113,9 @@ Spark also host "Syntax & Snax" every Thursday 4-7 in CDS.
 
 - 5% participation
 - 10% labs
-- 15% written midterm
+- 45% written midterms (cumulative policy across Midterms 1-3)
 - 15% applied midterm
-- 30% final project
-- 25% written midterm 2
+- 25% final project
 
 Letter Grades may be curved depending on class performance. We will never curve down.
 
