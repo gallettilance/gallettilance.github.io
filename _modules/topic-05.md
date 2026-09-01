@@ -13,17 +13,17 @@ title: Regression
 <tbody>
 <tr>
 <td>Apr 8</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_16/16_Linear_Regression.pdf">Linear Regression</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_16/worksheet_16.ipynb">worksheet</a></td>
-<td rowspan="1"><strong class="label label-purple">LAB 10</strong><a href="https://github.com/eeshwargattupalli/CS506-lab10">Linear and Non-linear SVMs</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_16/16_Linear_Regression.pdf">Linear Regression</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_16/worksheet_16.ipynb">worksheet</a></td>
+<td rowspan="1"><strong class="label label-purple">LAB 10</strong><a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_10">Linear and Non-linear SVMs</a></td>
 </tr>
 <tr>
 <td>Apr 13</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf">Linear Model Evaluation</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_17/worksheet_17.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 11</strong><a href="https://github.com/eeshwargattupalli/CS506-lab11">Linear Regression and Model Evaluation</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_17/17_Linear_Model_Evaluation.pdf">Linear Model Evaluation</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_17/worksheet_17.ipynb">worksheet</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 11</strong><a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_11">Linear Regression and Model Evaluation</a></td>
 </tr>
 <tr>
 <td>Apr 15</td>
-<td><a href="https://github.com/gallettilance/CS506-Spring2026/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf">Linear Model Evaluation Cont'd</a> - <a href="https://github.com/gallettilance/CS506-Spring2026/blob/main/lecture_18/worksheet_18.ipynb">worksheet</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_18/18_Linear_Model_Evaluation.pdf">Linear Model Evaluation Cont'd</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_18/worksheet_18.ipynb">worksheet</a></td>
 </tr>
 <tr>
 <td>Apr 20</td>
@@ -42,7 +42,7 @@ title: Regression
 <tr>
 <td>Apr 29</td>
 <td><a href="">Neural Networks Fundamentals</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 12</strong> <a href="https://github.com/eeshwargattupalli/CS506-lab12">Activation Functions and Minimal Architecture</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 12</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_12">Activation Functions and Minimal Architecture</a></td>
 </tr>
 <tr>
 <td>May 4</td>

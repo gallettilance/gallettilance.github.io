@@ -1,0 +1,4 @@
+exclude:
+  - vendor
+  - vendor/bundle
+  - node_modules
