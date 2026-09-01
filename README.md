@@ -77,7 +77,7 @@ The three written midterms are cumulative and are designed to reward growth:
 
 - **Midterm 1 (Foundations):** distance/similarity, clustering basics, K-means/K-means++, hierarchical/density-based ideas, soft clustering.
 - **Midterm 2 (Foundations + New Models):** everything from Midterm 1, plus SVD/dimensionality reduction, classification (KNN, trees, Naive Bayes), evaluation basics, and model tradeoffs.
-- **Midterm 3 (Full Course):** everything from Midterms 1-2, plus SVMs, linear/logistic regression, and neural network fundamentals with emphasis on transfer to unfamiliar settings.
+- **Midterm 3 (Full Course):** everything from Midterms 1-2, plus SVMs, linear/logistic regression, and neural network fundamentals with emphasis on transfer to unfamiliar settings. Given on the last day of class.
 
 ### Cumulative Exam Scoring Policy
 

@@ -12,9 +12,13 @@ title: Final Project and Final
 </thead>
 <tbody>
 <tr>
-<td>TBD</td>
-<td>Final</td>
-<td></td>
+<td>Dec 7</td>
+<td>MIDTERM REVIEW</td>
+<td rowspan="2"><strong class="label label-purple">LAB 12 TBD</strong></td>
+</tr>
+<tr>
+<td>Dec 9</td>
+<td>MIDTERM 3 <strong class="label label-red">LAST DAY OF CLASSES</strong></td>
 </tr>
 </tbody>
 </table>

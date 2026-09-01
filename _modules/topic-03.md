@@ -12,33 +12,22 @@ title: Singular Value Decomposition
 </thead>
 <tbody>
 <tr>
-<td>Feb 23</td>
-<td><strong class="label label-red">CLASSES CANCELLED</strong></td><td rowspan="1"><strong class="label label-purple">LAB 5</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_05"> Density Based Clustering and Midterm Review</a></td>
+<td>Oct 5</td>
+<td>MIDTERM 1</td>
+<td rowspan="2"><strong class="label label-purple">LAB 4 TBD</strong></td>
 </tr>
 <tr>
-<td>Feb 25</td>
-<td><strong class="label label-red">LECTURE CANCELLED</strong></td>
-<td rowspan="1"><strong class="label label-purple">LAB 6</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_06"> GMM and Midterm Review</a></td>
+<td>Oct 7</td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_09/09_Singular_Value_Decomposition.pdf">SVD</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_09/worksheet_09.ipynb">worksheet</a></td>
 </tr>
 <tr>
-<td>Mar 2</td>
-<td>MIDTERM 1 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ"> ANSWER KEY </a> </td>
-<td></td>
+<td>Oct 12</td>
+<td><strong class="label label-red">INDIGENOUS PEOPLES' DAY</strong></td>
+<td rowspan="2"><strong class="label label-purple">LAB 5</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_07">SVD/LSA and Practice Kaggle Competition</a></td>
 </tr>
 <tr>
-<td>Mar 4</td>
-<td><strong class="label label-red">NO CLASS</strong></td>
-<td></td>
-</tr>
-<tr>
-<td>Mar 7-15</td>
-<td><strong class="label label-red">SPRING RECESS</strong></td>
-<td></td>
-</tr>
-<tr>
-<td>Mar 16</td>
-<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_09/09_SVD.pdf">SVD</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_09/worksheet_09.ipynb">worksheet</a></td>
-<td></td>
+<td>Oct 13</td>
+<td>LSA - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_10/worksheet_10.ipynb">worksheet</a> <strong class="label label-yellow">SUBSTITUTE MONDAY</strong></td>
 </tr>
 </tbody>
 </table>

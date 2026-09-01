@@ -29,7 +29,7 @@ Throughout this project, you should maintain a well organized GitHub.
 Work in groups of 1-5 students.
 
  1. Form groups and submit proposal
- 2. 2 project check-ins (one scheduled in March and another in April).
+ 2. 2 project check-ins (one scheduled in October and another in November).
  3. Submit final report and presentation.
  
 # Project Requirements
@@ -107,7 +107,7 @@ Work in groups of 1-5 students.
 
 ## Project Check-Ins
 
-You will need to schedule **two** check-in meetings with all your group members present. One meeting in March and another in April. To schedule an appointment schedule a time on [Google Calendar](https://calendar.app.google/vw6eL2sCoouekK4eA). **Note:** All appointments must be made with at least 24 hour notice.
+You will need to schedule **two** check-in meetings with all your group members present. One meeting in October and another in November. To schedule an appointment schedule a time on [Google Calendar](https://calendar.app.google/vw6eL2sCoouekK4eA). **Note:** All appointments must be made with at least 24 hour notice.
 
  
 At your check-in please prepare
@@ -119,7 +119,7 @@ At your check-in please prepare
 You will be asked questions about what you have done so far and what you plan to do next (and why).
 
 
-## Project Check-In Rubric (April)
+## Project Check-In Rubric (November)
 
 ### 1. Data Visualizations (15 points)
 
@@ -148,7 +148,7 @@ You will be asked questions about what you have done so far and what you plan to
 
 **Notes**
 - Data collection should be (mostly) finalized at this point. 
-- Like the March check-in, I will ask you basic questions about why you chose the features you ultimately decided to use.
+- Like the October check-in, I will ask you basic questions about why you chose the features you ultimately decided to use.
 - You should be prepared to justify all your data decisions. 
 
 ---
@@ -192,7 +192,7 @@ You will be asked questions about what you have done so far and what you plan to
 
 
  
-## Final Report and Presentation (Due 5/1)
+## Final Report and Presentation (Due 12/9)
  
  The `README.md` in your project repo is the final report.
  

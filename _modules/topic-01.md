@@ -12,18 +12,19 @@ title: Introduction
 </thead>
 <tbody>
 <tr>
-<td>Jan 21</td>
+<td>Sep 2</td>
 <td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_00/00_CS_506_Overview.pdf">Overview</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_00/00_Data_Science_Is_Impossible.pdf">DS is Impossible</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_00/prerequisite_exam.pdf" class="btn btn-outline">worksheet</a></td>
 <td></td>
 </tr>
 <tr>
-<td>Jan 26</td>
-<td><strong class="label label-red">CLASSES CANCELLED</strong></td>
-<td rowspan="2"><strong class="label label-purple">LAB 1</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_01">Git Intro</a></td>
+<td>Sep 7</td>
+<td><strong class="label label-red">LABOR DAY</strong></td>
+<td></td>
 </tr>
 <tr>
-<td>Jan 28</td>
+<td>Sep 9</td>
 <td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_01/01_Git.pdf">Git</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_01/worksheet_01.ipynb">worksheet</a></td>
+<td></td>
 </tr>
 </tbody>
 </table>
