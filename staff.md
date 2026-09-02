@@ -11,6 +11,14 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
+# Post-baccalaureate Academic Fellow
+
+{% assign pafs = site.staffers | where: 'role', 'PAF' %}
+{% for staffer in pafs %}
+{{ staffer }}
+{% endfor %}
+
+
 # Teaching Fellow 
 
 {% assign teaching_fellows = site.staffers | where: 'role', 'Teaching Fellow' %}

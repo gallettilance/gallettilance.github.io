@@ -1,6 +1,6 @@
 ---
 name: Baria Mustafa
-role: Post-baccalaureate Academic Fellow
+role: PAF
 email: bmustafa@bu.edu
 website:
 photo: assets/images/bariapic.jpg
