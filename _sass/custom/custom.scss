@@ -92,6 +92,63 @@ summary {
   }
 }
 
+.rule-game {
+  margin-top: 1.5em;
+}
+
+.rule-game__history {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5em;
+}
+
+.rule-game__history li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.rule-game__form {
+  margin-top: 1.25em;
+}
+
+.rule-game__inputs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75em;
+}
+
+.rule-game__inputs label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+  font-size: 0.9em;
+}
+
+.rule-game__inputs input[type="number"] {
+  width: 6rem;
+  padding: 0.4em 0.5em;
+  background: $body-background-color;
+  color: $body-text-color;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+}
+
+.rule-game #rule-game-choice {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+}
+
+.rule-game__done {
+  margin-top: 1.25em;
+  font-weight: 600;
+}
+
 [style*="--aspect-ratio"] > :first-child {
   width: 100%;
 }

@@ -107,7 +107,7 @@ Work in groups of 1-5 students.
 
 ## Project Check-Ins
 
-You will need to schedule **two** check-in meetings with all your group members present. One meeting in October and another in November. To schedule an appointment schedule a time on [Google Calendar](https://calendar.app.google/vw6eL2sCoouekK4eA). **Note:** All appointments must be made with at least 24 hour notice.
+You will need to schedule **two** check-in meetings with all your group members present. One meeting in October and another in November. To schedule an appointment schedule a time on [Google Calendar](#). **Note:** All appointments must be made with at least 24 hour notice.
 
  
 At your check-in please prepare
