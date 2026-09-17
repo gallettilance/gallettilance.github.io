@@ -13,8 +13,8 @@ title: Clustering
 <tbody>
 <tr>
 <td>Sep 14</td>
-<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_00/00_Data_Science_Is_Impossible.pdf">DS is Impossible</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_03/03_Distance_&_Similarity.pdf">Distance &amp; Similarity</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_03/worksheet_03.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 1</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_02">Data Science Intro and Distance/Similarity</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_02/02_Introduction.pdf">Intro</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_03/03_Distance_&_Similarity.pdf">Distance &amp; Similarity</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_03/worksheet_03.ipynb">worksheet</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 1</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_01">Data Science Intro and Distance/Similarity</a></td>
 </tr>
 <tr>
 <td>Sep 16</td>
