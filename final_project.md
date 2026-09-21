@@ -49,7 +49,7 @@ Work in groups of 1-5 students.
 
  Keep in mind that the scope of this project should reflect two months worth of work. Do not be overly simple or ambitious. The course staff will provide feedback on your proposal. 
 
- **Please form groups of 1-5 students and create a GitHub repo. Submit your GitHub repo URL here: [https://forms.gle/ZswPBRmBXrRyQuLc6](https://forms.gle/ZswPBRmBXrRyQuLc6).**
+ **Please form groups of 1-5 students and create a GitHub repo. Submit your GitHub repo URL on [Gradescope](https://www.gradescope.com/courses/1380746/assignments/8694729).**
  
  Your proposal should be submitted as `README.md` in your project GitHub repo.
 
