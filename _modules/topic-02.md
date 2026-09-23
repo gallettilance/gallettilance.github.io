@@ -22,12 +22,12 @@ title: Clustering
 </tr>
 <tr>
 <td>Sep 21</td>
-<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_05/05_Kmeans++.pdf">K-means++</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_06/06_Hierarchical_Clustering.pdf">Hierarchical Clustering</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_05/worksheet_05.ipynb">worksheet</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_05/05_Kmeans++.pdf">K-means++</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_05/worksheet_05.ipynb">worksheet</a></td>
 <td rowspan="2"><strong class="label label-purple">LAB 2</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_04">K-Means++ and Hierarchical Clustering</a></td>
 </tr>
 <tr>
 <td>Sep 23</td>
-<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_07/07_Density_Based_Clustering.pdf">Density Based Clustering</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_07/worksheet_07.ipynb">worksheet</a></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_07/07_Density_Based_Clustering.pdf">Density Based Clustering</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_06/06_Hierarchical_Clustering.pdf">Hierarchical Clustering</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_07/worksheet_07.ipynb">worksheet</a></td>
 </tr>
 <tr>
 <td>Sep 28</td>
