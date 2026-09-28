@@ -49,7 +49,7 @@ Work in groups of 1-5 students.
 
  Keep in mind that the scope of this project should reflect two months worth of work. Do not be overly simple or ambitious. The course staff will provide feedback on your proposal. 
 
- **Please form groups of 1-5 students and create a GitHub repo. Submit your GitHub repo URL here: [https://forms.gle/ZswPBRmBXrRyQuLc6](https://forms.gle/ZswPBRmBXrRyQuLc6).**
+ **Please form groups of 1-5 students and create a GitHub repo. Submit your GitHub repo URL on [Gradescope](https://www.gradescope.com/courses/1380746/assignments/8694729).**
  
  Your proposal should be submitted as `README.md` in your project GitHub repo.
 
@@ -107,7 +107,7 @@ Work in groups of 1-5 students.
 
 ## Project Check-Ins
 
-You will need to schedule **two** check-in meetings with all your group members present. One meeting in October and another in November. To schedule an appointment schedule a time on [Google Calendar](https://calendar.app.google/vw6eL2sCoouekK4eA). **Note:** All appointments must be made with at least 24 hour notice.
+You will need to schedule **two** check-in meetings with all your group members present. One meeting in October and another in November. To schedule an appointment schedule a time on [Google Calendar](#). **Note:** All appointments must be made with at least 24 hour notice.
 
  
 At your check-in please prepare
