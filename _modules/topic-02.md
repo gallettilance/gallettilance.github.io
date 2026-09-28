@@ -23,7 +23,7 @@ title: Clustering
 <tr>
 <td>Sep 21</td>
 <td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_05/05_Kmeans++.pdf">K-means++</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_06/06_Hierarchical_Clustering.pdf">Hierarchical Clustering</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_05/worksheet_05.ipynb">worksheet</a></td>
-<td rowspan="2"><strong class="label label-purple">LAB 2</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_04">K-Means++ and Hierarchical Clustering</a></td>
+<td rowspan="2"><strong class="label label-purple">LAB 2</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_02">K-Means</a></td>
 </tr>
 <tr>
 <td>Sep 23</td>
