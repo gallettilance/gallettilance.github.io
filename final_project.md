@@ -126,7 +126,7 @@ You will be asked questions about what you have done so far and what you plan to
 
 | Criteria | Points |
 |--------|--------|
-| At least one relevant visualization is presented | 5 |s
+| At least one relevant visualization is presented | 5 |
 | Visualizations are clear and readable (well-labeled) | 5 |
 | Visualizations show supports a important claim | 5 |
 
