@@ -27,7 +27,7 @@ title: Singular Value Decomposition
 </tr>
 <tr>
 <td>Oct 13</td>
-<td>LSA - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_10/worksheet_10.ipynb">worksheet</a> <strong class="label label-yellow">SUBSTITUTE MONDAY</strong></td>
+<td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_10/09_Latent_Semantic_Analysis.pdf">LSA</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_10/worksheet_10.ipynb">worksheet</a> <strong class="label label-yellow">SUBSTITUTE MONDAY</strong></td>
 </tr>
 </tbody>
 </table>
