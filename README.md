@@ -89,6 +89,8 @@ Written midterms are cumulative and scored to reward learning over time.
 
 This means improving later can recover from an earlier poor performance, while consistency is still rewarded.
 
+Replacement is meant to reflect progress. Whether a later score counts as progress is up to the instructor. A missed exam, for example, is carried forward by weighted average rather than replaced.
+
 ### Applied Midterm
 
 The applied midterm will be a Kaggle data science competition among students in the class with a live leaderboard. You will submit predictions based on a training dataset and meet benchmarks to earn points.

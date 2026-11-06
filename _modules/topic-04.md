@@ -39,9 +39,5 @@ title: Classification
 <td><a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_14/14_Support_Vector_Machines.pdf">Support Vector Machines (non linear)</a> + <a href="https://github.com/gallettilance/CS506-Fall2026/raw/main/lecture_15/15_Recommender_Systems.pdf">Recommender Systems</a> - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
 <td rowspan="2"><strong class="label label-purple">LAB 8</strong> <a href="https://github.com/gallettilance/CS506-Fall2026/tree/main/labs/lab_09">Recommender Systems and Linear SVMs</a></td>
 </tr>
-<tr>
-<td>Nov 4</td>
-<td>APPLIED MIDTERM LAUNCH - <a href="https://github.com/gallettilance/CS506-Fall2026/blob/main/lecture_14/worksheet_14.ipynb">worksheet</a></td>
-</tr>
 </tbody>
 </table>
